@@ -1,4 +1,9 @@
 import Head from 'next/head'
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+import classNames from "classnames";
+
+import carouselProps from "/public/c1.json"
 
 export default function Home() {
   return (
@@ -15,7 +20,6 @@ export default function Home() {
             Next.js!
           </a>
         </h1>
-
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
           <a
             href="https://nextjs.org/docs"
@@ -37,11 +41,49 @@ export default function Home() {
             </p>
           </a>
         </div>
-        <iframe
-          className="border-4 w-full h-screen rounded-xl"
-          src="http://localhost:3003/articles"
+        <Carousel className='w-1/2 border-8 rounded-3xl' 
+          autoPlay={true} 
+          infiniteLoop={true}
+          stopOnHover={true} 
+          showThumbs={false} 
+          showStatus={false} 
+          interval={5000}
+          transitionTime={1000}
         >
-        </iframe>
+          { carouselProps.carouselItems.map((currentItem, index) =>{
+            return (
+            <a 
+              href="https://en.wikipedia.org/wiki/Special:Random" 
+              target="_blank"
+              key={index}>
+              <div 
+              className={classNames(
+                // Common classes
+                "flex flex-col justify-start md:justify-between md:items-center gap-10",
+                {
+                  "lg:flex-row": index % 2 === 0,
+                  "lg:flex-row-reverse": index % 2 === 1,
+                }
+              )}
+              >
+                <div className='rounded-xl w-full'>
+                  <img className='rounded-xl cover'
+                    src={currentItem.imageUrl}
+                  >
+                  </img>
+                  <p className='legend'>
+                    Some text here 
+                    maybe serveral lines
+                    this is third
+                  </p>
+                </div>
+              </div>
+            </a>
+            )
+
+          })}
+
+        </Carousel>
       </main>
     </div>
   )
