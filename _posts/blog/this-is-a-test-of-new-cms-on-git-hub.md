@@ -10,6 +10,4 @@ rating: 4
 1. item one
 2. item two
 
-
-
-![](https://source.unsplash.com/F7-qfLPUAi8)
+![Budha statutes](https://source.unsplash.com/F7-qfLPUAi8 "Title for mid page picture")
