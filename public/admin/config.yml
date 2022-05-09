@@ -42,6 +42,12 @@ collections:
       - label: "Metadata"
         name: "metadata"
         widget: "object"
+        fields:
+            - {label: "Meta Title", name: "metaTitle", widget: "string"}
+            - {label: "metaDescription:", name: "metaDescription:", widget: "string"}
+            - {label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
+            - {label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
+            - {label: "shareImage:", name: "shareImage:", widget: "image"}
       - {label: "Status", name: "status", widget: "hidden", default: "published"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
