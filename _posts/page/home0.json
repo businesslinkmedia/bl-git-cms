@@ -1,0 +1,24 @@
+{
+  "layout": "page",
+  "status": "published",
+  "title": "Some Page",
+  "slug": "home0",
+  "contentSections": [
+    {
+      "type": "wideHero",
+      "__component": "sections.wide-hero"
+    },
+    {
+      "type": "wideVideo",
+      "__component": "sections.wide-video"
+    },
+    {
+      "type": "featuredRow",
+      "__component": "sections.feature-rows-group"
+    },
+    {
+      "type": "richText",
+      "__component": "sections.rich-text"
+    }
+  ]
+}
