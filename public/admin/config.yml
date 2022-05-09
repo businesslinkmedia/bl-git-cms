@@ -19,22 +19,22 @@ collections:
         name: "contentSections"
         widget: "list"
         types:
-          - label: "featuredRow"
+          - label: "Featured Row"
             name: "featuredRow"
             widget: "object"
             fields:
               - {label:"Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
-          - label: "wideHero"
+          - label: "Wide Hero"
             name: "wideHero"
             widget: "object"
             fields:
               - {label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
-          - label: "wideVideo"
+          - label: "Wide Video"
             name: "wideVideo"
             widget: "object"
             fields:
               - {label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
-          - label: "richText"
+          - label: "Rich Text"
             name: "richText"
             widget: "object"
             fields:
