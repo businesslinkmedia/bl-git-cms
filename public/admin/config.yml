@@ -6,9 +6,10 @@ media_folder: "public/uploads" # Media files will be stored in the repo under im
 public_folder: "/uploads" # The src attribute for uploaded media
 collections:
   - name: "page" 
-    label: "Page"
-    folder: "_posts/page"
     create: true
+    folder: "_posts/page"
+    format: 'json'
+    label: "Page"
     slug: "{{fields.slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
