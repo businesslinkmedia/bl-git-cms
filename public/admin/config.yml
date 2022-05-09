@@ -5,6 +5,39 @@ logo_url: 'https://www.aviertechnologies.com/assets/avier-logo.png'
 media_folder: "public/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "/uploads" # The src attribute for uploaded media
 collections:
+  - name: "page" 
+    label: "Page"
+    folder: "_posts/page"
+    create: true
+    slug: "{{fields.slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - label: "Content Sections"
+        name: "contentSections"
+        widget: "list"
+        types:
+          - label: "featuredRow"
+            widget: "object"
+            fields:
+              - {label:"Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
+          - label: "wideHero"
+            widget: "object"
+            fields:
+              - {label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
+          - label: "wideVideo"
+            widget: "object"
+            fields:
+              - {label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
+          - label: "richText"
+            widget: "object"
+            fields:
+              - {label:"Component", name: "__component", widget: "hidden", default: "sections.rich-text"}
+      - label: "Metadata"
+        name: "metadata"
+        widget: "object"
+      - {label: "Status", name: "status", widget: "hidden", default: "published"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "_posts/blog" # The path to the folder where the documents are stored
