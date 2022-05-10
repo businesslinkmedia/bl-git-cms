@@ -16,14 +16,14 @@ collections:
         name: "metadata"
         widget: "object"
         fields:
-            - {label: "Meta Title", name: "metaTitle", widget: "string"}
-            - {label: "metaDescription:", name: "metaDescription:", widget: "text"}
-            - {label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
-            - {label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
-            - {label: "shareImage:", name: "shareImage:", widget: "image"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "string"}
+            - {required: false, label: "Meta Title", name: "metaTitle", widget: "string"}
+            - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
+            - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
+            - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
+            - {required: false, label: "shareImage:", name: "shareImage:", widget: "image"}
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: false, label: "Slug", name: "slug", widget: "string"}
       - label: "Content Sections"
         name: "contentSections"
         widget: "list"
@@ -33,108 +33,108 @@ collections:
             name: "featuredRow"
             widget: "object"
             fields:
-              - {label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
+              - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
               - label: "Features"
                 name: "features"
                 widget: "list" 
                 default: []
                 fields:
-                  - {label: "title", name: "title", widget: "string"}
-                  - {label: "description", name: "description", widget: "text"}
+                  - {required: false, label: "title", name: "title", widget: "string"}
+                  - {required: false, label: "description", name: "description", widget: "text"}
                   - label: "target link"
                     name: "link"
                     widget: "object"
                     fields:
-                      - {label: "url", name: "url", widget: "string"}
-                      - {label: "newTab", name: "newTab", widget: "boolean", default: false}
-                      - {label: "text", name: "text", widget: "string"}
-                  - {label: "image", name: "image", widget: "image"}
+                      - {required: false, label: "url", name: "url", widget: "string"}
+                      - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+                      - {required: false, label: "text", name: "text", widget: "string"}
+                  - {required: false, label: "image", name: "image", widget: "image"}
           # Image Gallery Content Section
           - label: "Image Gallery"
             name: "imageGallery"
             widget: "object"
             fields:
-              - {label: "Component", name: "__component", widget: "hidden", default: "sections.image-gallery"}
-              - {label: "Title", name: "Title", widget: "string"}
-              - {label: "ImagesPerLine", name: "ImagesPerLine", widget: "number"}
+              - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.image-gallery"}
+              - {required: false, label: "Title", name: "Title", widget: "string"}
+              - {required: false, label: "ImagesPerLine", name: "ImagesPerLine", widget: "number"}
               - label: "imageWithLink"
                 name: "imageWithLink"
                 widget: "list"
                 fields:
-                  - {label: "imageUrl", name: "imageUrl", widget: "image"}
+                  - {required: false, label: "imageUrl", name: "imageUrl", widget: "image"}
                   - label: "targetLink"
                     name: "targetLink"
                     widget: "object"
                     fields:
-                      - {label: "url", name: "url", widget: "string"}
-                      - {label: "newTab", name: "newTab", widget: "boolean", default: false}
-                      - {label: "text", name: "text", widget: "string"}
+                      - {required: false, label: "url", name: "url", widget: "string"}
+                      - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+                      - {required: false, label: "text", name: "text", widget: "string"}
           # Rich Text Content Section
           - label: "Rich Text"
             name: "richText"
             widget: "object"
             fields:
-              - {label: "Component", name: "__component", widget: "hidden", default: "sections.rich-text"}
-              - {label: "Content", name: "content", widget: "text"}
+              - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.rich-text"}
+              - {required: false, label: "Content", name: "content", widget: "text"}
           # Video Landing Page Content Section
           - label: "Video Landing Page"
             name: "videoLandingPage"
             widget: "object"
             fields:
-              - {label: "Component", name: "__component", widget: "hidden", default: "sections.video-landing-page"}
-              - {label: "title", name: "title", widget: "string"}
-              - {label: "label", name: "label", widget: "string"}
-              - {label: "description", name: "description", widget: "text"}
-              - {label: "smallTextWithLink", name: "smallTextWithLink", widget: "text"}
+              - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.video-landing-page"}
+              - {required: false, label: "title", name: "title", widget: "string"}
+              - {required: false, label: "label", name: "label", widget: "string"}
+              - {required: false, label: "description", name: "description", widget: "text"}
+              - {required: false, label: "smallTextWithLink", name: "smallTextWithLink", widget: "text"}
               - label: "videoURLs"
                 name: "videoURLs"
                 widget: "list"
                 fields:
-                  - {label: "url", name: "url", widget: "string"}
-                  - {label: "newTab", name: "newTab", widget: "boolean", default: false}
-                  - {label: "text", name: "text", widget: "string"}
+                  - {required: false, label: "url", name: "url", widget: "string"}
+                  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+                  - {required: false, label: "text", name: "text", widget: "string"}
               - label: "InlineFeatures"
                 name: "InlineFeatures"
                 widget: "list"
                 fields:
-                  - {label: "title", name: "title", widget: "string"}
-                  - {label: "description", name: "description", widget: "text"}
-                  - {label: "Target url", name: "url", widget: "string"}
-                  - {label: "image", name: "image", widget: "image"}
+                  - {required: false, label: "title", name: "title", widget: "string"}
+                  - {required: false, label: "description", name: "description", widget: "text"}
+                  - {required: false, label: "Target url", name: "url", widget: "string"}
+                  - {required: false, label: "image", name: "image", widget: "image"}
           # Wide Hero Content Section
           - label: "Wide Hero"
             name: "wideHero"
             widget: "object"
             fields:
-              - {label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
+              - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
           # Wide Video Content Section
           - label: "Wide Video"
             name: "wideVideo"
             widget: "object"
             fields:
-              - {label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
-              - {label: "title", name: "title", widget: "string"}
-              - {label: "label", name: "label", widget: "string"}
-              - {label: "description", name: "description", widget: "text"}
-              - {label: "youtubeEmbedUrl", name: "youtubeEmbedUrl", widget: "string"}
-              - {label: "videoUrl", name: "videoUrl", widget: "string"}
-              - {label: "richText", name: "richText", widget: "text"}
-              - {label: "video", name: "video", widget: "hidden", default:""}
+              - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
+              - {required: false, label: "title", name: "title", widget: "string"}
+              - {required: false, label: "label", name: "label", widget: "string"}
+              - {required: false, label: "description", name: "description", widget: "text"}
+              - {required: false, label: "youtubeEmbedUrl", name: "youtubeEmbedUrl", widget: "string"}
+              - {required: false, label: "videoUrl", name: "videoUrl", widget: "string"}
+              - {required: false, label: "richText", name: "richText", widget: "text"}
+              - {required: false, label: "video", name: "video", widget: "hidden", default:""}
 
 
-      - {label: "Status", name: "status", widget: "hidden", default: "published"}
+      - {required: false, label: "Status", name: "status", widget: "hidden", default: "published"}
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "_posts/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: false, label: "Publish Date", name: "date", widget: "datetime"}
+      - {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {required: false, label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {required: false, label: "Body", name: "body", widget: "markdown"}
   - name: "article" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
     label_singular: "Article"
@@ -143,9 +143,9 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Excerpt", name: "excerpt", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "article"}
+      - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: false, label: "Publish Date", name: "date", widget: "datetime"}
+      - {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {required: false, label: "Excerpt", name: "excerpt", widget: "markdown"}
+      - {required: false, label: "Body", name: "body", widget: "markdown"}
