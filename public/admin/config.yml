@@ -15,18 +15,20 @@ collections:
       - label: "Metadata"
         name: "metadata"
         widget: "object"
+        required: false
         fields:
-            - {required: false, label: "Meta Title", name: "metaTitle", widget: "string"}
+            - {label: "Meta Title", name: "metaTitle", widget: "string"}
             - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
             - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
             - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
             - {required: false, label: "shareImage:", name: "shareImage:", widget: "image"}
       - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {required: false, label: "Title", name: "title", widget: "string"}
-      - {required: false, label: "Slug", name: "slug", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - label: "Content Sections"
         name: "contentSections"
         widget: "list"
+        typeKey: "{{types.name}}"
         types:
           # Featured Row Content Section
           - label: "Featured Row"
