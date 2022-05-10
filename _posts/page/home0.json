@@ -94,7 +94,7 @@
       ]
     },
     {
-      "type": "RichText",
+      "type": "richText",
       "__component": "sections.rich-text",
       "content": "### 40 Under Forty Highlights in 2021"
     },
@@ -110,7 +110,7 @@
       "video": null
     },
     {
-      "type": "RichText",
+      "type": "richText",
       "__component": "sections.rich-text",
       "content": "### Highlights of our previous publications:"
     },
