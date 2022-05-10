@@ -2,7 +2,6 @@
   "status": "published",
   "title": "Home",
   "slug": "home0",
-  "locale": "en",
   "metadata": {
     "metaTitle": "Business Link Media Group",
     "metaDescription": "Canada's Leading Digital Marketing Specialist",
@@ -78,7 +77,11 @@
         {
           "title": "Mission Statement",
           "description": "We create lasting connections between organizations and their stakeholders, and help them create a unique digital identity through traditional and modern marketing strategies.",
-          "link": null,
+          "link": {
+            "url": "/publications/BusinessLink/2022/3",
+            "newTab": false,
+            "text": "Read our May digital publication online"
+          },
           "image": "/uploads/covers_1_aeb34895cb.png"
         },
         {
