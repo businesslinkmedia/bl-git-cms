@@ -55,19 +55,19 @@
           "title": "Blockchain Business Solutions",
           "description": "Blockchain technology and its applications in business world: DAOs, NFTs, Smart Contracts, Tokenomics and much more...",
           "url": "/blockchain",
-          "image": "/uploads/blockchain_10001_d9a2f1ac27.svg"
+          "image": ""
         },
         {
           "title": "Digital Marketing",
           "description": "Creative content\n",
           "url": "/digital-marketing",
-          "image": "/uploads/viral_marketing_svgrepo_com_14ddd340f1.svg"
+          "image": ""
         },
         {
           "title": "Events",
           "description": "Prestigious 40 Under Forty Business Achievement Awards ",
           "url": "/events-all",
-          "image": "/uploads/schedule_events_svgrepo_com_ee6283dd13.svg"
+          "image": ""
         }
       ]
     },
@@ -79,7 +79,7 @@
           "title": "Mission Statement",
           "description": "We create lasting connections between organizations and their stakeholders, and help them create a unique digital identity through traditional and modern marketing strategies.",
           "link": null,
-          "image": "/uploads/why_not_today_small_size_a27bfc044a.jpg"
+          "image": ""
         },
         {
           "title": "About Us",
@@ -89,7 +89,7 @@
             "newTab": false,
             "text": "Read our May digital publication online"
           },
-          "image": "/uploads/May_Cover_8ed72374fb.png"
+          "image": ""
         }
       ]
     },
@@ -121,7 +121,7 @@
       "ImagesPerLine": 6,
       "imageWithLink": [
         {
-          "imageUrl": "/uploads/BL_Apr_2022_0405_final_Page_01_b4e5fd7c0c.jpg",
+          "imageUrl": "",
           "targetLink": {
             "url": "/publications/BusinessLink/2022/4",
             "newTab": false,
