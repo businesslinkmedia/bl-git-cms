@@ -1,31 +1,152 @@
 {
-  "layout": "page",
   "status": "published",
-  "title": "Some Page",
-  "slug": "home0",
+  "slug": "",
+  "locale": "en",
+  "metadata": {
+    "metaTitle": "Business Link Media Group",
+    "metaDescription": "Canada's Leading Digital Marketing Specialist",
+    "twitterCardType": "summary",
+    "twitterUsername": null,
+    "shareImage": "/uploads/covers_1_aeb34895cb.png"
+  },
   "contentSections": [
     {
-      "type": "imageGallery",
-      "__component": "sections.image-gallery",
-      "ImagesPerLine": 4,
-      "imageWithLink": [
+      "__component": "sections.video-landing-page",
+      "title": "Business Link Media Group",
+      "label": "Your Link to Success",
+      "description": "",
+      "smallTextWithLink": "",
+      "videoURLs": [
         {
-          "targetLink": {
-            "newTab": false,
-            "url": "/#",
-            "text": "some text"
-          },
-          "imageUrl": "/uploads/thumbnail_covers_1_aeb34895cb.png"
+          "url": "https://user-images.githubusercontent.com/50277101/126419782-7c68f424-a7b2-49ef-ba31-610941d24ceb.mp4",
+          "newTab": false,
+          "text": "NF rainbow video"
+        },
+        {
+          "url": "https://user-images.githubusercontent.com/96355795/149680008-56db04a7-5bb6-455e-b2b0-e454d359eef0.mp4",
+          "newTab": false,
+          "text": "40u40-16th-cocktail session"
+        },
+        {
+          "url": "https://user-images.githubusercontent.com/96355795/149679229-8cedb5e3-7528-46f9-884e-03bc85773b4c.mp4",
+          "newTab": false,
+          "text": "Award ceremony"
+        },
+        {
+          "url": "https://user-images.githubusercontent.com/96355795/149674925-7d068ec3-e9ed-4581-b8b0-93493c901525.mp4",
+          "newTab": false,
+          "text": "Hamilton Virtual Event 2021"
+        },
+        {
+          "url": "https://user-images.githubusercontent.com/96355795/149680265-a89d21c6-022c-4327-b1f6-e3801dc02bbe.mp4",
+          "newTab": false,
+          "text": "VR Opening Remark"
+        },
+        {
+          "url": "https://user-images.githubusercontent.com/96355795/150161264-b218468b-2fae-4a77-ad62-b7a8e30b0668.mp4",
+          "newTab": false,
+          "text": "NFT-Neptune"
         }
       ],
-      "Title": "images"
-    }
+      "InlineFeatures": [
+        {
+          "title": "Blockchain Business Solutions",
+          "description": "Blockchain technology and its applications in business world: DAOs, NFTs, Smart Contracts, Tokenomics and much more...",
+          "url": "/blockchain",
+          "image": "/uploads/blockchain_10001_d9a2f1ac27.svg"
+        },
+        {
+          "title": "Digital Marketing",
+          "description": "Creative content\n",
+          "url": "/digital-marketing",
+          "image": "/uploads/viral_marketing_svgrepo_com_14ddd340f1.svg"
+        },
+        {
+          "title": "Events",
+          "description": "Prestigious 40 Under Forty Business Achievement Awards ",
+          "url": "/events-all",
+          "image": "/uploads/schedule_events_svgrepo_com_ee6283dd13.svg",
+        }
+      ]
+    },
+    {
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "title": "Mission Statement",
+          "description": "We create lasting connections between organizations and their stakeholders, and help them create a unique digital identity through traditional and modern marketing strategies.",
+          "link": null,
+          "image": "/uploads/why_not_today_small_size_a27bfc044a.jpg"
+        },
+        {
+          "title": "About Us",
+          "description": "Founded in 2003, Business Link Media Group has been an industry leader in the publishing of B2B direct mail newspapers, magazines, specialty publications, and event programs, as well as marketing through social media and online platforms.\n\nIn 2020 Business Link added digital multi-media marketing services including Blockchain solutions, NFTs, Cryptos, Web3.0, DAOs (Decentralized Autonomous Organization), and Metaverse.\n\nOur traditional and modern media platforms are designed to educate, inform, and connect your organization with the stakeholders that matter to you. Our multitude of resources and networks give your business the opportunity to promote locally achieve global exposure.",
+          "link": {
+            "url": "/publications/BusinessLink/2022/5",
+            "newTab": false,
+            "text": "Read our May digital publication online"
+          },
+          "image": "/uploads/May_Cover_8ed72374fb.png"
+        }
+      ]
+    },
+    {
+      "__component": "sections.rich-text",
+      "content": "### 40 Under Forty Highlights in 2021"
+    },
+    {
+      "__component": "sections.wide-video",
+      "title": null,
+      "label": null,
+      "description": null,
+      "youtubeEmbedUrl": "https://youtu.be/PyziCu-4jyE",
+      "videoUrl": null,
+      "richText": null,
+      "video": null
+    },
+    {
+      "__component": "sections.rich-text",
+      "content": "### Highlights of our previous publications:"
+    },
+    {
+      "__component": "sections.image-gallery",
+      "Title": null,
+      "ImagesPerLine": 6,
+      "imageWithLink": [
+        {
+          "imageUrl": "/uploads/BL_Apr_2022_0405_final_Page_01_b4e5fd7c0c.jpg",
+          "targetLink": {
+            "url": "/publications/BusinessLink/2022/4",
+            "newTab": false,
+            "text": "BL April 22"
+          }
+        },
+        {
+          "imageUrl": null,
+          "targetLink": {
+            "url": "https://issuu.com/businesslinkmediagroup/docs/vm2016_28digital_29",
+            "newTab": false,
+            "text": "Vintage-Wedding"
+          },
+        },
+        {
+          "imageUrl": null,
+          "targetLink": {
+            "url": "https://issuu.com/businesslinkmediagroup/docs/hon-2017",
+            "newTab": false,
+            "text": "Heart of Niagara"
+          },
+        },
+        {
+          "imageUrl": null,
+          "targetLink": {
+            "url": "https://issuu.com/businesslinkmediagroup/docs/made_in_niagara_digital_eng-ch-issuu",
+            "newTab": false,
+            "text": "Made in Niagara-2019"
+          },
+        }
+      ]
+    },
   ],
-  "metadata": {
-    "metaTitle": "test",
-    "metaDescription:": "test",
-    "twitterCardType:": "summary",
-    "twitterUsername:": "@test",
-    "shareImage:": "/uploads/thumbnail_covers_1_aeb34895cb.png"
-  }
+  "localizations": []
 }
