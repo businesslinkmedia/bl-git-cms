@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "twitterCardType:": "summary"
+  },
+  "layout": "page",
+  "status": "published",
+  "contentSections": [
+    {
+      "type": "featuredRow",
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "link": {
+            "newTab": false,
+            "url": "/test"
+          }
+        }
+      ]
+    }
+  ],
+  "slug": "page2",
+  "title": "page2"
+}
