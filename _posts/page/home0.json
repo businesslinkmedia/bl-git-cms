@@ -5,24 +5,27 @@
   "slug": "home0",
   "contentSections": [
     {
-      "type": "wideHero",
-      "__component": "sections.wide-hero"
-    },
-    {
-      "type": "wideVideo",
-      "__component": "sections.wide-video"
-    },
-    {
-      "type": "featuredRow",
-      "__component": "sections.feature-rows-group"
-    },
-    {
-      "type": "richText",
-      "__component": "sections.rich-text"
-    },
-    {
-      "type": "wideVideo",
-      "__component": "sections.wide-video"
+      "type": "imageGallery",
+      "__component": "sections.image-gallery",
+      "ImagesPerLine": 4,
+      "imageWithLink": [
+        {
+          "targetLink": {
+            "newTab": false,
+            "url": "/#",
+            "text": "some text"
+          },
+          "imageUrl": "https://source.unsplash.com/lhDjusLtpP4"
+        }
+      ],
+      "Title": "images"
     }
-  ]
+  ],
+  "metadata": {
+    "metaTitle": "test",
+    "metaDescription:": "test",
+    "twitterCardType:": "summary",
+    "twitterUsername:": "@test",
+    "shareImage:": "https://source.unsplash.com/VWc1eXzjSyI"
+  }
 }
