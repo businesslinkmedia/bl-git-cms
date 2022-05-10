@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "twitterCardType:": "summary",
+    "metaTitle": "meta"
+  },
+  "layout": "page",
+  "status": "published",
+  "title": "test3",
+  "slug": "test2",
+  "contentSections": [
+    {
+      "{{types.name}}": "featuredRow",
+      "__component": "sections.feature-rows-group",
+      "features": []
+    }
+  ]
+}
