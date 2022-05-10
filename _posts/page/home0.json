@@ -128,7 +128,7 @@
             "url": "https://issuu.com/businesslinkmediagroup/docs/vm2016_28digital_29",
             "newTab": false,
             "text": "Vintage-Wedding"
-          },
+          }
         },
         {
           "imageUrl": null,
@@ -136,7 +136,7 @@
             "url": "https://issuu.com/businesslinkmediagroup/docs/hon-2017",
             "newTab": false,
             "text": "Heart of Niagara"
-          },
+          }
         },
         {
           "imageUrl": null,
@@ -144,10 +144,10 @@
             "url": "https://issuu.com/businesslinkmediagroup/docs/made_in_niagara_digital_eng-ch-issuu",
             "newTab": false,
             "text": "Made in Niagara-2019"
-          },
+          }
         }
       ]
-    },
+    }
   ],
   "localizations": []
 }
