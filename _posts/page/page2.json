@@ -6,7 +6,7 @@
   "status": "published",
   "contentSections": [
     {
-      "type": "featuredRow",
+      "contentSectionType": "featuredRow",
       "__component": "sections.feature-rows-group",
       "features": [
         {

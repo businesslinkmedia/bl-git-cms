@@ -12,7 +12,7 @@
   },
   "contentSections": [
     {
-      "type": "videoLandingPage",
+      "contentSectionType": "videoLandingPage",
       "__component": "sections.video-landing-page",
       "title": "Business Link Media Group",
       "label": "Your Link to Success",
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "type": "featuredRow",
+      "contentSectionType": "featuredRow",
       "__component": "sections.feature-rows-group",
       "features": [
         {
@@ -94,12 +94,12 @@
       ]
     },
     {
-      "type": "richText",
+      "contentSectionType": "richText",
       "__component": "sections.rich-text",
       "content": "### 40 Under Forty Highlights in 2021"
     },
     {
-      "type": "wideVideo",
+      "contentSectionType": "wideVideo",
       "__component": "sections.wide-video",
       "title": null,
       "label": null,
@@ -110,12 +110,12 @@
       "video": null
     },
     {
-      "type": "richText",
+      "contentSectionType": "richText",
       "__component": "sections.rich-text",
       "content": "### Highlights of our previous publications:"
     },
     {
-      "type": "imageGallery",
+      "contentSectionType": "imageGallery",
       "__component": "sections.image-gallery",
       "Title": null,
       "ImagesPerLine": 6,

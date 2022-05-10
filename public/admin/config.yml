@@ -28,7 +28,7 @@ collections:
       - label: "Content Sections"
         name: "contentSections"
         widget: "list"
-        typeKey: "{{types.name}}"
+        typeKey: "contentSectionType"
         types:
           # Featured Row Content Section
           - label: "Featured Row"

@@ -9,7 +9,7 @@
   "slug": "test2",
   "contentSections": [
     {
-      "{{types.name}}": "featuredRow",
+      "contentSectionType": "featuredRow",
       "__component": "sections.feature-rows-group",
       "features": []
     }
