@@ -1,0 +1,234 @@
+{
+    "created_at": "2021-06-12T19:49:26.566Z",
+    "favicon": {
+        "alternativeText": "",
+        "caption": "",
+        "created_at": "2021-07-18T12:53:36.573Z",
+        "ext": ".ico",
+        "formats": null,
+        "hash": "favicon_85cf272447",
+        "height": null,
+        "id": 46,
+        "mime": "image/x-icon",
+        "name": "favicon.ico",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "size": 4.29,
+        "updated_at": "2021-07-18T12:53:36.592Z",
+        "url": "/uploads/favicon_85cf272447.ico",
+        "width": null
+    },
+    "footer": {
+        "columns": [
+            {
+                "id": 1,
+                "links": [
+                    {
+                        "id": 3,
+                        "newTab": false,
+                        "text": "Blockchain Business Solutions",
+                        "url": "/blockchain"
+                    },
+                    {
+                        "id": 6,
+                        "newTab": false,
+                        "text": "Digital Marketing",
+                        "url": "/digital-marketing"
+                    },
+                    {
+                        "id": 80,
+                        "newTab": false,
+                        "text": "Events",
+                        "url": "/events-all"
+                    }
+                ],
+                "title": "Services"
+            },
+            {
+                "id": 4,
+                "links": [
+                    {
+                        "id": 27,
+                        "newTab": true,
+                        "text": "Facebook",
+                        "url": "https://www.facebook.com/BusinessLinkMedia/"
+                    },
+                    {
+                        "id": 81,
+                        "newTab": true,
+                        "text": "Instagram",
+                        "url": "https://www.instagram.com/businesslinkmedia/"
+                    },
+                    {
+                        "id": 9,
+                        "newTab": true,
+                        "text": "LinkedIn",
+                        "url": "https://www.linkedin.com/company/the-business-link-newspaper/"
+                    },
+                    {
+                        "id": 10,
+                        "newTab": true,
+                        "text": "Twitter",
+                        "url": "https://twitter.com/thebusinesslink"
+                    },
+                    {
+                        "id": 28,
+                        "newTab": true,
+                        "text": "YouTube",
+                        "url": "https://www.youtube.com/channel/UCGqijciraZrrCrmK0QvlWog"
+                    }
+                ],
+                "title": "Social"
+            }
+        ],
+        "id": 1,
+        "logo": {
+            "alternativeText": "logo",
+            "caption": null,
+            "created_at": "2021-06-12T19:49:29.086Z",
+            "ext": ".png",
+            "formats": {
+                "thumbnail": {
+                    "ext": ".png",
+                    "hash": "thumbnail_logo_e28532b75e",
+                    "height": 156,
+                    "mime": "image/png",
+                    "name": "thumbnail_logo.png",
+                    "path": null,
+                    "size": 30.08,
+                    "url": "/uploads/thumbnail_logo_e28532b75e.png",
+                    "width": 173
+                }
+            },
+            "hash": "logo_e28532b75e",
+            "height": 250,
+            "id": 6,
+            "mime": "image/png",
+            "name": "logo.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 32.67,
+            "updated_at": "2021-06-12T19:49:33.425Z",
+            "url": "/uploads/logo_e28532b75e.png",
+            "width": 278
+        },
+        "smallText": "\u00a9 Copyright Business Link Media Group"
+    },
+    "id": 1,
+    "locale": "en",
+    "localizations": [],
+    "metaTitleSuffix": "Business Link Media Group",
+    "metadata": {
+        "id": 1,
+        "metaDescription": "Business Link Media Group",
+        "metaTitle": "Business Link Media Group",
+        "shareImage": {
+            "alternativeText": "",
+            "caption": "",
+            "created_at": "2022-01-16T04:56:50.381Z",
+            "ext": ".png",
+            "formats": {
+                "thumbnail": {
+                    "ext": ".png",
+                    "hash": "thumbnail_covers_1_aeb34895cb",
+                    "height": 156,
+                    "mime": "image/png",
+                    "name": "thumbnail_covers-1.png",
+                    "path": null,
+                    "size": 104.16,
+                    "url": "/uploads/thumbnail_covers_1_aeb34895cb.png",
+                    "width": 233
+                }
+            },
+            "hash": "covers_1_aeb34895cb",
+            "height": 181,
+            "id": 117,
+            "mime": "image/png",
+            "name": "covers-1.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 112.77,
+            "updated_at": "2022-01-16T04:56:50.396Z",
+            "url": "/uploads/covers_1_aeb34895cb.png",
+            "width": 270
+        },
+        "twitterCardType": "summary",
+        "twitterUsername": "TheBusinessLink"
+    },
+    "navbar": {
+        "button": null,
+        "id": 1,
+        "links": [
+            {
+                "id": 29,
+                "newTab": false,
+                "text": "Home",
+                "url": "/"
+            },
+            {
+                "id": 62,
+                "newTab": false,
+                "text": "Blockchain Business Solutions",
+                "url": "/blockchain"
+            },
+            {
+                "id": 35,
+                "newTab": false,
+                "text": "Digital Marketing",
+                "url": "/digital-marketing"
+            },
+            {
+                "id": 30,
+                "newTab": false,
+                "text": "Events",
+                "url": "/events-all"
+            },
+            {
+                "id": 2,
+                "newTab": false,
+                "text": "Contact",
+                "url": "/contact"
+            }
+        ],
+        "logo": {
+            "alternativeText": "logo",
+            "caption": null,
+            "created_at": "2021-06-12T19:49:28.994Z",
+            "ext": ".png",
+            "formats": {
+                "thumbnail": {
+                    "ext": ".png",
+                    "hash": "thumbnail_logo_821cbc43e6",
+                    "height": 156,
+                    "mime": "image/png",
+                    "name": "thumbnail_logo.png",
+                    "path": null,
+                    "size": 30.08,
+                    "url": "/uploads/thumbnail_logo_821cbc43e6.png",
+                    "width": 173
+                }
+            },
+            "hash": "logo_821cbc43e6",
+            "height": 250,
+            "id": 3,
+            "mime": "image/png",
+            "name": "logo.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 32.67,
+            "updated_at": "2021-06-12T19:49:33.377Z",
+            "url": "/uploads/logo_821cbc43e6.png",
+            "width": 278
+        }
+    },
+    "notificationBanner": {
+        "id": 1,
+        "text": "This site uses cookies to provide you with a great user experience.",
+        "type": "info"
+    },
+    "updated_at": "2022-01-16T20:07:21.631Z"
+}
