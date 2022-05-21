@@ -1,0 +1,93 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.hero",
+            "buttons": [],
+            "description": "100 people from different industries in Hamilton bring their typical days in front of everyone",
+            "id": 16,
+            "label": "100 Hamiltoners' true stories",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-16T04:16:09.617Z",
+                "ext": ".jpg",
+                "formats": {
+                    "large": {
+                        "ext": ".jpg",
+                        "hash": "large_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2",
+                        "height": 1000,
+                        "mime": "image/jpeg",
+                        "name": "large_Infographic Sample - A Day in the Life of.jpg",
+                        "path": null,
+                        "size": 54.21,
+                        "url": "/uploads/large_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2.jpg",
+                        "width": 400
+                    },
+                    "medium": {
+                        "ext": ".jpg",
+                        "hash": "medium_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2",
+                        "height": 750,
+                        "mime": "image/jpeg",
+                        "name": "medium_Infographic Sample - A Day in the Life of.jpg",
+                        "path": null,
+                        "size": 35.94,
+                        "url": "/uploads/medium_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2.jpg",
+                        "width": 300
+                    },
+                    "small": {
+                        "ext": ".jpg",
+                        "hash": "small_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2",
+                        "height": 500,
+                        "mime": "image/jpeg",
+                        "name": "small_Infographic Sample - A Day in the Life of.jpg",
+                        "path": null,
+                        "size": 18.57,
+                        "url": "/uploads/small_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2.jpg",
+                        "width": 200
+                    },
+                    "thumbnail": {
+                        "ext": ".jpg",
+                        "hash": "thumbnail_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2",
+                        "height": 156,
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_Infographic Sample - A Day in the Life of.jpg",
+                        "path": null,
+                        "size": 3.59,
+                        "url": "/uploads/thumbnail_Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2.jpg",
+                        "width": 62
+                    }
+                },
+                "hash": "Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2",
+                "height": 2000,
+                "id": 115,
+                "mime": "image/jpeg",
+                "name": "Infographic Sample - A Day in the Life of.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 145.34,
+                "updated_at": "2022-01-16T04:16:09.660Z",
+                "url": "/uploads/Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2.jpg",
+                "width": 800
+            },
+            "smallTextWithLink": "Read more",
+            "title": "A Day of Life"
+        }
+    ],
+    "created_at": "2022-01-16T04:23:19.485Z",
+    "id": 17,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 24,
+        "metaDescription": "100 stories",
+        "metaTitle": "100 stories",
+        "shareImage": null,
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "A Day of Life of ",
+    "slug": "a-day-of-life",
+    "status": "published",
+    "updated_at": "2022-01-16T04:35:47.030Z"
+}

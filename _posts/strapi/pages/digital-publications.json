@@ -1,0 +1,334 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.feature-rows-group",
+            "features": [
+                {
+                    "description": "In this issue, you will read many stories from Niagara community and beyond. \n40 Under Forty Hamilton Broadcast Event on November 4th 2021 \nRelax and Unwind with Neon-soaked Gentle Puzzler from Phantom Compass \nThe World Is Yours, Reach Out and Take It \nAbstract Bodo and Post Modern NFT Art \nProud Achievements Shared in 40 Under Forty Community",
+                    "id": 15,
+                    "link": {
+                        "id": 71,
+                        "newTab": true,
+                        "text": "Read more",
+                        "url": "https://issuu.com/businesslinkmediagroup/docs/bl_nov_2021"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-20T15:18:58.970Z",
+                        "ext": ".png",
+                        "formats": {
+                            "medium": {
+                                "ext": ".png",
+                                "hash": "medium_cover_bodo_03f8325d39",
+                                "height": 750,
+                                "mime": "image/png",
+                                "name": "medium_cover-bodo.png",
+                                "path": null,
+                                "size": 721.44,
+                                "url": "/uploads/medium_cover_bodo_03f8325d39.png",
+                                "width": 533
+                            },
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_cover_bodo_03f8325d39",
+                                "height": 500,
+                                "mime": "image/png",
+                                "name": "small_cover-bodo.png",
+                                "path": null,
+                                "size": 348.72,
+                                "url": "/uploads/small_cover_bodo_03f8325d39.png",
+                                "width": 355
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_cover_bodo_03f8325d39",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_cover-bodo.png",
+                                "path": null,
+                                "size": 42.98,
+                                "url": "/uploads/thumbnail_cover_bodo_03f8325d39.png",
+                                "width": 111
+                            }
+                        },
+                        "hash": "cover_bodo_03f8325d39",
+                        "height": 989,
+                        "id": 119,
+                        "mime": "image/png",
+                        "name": "cover-bodo.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 995.36,
+                        "updated_at": "2022-01-20T15:18:59.021Z",
+                        "url": "/uploads/cover_bodo_03f8325d39.png",
+                        "width": 703
+                    },
+                    "title": "Business Link Publications"
+                },
+                {
+                    "description": "Providing today\u2019s health-conscious individuals and professionals with an entertaining\nand informative guide to many of today\u2019s health and lifestyle issues.",
+                    "id": 16,
+                    "link": {
+                        "id": 72,
+                        "newTab": true,
+                        "text": "Read more",
+                        "url": "https://issuu.com/businesslinkmediagroup/docs/hws-01-2020-issuu"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T20:38:21.997Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242",
+                                "height": 500,
+                                "mime": "image/png",
+                                "name": "small_Screen Shot 2022-01-08 at 3.38.06 PM.png",
+                                "path": null,
+                                "size": 355.28,
+                                "url": "/uploads/small_Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242.png",
+                                "width": 378
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_Screen Shot 2022-01-08 at 3.38.06 PM.png",
+                                "path": null,
+                                "size": 48.88,
+                                "url": "/uploads/thumbnail_Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242.png",
+                                "width": 118
+                            }
+                        },
+                        "hash": "Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242",
+                        "height": 731,
+                        "id": 95,
+                        "mime": "image/png",
+                        "name": "Screen Shot 2022-01-08 at 3.38.06 PM.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 497.98,
+                        "updated_at": "2022-01-08T20:38:22.019Z",
+                        "url": "/uploads/Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242.png",
+                        "width": 553
+                    },
+                    "title": "Health, Wellness, and Safety"
+                },
+                {
+                    "description": "We are typical people living in a typical world and doing typical things. \n\nLet's read about a typical day in the life of 100 people from Hamilton who are from different sectors. ",
+                    "id": 24,
+                    "link": {
+                        "id": 82,
+                        "newTab": false,
+                        "text": "Coming soon...",
+                        "url": "#"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-16T04:11:49.107Z",
+                        "ext": ".jpg",
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "hash": "large_Poster_A_Day_in_the_Life_of_604f30a00b",
+                                "height": 1000,
+                                "mime": "image/jpeg",
+                                "name": "large_Poster - A Day in the Life of.jpg",
+                                "path": null,
+                                "size": 61.46,
+                                "url": "/uploads/large_Poster_A_Day_in_the_Life_of_604f30a00b.jpg",
+                                "width": 707
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "hash": "medium_Poster_A_Day_in_the_Life_of_604f30a00b",
+                                "height": 750,
+                                "mime": "image/jpeg",
+                                "name": "medium_Poster - A Day in the Life of.jpg",
+                                "path": null,
+                                "size": 39.67,
+                                "url": "/uploads/medium_Poster_A_Day_in_the_Life_of_604f30a00b.jpg",
+                                "width": 530
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "hash": "small_Poster_A_Day_in_the_Life_of_604f30a00b",
+                                "height": 500,
+                                "mime": "image/jpeg",
+                                "name": "small_Poster - A Day in the Life of.jpg",
+                                "path": null,
+                                "size": 21.2,
+                                "url": "/uploads/small_Poster_A_Day_in_the_Life_of_604f30a00b.jpg",
+                                "width": 354
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "hash": "thumbnail_Poster_A_Day_in_the_Life_of_604f30a00b",
+                                "height": 156,
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_Poster - A Day in the Life of.jpg",
+                                "path": null,
+                                "size": 3.62,
+                                "url": "/uploads/thumbnail_Poster_A_Day_in_the_Life_of_604f30a00b.jpg",
+                                "width": 110
+                            }
+                        },
+                        "hash": "Poster_A_Day_in_the_Life_of_604f30a00b",
+                        "height": 2000,
+                        "id": 114,
+                        "mime": "image/jpeg",
+                        "name": "Poster - A Day in the Life of.jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 163.78,
+                        "updated_at": "2022-01-16T04:11:49.137Z",
+                        "url": "/uploads/Poster_A_Day_in_the_Life_of_604f30a00b.jpg",
+                        "width": 1414
+                    },
+                    "title": "A Day of Life (Special publication)"
+                },
+                {
+                    "description": "Made In Niagara was promoted in the international arena for businesses in Niagara",
+                    "id": 17,
+                    "link": {
+                        "id": 73,
+                        "newTab": true,
+                        "text": "Read more",
+                        "url": "https://issuu.com/businesslinkmediagroup/docs/made_in_niagara_digital_eng-ch-issuu"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T20:41:46.052Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b",
+                                "height": 500,
+                                "mime": "image/png",
+                                "name": "small_Screen Shot 2022-01-08 at 3.41.31 PM.png",
+                                "path": null,
+                                "size": 207.33,
+                                "url": "/uploads/small_Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b.png",
+                                "width": 386
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_Screen Shot 2022-01-08 at 3.41.31 PM.png",
+                                "path": null,
+                                "size": 27,
+                                "url": "/uploads/thumbnail_Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b.png",
+                                "width": 120
+                            }
+                        },
+                        "hash": "Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b",
+                        "height": 730,
+                        "id": 96,
+                        "mime": "image/png",
+                        "name": "Screen Shot 2022-01-08 at 3.41.31 PM.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 344.66,
+                        "updated_at": "2022-01-08T20:41:46.070Z",
+                        "url": "/uploads/Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b.png",
+                        "width": 563
+                    },
+                    "title": "Made In Niagara (Special Publication)"
+                }
+            ],
+            "id": 8
+        }
+    ],
+    "created_at": "2022-01-08T20:36:32.474Z",
+    "id": 16,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 23,
+        "metaDescription": "Business Link Media Group has several different publications:\n",
+        "metaTitle": "Publications",
+        "shareImage": {
+            "alternativeText": "",
+            "caption": "",
+            "created_at": "2022-01-08T20:35:26.299Z",
+            "ext": ".png",
+            "formats": {
+                "large": {
+                    "ext": ".png",
+                    "hash": "large_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0",
+                    "height": 668,
+                    "mime": "image/png",
+                    "name": "large_Screen Shot 2022-01-08 at 3.34.47 PM.png",
+                    "path": null,
+                    "size": 1023.08,
+                    "url": "/uploads/large_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0.png",
+                    "width": 1000
+                },
+                "medium": {
+                    "ext": ".png",
+                    "hash": "medium_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0",
+                    "height": 501,
+                    "mime": "image/png",
+                    "name": "medium_Screen Shot 2022-01-08 at 3.34.47 PM.png",
+                    "path": null,
+                    "size": 603.41,
+                    "url": "/uploads/medium_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0.png",
+                    "width": 750
+                },
+                "small": {
+                    "ext": ".png",
+                    "hash": "small_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0",
+                    "height": 334,
+                    "mime": "image/png",
+                    "name": "small_Screen Shot 2022-01-08 at 3.34.47 PM.png",
+                    "path": null,
+                    "size": 286.22,
+                    "url": "/uploads/small_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0.png",
+                    "width": 500
+                },
+                "thumbnail": {
+                    "ext": ".png",
+                    "hash": "thumbnail_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0",
+                    "height": 156,
+                    "mime": "image/png",
+                    "name": "thumbnail_Screen Shot 2022-01-08 at 3.34.47 PM.png",
+                    "path": null,
+                    "size": 74.37,
+                    "url": "/uploads/thumbnail_Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0.png",
+                    "width": 234
+                }
+            },
+            "hash": "Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0",
+            "height": 705,
+            "id": 94,
+            "mime": "image/png",
+            "name": "Screen Shot 2022-01-08 at 3.34.47 PM.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 831.57,
+            "updated_at": "2022-01-08T20:35:26.313Z",
+            "url": "/uploads/Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0.png",
+            "width": 1056
+        },
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Digital Publications",
+    "slug": "digital-publications",
+    "status": "published",
+    "updated_at": "2022-01-26T16:26:07.785Z"
+}

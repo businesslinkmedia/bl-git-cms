@@ -1,0 +1,176 @@
+{
+    "contentSections": [
+        {
+            "InlineFeatures": [
+                {
+                    "description": null,
+                    "id": 12,
+                    "image": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-31T22:10:03.586Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "waterfall_14_svgrepo_com_4977edeb2d",
+                        "height": 14,
+                        "id": 143,
+                        "mime": "image/svg+xml",
+                        "name": "waterfall-14-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 1.87,
+                        "updated_at": "2022-01-31T22:10:03.656Z",
+                        "url": "/uploads/waterfall_14_svgrepo_com_4977edeb2d.svg",
+                        "width": 14
+                    },
+                    "imageUrl": null,
+                    "title": "Niagara Falls",
+                    "url": "https://businesslinkniagara.com/40-under-forty/"
+                },
+                {
+                    "description": null,
+                    "id": 13,
+                    "image": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-31T22:07:57.447Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "vancouver_svgrepo_com_f997a1cb46",
+                        "height": 64,
+                        "id": 142,
+                        "mime": "image/svg+xml",
+                        "name": "vancouver-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 3.31,
+                        "updated_at": "2022-01-31T22:07:57.470Z",
+                        "url": "/uploads/vancouver_svgrepo_com_f997a1cb46.svg",
+                        "width": 64
+                    },
+                    "imageUrl": null,
+                    "title": "Vancouver",
+                    "url": "https://businesslinkniagara.com/40-under-forty-vancouver/"
+                },
+                {
+                    "description": null,
+                    "id": 14,
+                    "image": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-31T22:03:23.758Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "italy_map_country_land_svgrepo_com_3b6117b4d3",
+                        "height": 260,
+                        "id": 141,
+                        "mime": "image/svg+xml",
+                        "name": "italy-map-country-land-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 1.73,
+                        "updated_at": "2022-01-31T22:03:23.777Z",
+                        "url": "/uploads/italy_map_country_land_svgrepo_com_3b6117b4d3.svg",
+                        "width": 230
+                    },
+                    "imageUrl": null,
+                    "title": "Italy",
+                    "url": "https://businesslinkniagara.com/40-under-forty-italy/"
+                }
+            ],
+            "__component": "sections.video-landing-page",
+            "description": "",
+            "id": 3,
+            "label": "Nominate your candidate for this prestigious award from around the world",
+            "smallTextWithLink": "",
+            "title": "40 under Forty",
+            "video": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-18T03:07:52.949Z",
+                "ext": ".mp4",
+                "formats": null,
+                "hash": "149682558_4c38be77_6e2a_4743_abdd_1efd124ff6aa_0b50e1894d",
+                "height": null,
+                "id": 118,
+                "mime": "video/mp4",
+                "name": "149682558-4c38be77-6e2a-4743-abdd-1efd124ff6aa.mp4",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 357.74,
+                "updated_at": "2022-01-18T03:07:52.985Z",
+                "url": "/uploads/149682558_4c38be77_6e2a_4743_abdd_1efd124ff6aa_0b50e1894d.mp4",
+                "width": null
+            },
+            "videoURLs": [
+                {
+                    "id": 99,
+                    "newTab": false,
+                    "text": "none",
+                    "url": "https://user-images.githubusercontent.com/96355795/151877914-5d59134b-9e2a-4d52-97e7-d56c47cd5071.mp4"
+                }
+            ]
+        }
+    ],
+    "created_at": "2022-01-31T21:46:14.069Z",
+    "id": 20,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 27,
+        "metaDescription": "40 Under Forty",
+        "metaTitle": "Prestigous 40 Under Forty events held in various geographies",
+        "shareImage": {
+            "alternativeText": "",
+            "caption": "",
+            "created_at": "2022-01-31T21:35:34.024Z",
+            "ext": ".jpg",
+            "formats": {
+                "small": {
+                    "ext": ".jpg",
+                    "hash": "small_evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b",
+                    "height": 334,
+                    "mime": "image/jpeg",
+                    "name": "small_evangeline-shaw-xRlI-L-kvrw-unsplash.jpg",
+                    "path": null,
+                    "size": 26.35,
+                    "url": "/uploads/small_evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b.jpg",
+                    "width": 500
+                },
+                "thumbnail": {
+                    "ext": ".jpg",
+                    "hash": "thumbnail_evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b",
+                    "height": 156,
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_evangeline-shaw-xRlI-L-kvrw-unsplash.jpg",
+                    "path": null,
+                    "size": 8.99,
+                    "url": "/uploads/thumbnail_evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b.jpg",
+                    "width": 234
+                }
+            },
+            "hash": "evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b",
+            "height": 427,
+            "id": 137,
+            "mime": "image/jpeg",
+            "name": "evangeline-shaw-xRlI-L-kvrw-unsplash.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 36.66,
+            "updated_at": "2022-01-31T21:35:34.064Z",
+            "url": "/uploads/evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b.jpg",
+            "width": 640
+        },
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "40 Under Forty",
+    "slug": "forty-under-forty",
+    "status": "published",
+    "updated_at": "2022-01-31T22:12:06.311Z"
+}

@@ -1,0 +1,64 @@
+{
+    "contentSections": [
+        {
+            "AutoPlay": true,
+            "CarouselItem": [
+                {
+                    "Description": "8UDJ4sflous",
+                    "ImageUrl": "https://source.unsplash.com/8UDJ4sflous",
+                    "NewTab": false,
+                    "TargetUrl": "/blockchain",
+                    "Title": "https://source.unsplash.com/Ic2EdL_NkDM",
+                    "id": 1
+                },
+                {
+                    "Description": "9Wuxjit62QU",
+                    "ImageUrl": "https://source.unsplash.com/9Wuxjit62QU",
+                    "NewTab": false,
+                    "TargetUrl": "/digital-marketing",
+                    "Title": "https://source.unsplash.com/fdxkUWHGqJ0",
+                    "id": 2
+                },
+                {
+                    "Description": "# GjsWjLCIh5I\n\n### asas \n\n* option 1\n\n* option 2\n",
+                    "ImageUrl": "https://source.unsplash.com/GjsWjLCIh5I",
+                    "NewTab": false,
+                    "TargetUrl": "/events-all",
+                    "Title": "https://source.unsplash.com/KmJoDF4e4-A",
+                    "id": 3
+                }
+            ],
+            "Height": null,
+            "InfiniteLoop": true,
+            "Interval": 5000,
+            "ShowThumbs": false,
+            "StopOnHover": true,
+            "Title": "carousel1",
+            "TransitionTime": 1000,
+            "Width": [
+                {
+                    "RelativeSize": "Half",
+                    "id": 1
+                }
+            ],
+            "__component": "sections.carousel",
+            "id": 1
+        }
+    ],
+    "created_at": "2022-01-24T23:01:23.505Z",
+    "id": 19,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 26,
+        "metaDescription": "111",
+        "metaTitle": "11",
+        "shareImage": null,
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Test",
+    "slug": "test-abc",
+    "status": "published",
+    "updated_at": "2022-01-25T03:18:00.353Z"
+}

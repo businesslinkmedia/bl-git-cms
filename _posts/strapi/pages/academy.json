@@ -1,0 +1,493 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.hero",
+            "buttons": [],
+            "description": "To learn some fundamental knowledge about NFTs, DAOs, Web 3, and Metaverse",
+            "id": 15,
+            "label": "All About Blockchain",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-02T22:30:35.256Z",
+                "ext": ".jpg",
+                "formats": {
+                    "large": {
+                        "ext": ".jpg",
+                        "hash": "large_Blockchain_In_Business_f0589cbffd",
+                        "height": 532,
+                        "mime": "image/jpeg",
+                        "name": "large_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 46.05,
+                        "url": "/uploads/large_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 1000
+                    },
+                    "medium": {
+                        "ext": ".jpg",
+                        "hash": "medium_Blockchain_In_Business_f0589cbffd",
+                        "height": 399,
+                        "mime": "image/jpeg",
+                        "name": "medium_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 31.61,
+                        "url": "/uploads/medium_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 750
+                    },
+                    "small": {
+                        "ext": ".jpg",
+                        "hash": "small_Blockchain_In_Business_f0589cbffd",
+                        "height": 266,
+                        "mime": "image/jpeg",
+                        "name": "small_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 18.57,
+                        "url": "/uploads/small_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 500
+                    },
+                    "thumbnail": {
+                        "ext": ".jpg",
+                        "hash": "thumbnail_Blockchain_In_Business_f0589cbffd",
+                        "height": 130,
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 7.17,
+                        "url": "/uploads/thumbnail_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 245
+                    }
+                },
+                "hash": "Blockchain_In_Business_f0589cbffd",
+                "height": 910,
+                "id": 60,
+                "mime": "image/jpeg",
+                "name": "Blockchain In Business.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 86.53,
+                "updated_at": "2022-01-02T22:30:35.278Z",
+                "url": "/uploads/Blockchain_In_Business_f0589cbffd.jpg",
+                "width": 1711
+            },
+            "smallTextWithLink": "Read more",
+            "title": "Blockchain"
+        },
+        {
+            "__component": "sections.feature-columns-group",
+            "features": [
+                {
+                    "description": "For the beginners",
+                    "icon": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T22:36:31.693Z",
+                        "ext": ".jpg",
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "hash": "large_BIB_for_beginners_e8c39e401a",
+                                "height": 1000,
+                                "mime": "image/jpeg",
+                                "name": "large_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 95.57,
+                                "url": "/uploads/large_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 1000
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "hash": "medium_BIB_for_beginners_e8c39e401a",
+                                "height": 750,
+                                "mime": "image/jpeg",
+                                "name": "medium_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 62.65,
+                                "url": "/uploads/medium_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 750
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "hash": "small_BIB_for_beginners_e8c39e401a",
+                                "height": 500,
+                                "mime": "image/jpeg",
+                                "name": "small_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 34.68,
+                                "url": "/uploads/small_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "hash": "thumbnail_BIB_for_beginners_e8c39e401a",
+                                "height": 156,
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 6.74,
+                                "url": "/uploads/thumbnail_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 156
+                            }
+                        },
+                        "hash": "BIB_for_beginners_e8c39e401a",
+                        "height": 1080,
+                        "id": 99,
+                        "mime": "image/jpeg",
+                        "name": "BIB for beginners.jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 105.56,
+                        "updated_at": "2022-01-08T22:36:31.737Z",
+                        "url": "/uploads/BIB_for_beginners_e8c39e401a.jpg",
+                        "width": 1080
+                    },
+                    "id": 13,
+                    "title": "Entry Level"
+                },
+                {
+                    "description": "For intermediate level",
+                    "icon": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T22:48:17.753Z",
+                        "ext": ".jpg",
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "hash": "large_BIB_for_beginners_1_a930202df6",
+                                "height": 1000,
+                                "mime": "image/jpeg",
+                                "name": "large_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 80.78,
+                                "url": "/uploads/large_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 1000
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "hash": "medium_BIB_for_beginners_1_a930202df6",
+                                "height": 750,
+                                "mime": "image/jpeg",
+                                "name": "medium_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 56.73,
+                                "url": "/uploads/medium_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 750
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "hash": "small_BIB_for_beginners_1_a930202df6",
+                                "height": 500,
+                                "mime": "image/jpeg",
+                                "name": "small_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 32.7,
+                                "url": "/uploads/small_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "hash": "thumbnail_BIB_for_beginners_1_a930202df6",
+                                "height": 156,
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 6.8,
+                                "url": "/uploads/thumbnail_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 156
+                            }
+                        },
+                        "hash": "BIB_for_beginners_1_a930202df6",
+                        "height": 1080,
+                        "id": 101,
+                        "mime": "image/jpeg",
+                        "name": "BIB for beginners (1).jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 84.61,
+                        "updated_at": "2022-01-08T22:48:17.773Z",
+                        "url": "/uploads/BIB_for_beginners_1_a930202df6.jpg",
+                        "width": 1080
+                    },
+                    "id": 14,
+                    "title": "Intermediate"
+                },
+                {
+                    "description": "For professional traders",
+                    "icon": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T22:54:20.245Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c",
+                                "height": 341,
+                                "mime": "image/png",
+                                "name": "small_Screen Shot 2022-01-08 at 5.53.53 PM.png",
+                                "path": null,
+                                "size": 445.36,
+                                "url": "/uploads/small_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c.png",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_Screen Shot 2022-01-08 at 5.53.53 PM.png",
+                                "path": null,
+                                "size": 104.4,
+                                "url": "/uploads/thumbnail_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c.png",
+                                "width": 229
+                            }
+                        },
+                        "hash": "Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c",
+                        "height": 454,
+                        "id": 102,
+                        "mime": "image/png",
+                        "name": "Screen Shot 2022-01-08 at 5.53.53 PM.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 498.56,
+                        "updated_at": "2022-01-08T22:54:20.260Z",
+                        "url": "/uploads/Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c.png",
+                        "width": 665
+                    },
+                    "id": 15,
+                    "title": "Professional"
+                }
+            ],
+            "id": 5
+        },
+        {
+            "__component": "sections.feature-rows-group",
+            "features": [
+                {
+                    "description": "For beginners",
+                    "id": 19,
+                    "link": {
+                        "id": 75,
+                        "newTab": true,
+                        "text": "Read more",
+                        "url": "https://www.ib2bl.com/article/simple-blockchain-primer-beginners"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T22:36:31.693Z",
+                        "ext": ".jpg",
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "hash": "large_BIB_for_beginners_e8c39e401a",
+                                "height": 1000,
+                                "mime": "image/jpeg",
+                                "name": "large_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 95.57,
+                                "url": "/uploads/large_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 1000
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "hash": "medium_BIB_for_beginners_e8c39e401a",
+                                "height": 750,
+                                "mime": "image/jpeg",
+                                "name": "medium_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 62.65,
+                                "url": "/uploads/medium_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 750
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "hash": "small_BIB_for_beginners_e8c39e401a",
+                                "height": 500,
+                                "mime": "image/jpeg",
+                                "name": "small_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 34.68,
+                                "url": "/uploads/small_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "hash": "thumbnail_BIB_for_beginners_e8c39e401a",
+                                "height": 156,
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_BIB for beginners.jpg",
+                                "path": null,
+                                "size": 6.74,
+                                "url": "/uploads/thumbnail_BIB_for_beginners_e8c39e401a.jpg",
+                                "width": 156
+                            }
+                        },
+                        "hash": "BIB_for_beginners_e8c39e401a",
+                        "height": 1080,
+                        "id": 99,
+                        "mime": "image/jpeg",
+                        "name": "BIB for beginners.jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 105.56,
+                        "updated_at": "2022-01-08T22:36:31.737Z",
+                        "url": "/uploads/BIB_for_beginners_e8c39e401a.jpg",
+                        "width": 1080
+                    },
+                    "title": "Entry Level"
+                },
+                {
+                    "description": "For the intermediate level",
+                    "id": 20,
+                    "link": {
+                        "id": 76,
+                        "newTab": true,
+                        "text": "Read more",
+                        "url": "https://www.ib2bl.com/article/40u40-forty-token-available-utuone-app"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T22:48:17.753Z",
+                        "ext": ".jpg",
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "hash": "large_BIB_for_beginners_1_a930202df6",
+                                "height": 1000,
+                                "mime": "image/jpeg",
+                                "name": "large_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 80.78,
+                                "url": "/uploads/large_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 1000
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "hash": "medium_BIB_for_beginners_1_a930202df6",
+                                "height": 750,
+                                "mime": "image/jpeg",
+                                "name": "medium_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 56.73,
+                                "url": "/uploads/medium_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 750
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "hash": "small_BIB_for_beginners_1_a930202df6",
+                                "height": 500,
+                                "mime": "image/jpeg",
+                                "name": "small_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 32.7,
+                                "url": "/uploads/small_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "hash": "thumbnail_BIB_for_beginners_1_a930202df6",
+                                "height": 156,
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_BIB for beginners (1).jpg",
+                                "path": null,
+                                "size": 6.8,
+                                "url": "/uploads/thumbnail_BIB_for_beginners_1_a930202df6.jpg",
+                                "width": 156
+                            }
+                        },
+                        "hash": "BIB_for_beginners_1_a930202df6",
+                        "height": 1080,
+                        "id": 101,
+                        "mime": "image/jpeg",
+                        "name": "BIB for beginners (1).jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 84.61,
+                        "updated_at": "2022-01-08T22:48:17.773Z",
+                        "url": "/uploads/BIB_for_beginners_1_a930202df6.jpg",
+                        "width": 1080
+                    },
+                    "title": "Intermediate"
+                },
+                {
+                    "description": "For the advance level",
+                    "id": 21,
+                    "link": {
+                        "id": 77,
+                        "newTab": true,
+                        "text": "Read more",
+                        "url": "https://www.ib2bl.com/bd/ad/business-link-nft-market-showcase-nov-12-nov-20"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-08T22:54:20.245Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c",
+                                "height": 341,
+                                "mime": "image/png",
+                                "name": "small_Screen Shot 2022-01-08 at 5.53.53 PM.png",
+                                "path": null,
+                                "size": 445.36,
+                                "url": "/uploads/small_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c.png",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_Screen Shot 2022-01-08 at 5.53.53 PM.png",
+                                "path": null,
+                                "size": 104.4,
+                                "url": "/uploads/thumbnail_Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c.png",
+                                "width": 229
+                            }
+                        },
+                        "hash": "Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c",
+                        "height": 454,
+                        "id": 102,
+                        "mime": "image/png",
+                        "name": "Screen Shot 2022-01-08 at 5.53.53 PM.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 498.56,
+                        "updated_at": "2022-01-08T22:54:20.260Z",
+                        "url": "/uploads/Screen_Shot_2022_01_08_at_5_53_53_PM_a1c287195c.png",
+                        "width": 665
+                    },
+                    "title": "Professional"
+                }
+            ],
+            "id": 9
+        }
+    ],
+    "created_at": "2022-01-04T21:59:09.523Z",
+    "id": 15,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 22,
+        "metaDescription": "LEARN ALL ABOUT BLOCKCHAIN",
+        "metaTitle": "BL Academy",
+        "shareImage": null,
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "BL Academy",
+    "slug": "academy",
+    "status": "published",
+    "updated_at": "2022-01-09T04:02:47.962Z"
+}

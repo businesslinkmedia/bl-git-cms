@@ -1,0 +1,82 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.hero",
+            "buttons": [],
+            "description": "For Business (BL) and Health (HWS) Publications",
+            "id": 17,
+            "label": "For Your Information",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-23T22:48:16.776Z",
+                "ext": ".png",
+                "formats": {
+                    "medium": {
+                        "ext": ".png",
+                        "hash": "medium_Picture11_d19fc3c8a1",
+                        "height": 750,
+                        "mime": "image/png",
+                        "name": "medium_Picture11.png",
+                        "path": null,
+                        "size": 579.36,
+                        "url": "/uploads/medium_Picture11_d19fc3c8a1.png",
+                        "width": 666
+                    },
+                    "small": {
+                        "ext": ".png",
+                        "hash": "small_Picture11_d19fc3c8a1",
+                        "height": 500,
+                        "mime": "image/png",
+                        "name": "small_Picture11.png",
+                        "path": null,
+                        "size": 270.46,
+                        "url": "/uploads/small_Picture11_d19fc3c8a1.png",
+                        "width": 444
+                    },
+                    "thumbnail": {
+                        "ext": ".png",
+                        "hash": "thumbnail_Picture11_d19fc3c8a1",
+                        "height": 156,
+                        "mime": "image/png",
+                        "name": "thumbnail_Picture11.png",
+                        "path": null,
+                        "size": 33.43,
+                        "url": "/uploads/thumbnail_Picture11_d19fc3c8a1.png",
+                        "width": 139
+                    }
+                },
+                "hash": "Picture11_d19fc3c8a1",
+                "height": 771,
+                "id": 136,
+                "mime": "image/png",
+                "name": "Picture11.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 567.88,
+                "updated_at": "2022-01-23T22:48:16.805Z",
+                "url": "/uploads/Picture11_d19fc3c8a1.png",
+                "width": 685
+            },
+            "smallTextWithLink": "Contact us for more information",
+            "title": "Publication Specification"
+        }
+    ],
+    "created_at": "2022-01-23T22:37:50.093Z",
+    "id": 18,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 25,
+        "metaDescription": "Publication specification",
+        "metaTitle": "spec",
+        "shareImage": null,
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Specification",
+    "slug": "specification",
+    "status": "published",
+    "updated_at": "2022-01-23T22:48:47.039Z"
+}
