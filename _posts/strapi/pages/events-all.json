@@ -1,0 +1,319 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.hero",
+            "buttons": [
+                {
+                    "id": 29,
+                    "newTab": true,
+                    "text": "Click here to nominate candidates in Niagara",
+                    "type": "primary",
+                    "url": "https://businesslinkniagara.com/40-under-forty/"
+                }
+            ],
+            "description": null,
+            "id": 10,
+            "label": "19th Annual in 2022",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-03T14:13:17.837Z",
+                "ext": ".png",
+                "formats": {
+                    "small": {
+                        "ext": ".png",
+                        "hash": "small_40_Nia_cd46b9b176",
+                        "height": 324,
+                        "mime": "image/png",
+                        "name": "small_40-Nia.png",
+                        "path": null,
+                        "size": 388.32,
+                        "url": "/uploads/small_40_Nia_cd46b9b176.png",
+                        "width": 500
+                    },
+                    "thumbnail": {
+                        "ext": ".png",
+                        "hash": "thumbnail_40_Nia_cd46b9b176",
+                        "height": 156,
+                        "mime": "image/png",
+                        "name": "thumbnail_40-Nia.png",
+                        "path": null,
+                        "size": 99.19,
+                        "url": "/uploads/thumbnail_40_Nia_cd46b9b176.png",
+                        "width": 241
+                    }
+                },
+                "hash": "40_Nia_cd46b9b176",
+                "height": 413,
+                "id": 69,
+                "mime": "image/png",
+                "name": "40-Nia.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 566.97,
+                "updated_at": "2022-01-03T14:13:17.856Z",
+                "url": "/uploads/40_Nia_cd46b9b176.png",
+                "width": 638
+            },
+            "smallTextWithLink": "Business Link Media Group first established its 40 Under Forty Business Achievement Awards back in 2003. One of Niagara\u2019s most prestigious awards, this annual program recognizes 40 business people under the age of 40 who have demonstrated an extraordinary level of success in the private, public and non-profit sectors.\n\nBusiness Link has hosted 18 years of Annual 40 Under Forty Business Achievement Awards. The primary purpose of our annual awards banquet is to give back to the Niagara region while identifying individuals and businesses that greatly contribute to the growth and development of our community. To date we have recognized the successes of 720 business leaders across the Niagara region. \n\nTurning challenges into opportunities, BLMG has overcome the restrictions imposed by the COVID-19 pandemic by holding the award ceremony as an online event. By doing so,not only we have not allowed the situation to hinder the celebration of our Niagara business talents, but we have also expanded the reach and availability of the awards ceremony to a potential audience of thousands more with a virtually ever-lasting time frame.",
+            "title": "40 Under Forty Niagara"
+        },
+        {
+            "__component": "sections.hero",
+            "buttons": [
+                {
+                    "id": 30,
+                    "newTab": true,
+                    "text": "Click here to nominate candidates in Hamilton",
+                    "type": "secondary",
+                    "url": "https://businesslinkhamilton.com/40-under-forty/"
+                }
+            ],
+            "description": null,
+            "id": 11,
+            "label": "9th Annual in 2022",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-03T14:42:41.829Z",
+                "ext": ".png",
+                "formats": {
+                    "small": {
+                        "ext": ".png",
+                        "hash": "small_40_6_8b3bdb7316",
+                        "height": 257,
+                        "mime": "image/png",
+                        "name": "small_40-+6.png",
+                        "path": null,
+                        "size": 201.19,
+                        "url": "/uploads/small_40_6_8b3bdb7316.png",
+                        "width": 500
+                    },
+                    "thumbnail": {
+                        "ext": ".png",
+                        "hash": "thumbnail_40_6_8b3bdb7316",
+                        "height": 126,
+                        "mime": "image/png",
+                        "name": "thumbnail_40-+6.png",
+                        "path": null,
+                        "size": 56.64,
+                        "url": "/uploads/thumbnail_40_6_8b3bdb7316.png",
+                        "width": 245
+                    }
+                },
+                "hash": "40_6_8b3bdb7316",
+                "height": 360,
+                "id": 74,
+                "mime": "image/png",
+                "name": "40-+6.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 271.97,
+                "updated_at": "2022-01-03T14:42:41.854Z",
+                "url": "/uploads/40_6_8b3bdb7316.png",
+                "width": 700
+            },
+            "smallTextWithLink": "Business Link Media Group first established its 40 Under Forty Business Achievement Awards back in 2014, one of Hamilton\u2019s most prestigious awards.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the community at large.\n\nEach year, nominated individuals are given close consideration by a distinguished panel of local business leaders and past award recipients. This panel takes several criteria into account to determine the final 40 award recipients. These criteria include:\n\n~ An uncommon level of accomplishment in their field or industry.\n\n~ A demonstration of leadership and innovation with their business or workplace.\n\n~ An ability to overcome obstacles and achieve results.\n\n~ An active involvement in their industry and/or community.\n\n~ A commitment to constant improvement.\n\n\n",
+            "title": "40 Under Forty Hamilton"
+        },
+        {
+            "__component": "sections.hero",
+            "buttons": [
+                {
+                    "id": 34,
+                    "newTab": false,
+                    "text": "Click here to nominate candidates in Italy",
+                    "type": null,
+                    "url": "https://businesslinkniagara.com/40-under-forty-italy/"
+                }
+            ],
+            "description": null,
+            "id": 18,
+            "label": "First Year in Italy",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-03-15T18:50:08.662Z",
+                "ext": ".jpg",
+                "formats": {
+                    "small": {
+                        "ext": ".jpg",
+                        "hash": "small_Top_40_nailthumb_da536c4333",
+                        "height": 500,
+                        "mime": "image/jpeg",
+                        "name": "small_Top 40 - nailthumb.jpg",
+                        "path": null,
+                        "size": 46.58,
+                        "url": "/uploads/small_Top_40_nailthumb_da536c4333.jpg",
+                        "width": 387
+                    },
+                    "thumbnail": {
+                        "ext": ".jpg",
+                        "hash": "thumbnail_Top_40_nailthumb_da536c4333",
+                        "height": 156,
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_Top 40 - nailthumb.jpg",
+                        "path": null,
+                        "size": 8.02,
+                        "url": "/uploads/thumbnail_Top_40_nailthumb_da536c4333.jpg",
+                        "width": 121
+                    }
+                },
+                "hash": "Top_40_nailthumb_da536c4333",
+                "height": 582,
+                "id": 149,
+                "mime": "image/jpeg",
+                "name": "Top 40 - nailthumb.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 59.57,
+                "updated_at": "2022-03-15T18:50:08.711Z",
+                "url": "/uploads/Top_40_nailthumb_da536c4333.jpg",
+                "width": 450
+            },
+            "smallTextWithLink": "Business Link Media Group first expands its 40 Under Forty Business Achievement Awards to Italy in 2022.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the Italian community at large.",
+            "title": "40 Under Forty Italy"
+        },
+        {
+            "__component": "sections.hero",
+            "buttons": [
+                {
+                    "id": 35,
+                    "newTab": false,
+                    "text": "Click here to nominate candidates in Vancouver",
+                    "type": null,
+                    "url": "https://businesslinkniagara.com/40-under-forty-vancouver/"
+                }
+            ],
+            "description": null,
+            "id": 19,
+            "label": "First Year outside Ontario",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-02-01T04:20:06.458Z",
+                "ext": ".png",
+                "formats": {
+                    "medium": {
+                        "ext": ".png",
+                        "hash": "medium_40_Vancouver_1_d1552b22ef",
+                        "height": 611,
+                        "mime": "image/png",
+                        "name": "medium_40-Vancouver-1.png",
+                        "path": null,
+                        "size": 833.29,
+                        "url": "/uploads/medium_40_Vancouver_1_d1552b22ef.png",
+                        "width": 750
+                    },
+                    "small": {
+                        "ext": ".png",
+                        "hash": "small_40_Vancouver_1_d1552b22ef",
+                        "height": 407,
+                        "mime": "image/png",
+                        "name": "small_40-Vancouver-1.png",
+                        "path": null,
+                        "size": 375.46,
+                        "url": "/uploads/small_40_Vancouver_1_d1552b22ef.png",
+                        "width": 500
+                    },
+                    "thumbnail": {
+                        "ext": ".png",
+                        "hash": "thumbnail_40_Vancouver_1_d1552b22ef",
+                        "height": 156,
+                        "mime": "image/png",
+                        "name": "thumbnail_40-Vancouver-1.png",
+                        "path": null,
+                        "size": 63.46,
+                        "url": "/uploads/thumbnail_40_Vancouver_1_d1552b22ef.png",
+                        "width": 191
+                    }
+                },
+                "hash": "40_Vancouver_1_d1552b22ef",
+                "height": 621,
+                "id": 147,
+                "mime": "image/png",
+                "name": "40-Vancouver-1.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 750.8,
+                "updated_at": "2022-02-01T04:20:06.490Z",
+                "url": "/uploads/40_Vancouver_1_d1552b22ef.png",
+                "width": 762
+            },
+            "smallTextWithLink": "Business Link Media Group first expands its 40 Under Forty Business Achievement Awards to Vancouver in 2022.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the Italian community at large.",
+            "title": "40 Under Forty Vancouver "
+        }
+    ],
+    "created_at": "2022-01-03T02:19:12.508Z",
+    "id": 12,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 19,
+        "metaDescription": "events",
+        "metaTitle": "Events",
+        "shareImage": {
+            "alternativeText": "",
+            "caption": "",
+            "created_at": "2021-12-30T23:40:55.371Z",
+            "ext": ".jpg",
+            "formats": {
+                "medium": {
+                    "ext": ".jpg",
+                    "hash": "medium_40u40_graphic_ddf08892f9",
+                    "height": 750,
+                    "mime": "image/jpeg",
+                    "name": "medium_40u40-graphic.jpg",
+                    "path": null,
+                    "size": 49.47,
+                    "url": "/uploads/medium_40u40_graphic_ddf08892f9.jpg",
+                    "width": 750
+                },
+                "small": {
+                    "ext": ".jpg",
+                    "hash": "small_40u40_graphic_ddf08892f9",
+                    "height": 500,
+                    "mime": "image/jpeg",
+                    "name": "small_40u40-graphic.jpg",
+                    "path": null,
+                    "size": 33.39,
+                    "url": "/uploads/small_40u40_graphic_ddf08892f9.jpg",
+                    "width": 500
+                },
+                "thumbnail": {
+                    "ext": ".jpg",
+                    "hash": "thumbnail_40u40_graphic_ddf08892f9",
+                    "height": 156,
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_40u40-graphic.jpg",
+                    "path": null,
+                    "size": 13.26,
+                    "url": "/uploads/thumbnail_40u40_graphic_ddf08892f9.jpg",
+                    "width": 156
+                }
+            },
+            "hash": "40u40_graphic_ddf08892f9",
+            "height": 960,
+            "id": 51,
+            "mime": "image/jpeg",
+            "name": "40u40-graphic.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 51.11,
+            "updated_at": "2021-12-30T23:40:55.402Z",
+            "url": "/uploads/40u40_graphic_ddf08892f9.jpg",
+            "width": 960
+        },
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Events",
+    "slug": "events-all",
+    "status": "published",
+    "updated_at": "2022-04-11T10:42:37.887Z"
+}

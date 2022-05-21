@@ -1,0 +1,308 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.pricing",
+            "id": 1,
+            "plans": [
+                {
+                    "description": "One month advertising",
+                    "features": [
+                        {
+                            "id": 30,
+                            "name": "Full page ad with 3 images of choice and logo"
+                        },
+                        {
+                            "id": 31,
+                            "name": "Social media advertising and cross promotion"
+                        },
+                        {
+                            "id": 32,
+                            "name": "Email marketing "
+                        }
+                    ],
+                    "id": 10,
+                    "isRecommended": null,
+                    "name": "Guest Member",
+                    "price": 500,
+                    "pricePeriod": "per month"
+                },
+                {
+                    "description": "3 months advertising",
+                    "features": [
+                        {
+                            "id": 4,
+                            "name": "Full page ad with 3 images of choice and logo"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Social media marketing"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Email marketing"
+                        }
+                    ],
+                    "id": 3,
+                    "isRecommended": null,
+                    "name": "Silver Member",
+                    "price": 1350,
+                    "pricePeriod": "3-month"
+                },
+                {
+                    "description": "6 months advertising",
+                    "features": [
+                        {
+                            "id": 1,
+                            "name": "Full page ad with 3 images of choice and logo"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Social media marketing"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Email marketing"
+                        },
+                        {
+                            "id": 33,
+                            "name": "A 10-second commercial video promotion"
+                        }
+                    ],
+                    "id": 2,
+                    "isRecommended": false,
+                    "name": "Gold Member",
+                    "price": 2500,
+                    "pricePeriod": "6-month"
+                },
+                {
+                    "description": "12 months advertising",
+                    "features": [
+                        {
+                            "id": 7,
+                            "name": "Full page ad with 3 images of choice and logo"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Social media marketing"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Email marketing"
+                        },
+                        {
+                            "id": 34,
+                            "name": "A 30-second free commercial video promotion"
+                        }
+                    ],
+                    "id": 1,
+                    "isRecommended": true,
+                    "name": "Platinum Member",
+                    "price": 4500,
+                    "pricePeriod": "per year"
+                }
+            ],
+            "title": "Business Link Digital Magazine Promotion Packages"
+        },
+        {
+            "__component": "sections.feature-rows-group",
+            "features": [
+                {
+                    "description": "COVER: Premium Package\nCover Image and Story: Premium\nCover Image (Image Taken by Professional Photographer)\nProfessional Layout Design (with up to six images taken by photographer)\nPremium Space in Middle of Magazine\nStory (Max 1500 words. Client Interviewed and story professionally written)\nUp to five clickable links and one QR code (website and SM platforms)\n4 Highlighted Social Posts (Once a week on BLM Platform, 2 on Partner Platforms)\nFramed 11 x 17 Image of Cover\n\nCOST: $2,200.00 + HST",
+                    "id": 26,
+                    "link": {
+                        "id": 93,
+                        "newTab": false,
+                        "text": "See example",
+                        "url": "/"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-23T20:40:01.810Z",
+                        "ext": ".png",
+                        "formats": {
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_56_0caad7d641",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_56.png",
+                                "path": null,
+                                "size": 56.94,
+                                "url": "/uploads/thumbnail_56_0caad7d641.png",
+                                "width": 198
+                            }
+                        },
+                        "hash": "56_0caad7d641",
+                        "height": 350,
+                        "id": 129,
+                        "mime": "image/png",
+                        "name": "56.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 219.84,
+                        "updated_at": "2022-01-23T20:40:01.856Z",
+                        "url": "/uploads/56_0caad7d641.png",
+                        "width": 445
+                    },
+                    "title": "Cover Story"
+                },
+                {
+                    "description": "Full Page + Advertorial \nFull page ad with 3 images of choice and logo\nProfessional Layout Design (with up to 4 images selected by Client)\nPremium Space: End of Magazine / Last Story \nAdvertorial written about your business or special event (up to 500 words)\n2 clickable link or QR code to website or social platform\n2 highlighted social posts on BLM social platform\n\nCOST: $850 + HST ($650 for Ad + $200 Story)",
+                    "id": 27,
+                    "link": {
+                        "id": 94,
+                        "newTab": false,
+                        "text": "See example",
+                        "url": "/"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-23T20:27:37.969Z",
+                        "ext": ".png",
+                        "formats": {
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_inside_cover_re_837f993dfc",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_inside cover-re.png",
+                                "path": null,
+                                "size": 48.03,
+                                "url": "/uploads/thumbnail_inside_cover_re_837f993dfc.png",
+                                "width": 240
+                            }
+                        },
+                        "hash": "inside_cover_re_837f993dfc",
+                        "height": 195,
+                        "id": 123,
+                        "mime": "image/png",
+                        "name": "inside cover-re.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 63.25,
+                        "updated_at": "2022-01-23T20:27:37.991Z",
+                        "url": "/uploads/inside_cover_re_837f993dfc.png",
+                        "width": 300
+                    },
+                    "title": "Front Inside / Back Inside"
+                },
+                {
+                    "description": "1. Corporate Promotional Videos\n2. Social Media Videos\n3. Digital Events Productions\n4. Animation Video Productions\n5. AR/VR Video Productions\n\nContact us for more information on pricing. ",
+                    "id": 29,
+                    "link": {
+                        "id": 96,
+                        "newTab": false,
+                        "text": "See Business Promotional Video Sample",
+                        "url": "https://www.youtube.com/watch?v=HtWAU_Wc4fw"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-23T21:05:55.101Z",
+                        "ext": ".jpg",
+                        "formats": {
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "hash": "thumbnail_pexels_joseph_redfield_2883160_1_2ff0c50bf2",
+                                "height": 156,
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_pexels-joseph-redfield-2883160-1.jpg",
+                                "path": null,
+                                "size": 6.36,
+                                "url": "/uploads/thumbnail_pexels_joseph_redfield_2883160_1_2ff0c50bf2.jpg",
+                                "width": 234
+                            }
+                        },
+                        "hash": "pexels_joseph_redfield_2883160_1_2ff0c50bf2",
+                        "height": 200,
+                        "id": 132,
+                        "mime": "image/jpeg",
+                        "name": "pexels-joseph-redfield-2883160-1.jpg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 8.62,
+                        "updated_at": "2022-01-23T21:05:55.150Z",
+                        "url": "/uploads/pexels_joseph_redfield_2883160_1_2ff0c50bf2.jpg",
+                        "width": 300
+                    },
+                    "title": "Video Productions"
+                },
+                {
+                    "description": "Specification for two publications",
+                    "id": 31,
+                    "link": {
+                        "id": 98,
+                        "newTab": false,
+                        "text": "See details",
+                        "url": "specification"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-23T22:34:23.908Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_Picture9_1bf6d4cb8e",
+                                "height": 248,
+                                "mime": "image/png",
+                                "name": "small_Picture9.png",
+                                "path": null,
+                                "size": 50.71,
+                                "url": "/uploads/small_Picture9_1bf6d4cb8e.png",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_Picture9_1bf6d4cb8e",
+                                "height": 122,
+                                "mime": "image/png",
+                                "name": "thumbnail_Picture9.png",
+                                "path": null,
+                                "size": 15.58,
+                                "url": "/uploads/thumbnail_Picture9_1bf6d4cb8e.png",
+                                "width": 245
+                            }
+                        },
+                        "hash": "Picture9_1bf6d4cb8e",
+                        "height": 310,
+                        "id": 135,
+                        "mime": "image/png",
+                        "name": "Picture9.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 57.4,
+                        "updated_at": "2022-01-23T22:34:23.925Z",
+                        "url": "/uploads/Picture9_1bf6d4cb8e.png",
+                        "width": 624
+                    },
+                    "title": "Advertising Specification"
+                }
+            ],
+            "id": 11
+        }
+    ],
+    "created_at": "2021-06-12T19:49:27.410Z",
+    "id": 2,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 4,
+        "metaDescription": "The different plans",
+        "metaTitle": "Pricing",
+        "shareImage": null,
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Pricing",
+    "slug": "pricing",
+    "status": "published",
+    "updated_at": "2022-04-11T18:58:58.341Z"
+}

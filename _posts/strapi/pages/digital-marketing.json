@@ -1,0 +1,204 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.feature-rows-group",
+            "features": [
+                {
+                    "description": "Founded in 2003, our publications are designed to educate, inform and connect the business communities of Niagara, Hamilton and beyond. \nOur multitude of platforms give your business a prime opportunity to promote locally while achieving global exposure. BL digital publication distributed to businesses in Canada and beyond",
+                    "id": 9,
+                    "link": {
+                        "id": 65,
+                        "newTab": false,
+                        "text": "Learn more about our publications",
+                        "url": "digital-publications"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-03T20:35:48.917Z",
+                        "ext": ".png",
+                        "formats": {
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_r_14_46a1daff09",
+                                "height": 156,
+                                "mime": "image/png",
+                                "name": "thumbnail_r-14.png",
+                                "path": null,
+                                "size": 75.48,
+                                "url": "/uploads/thumbnail_r_14_46a1daff09.png",
+                                "width": 160
+                            }
+                        },
+                        "hash": "r_14_46a1daff09",
+                        "height": 408,
+                        "id": 75,
+                        "mime": "image/png",
+                        "name": "r-14.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 315.5,
+                        "updated_at": "2022-01-03T20:35:48.934Z",
+                        "url": "/uploads/r_14_46a1daff09.png",
+                        "width": 418
+                    },
+                    "title": "Digital Magazines"
+                },
+                {
+                    "description": "Our team creates content, produces and promotes videos, including online event broadcast productions, corporate promotional videos, social media short videos, educational animations, and AR/VR effect videos.",
+                    "id": 10,
+                    "link": {
+                        "id": 66,
+                        "newTab": true,
+                        "text": "Watch our recent online awards ceremony",
+                        "url": "https://www.youtube.com/channel/UCGqijciraZrrCrmK0QvlWog"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-03T12:15:21.851Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_video_bad9938f55",
+                                "height": 265,
+                                "mime": "image/png",
+                                "name": "small_video.png",
+                                "path": null,
+                                "size": 209.75,
+                                "url": "/uploads/small_video_bad9938f55.png",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_video_bad9938f55",
+                                "height": 130,
+                                "mime": "image/png",
+                                "name": "thumbnail_video.png",
+                                "path": null,
+                                "size": 60.66,
+                                "url": "/uploads/thumbnail_video_bad9938f55.png",
+                                "width": 245
+                            }
+                        },
+                        "hash": "video_bad9938f55",
+                        "height": 372,
+                        "id": 65,
+                        "mime": "image/png",
+                        "name": "video.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 272.79,
+                        "updated_at": "2022-01-03T12:15:21.876Z",
+                        "url": "/uploads/video_bad9938f55.png",
+                        "width": 703
+                    },
+                    "title": "Creative Video Production"
+                },
+                {
+                    "description": "Business Link TV Show has produced The Atrium, a community leadership interview broadcast program that has been broadcast in Canada and Hong Kong.\nA few more programs come soon in 2022.",
+                    "id": 11,
+                    "link": {
+                        "id": 69,
+                        "newTab": true,
+                        "text": "Watch Atrium online",
+                        "url": "https://www.youtube.com/watch?v=MWqTA-kvqEw"
+                    },
+                    "media": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-03T12:18:50.615Z",
+                        "ext": ".png",
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "hash": "small_atrium_2dd6e168a0",
+                                "height": 281,
+                                "mime": "image/png",
+                                "name": "small_atrium.png",
+                                "path": null,
+                                "size": 75.97,
+                                "url": "/uploads/small_atrium_2dd6e168a0.png",
+                                "width": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "hash": "thumbnail_atrium_2dd6e168a0",
+                                "height": 138,
+                                "mime": "image/png",
+                                "name": "thumbnail_atrium.png",
+                                "path": null,
+                                "size": 30.77,
+                                "url": "/uploads/thumbnail_atrium_2dd6e168a0.png",
+                                "width": 245
+                            }
+                        },
+                        "hash": "atrium_2dd6e168a0",
+                        "height": 383,
+                        "id": 66,
+                        "mime": "image/png",
+                        "name": "atrium.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 64.13,
+                        "updated_at": "2022-01-03T12:18:50.636Z",
+                        "url": "/uploads/atrium_2dd6e168a0.png",
+                        "width": 682
+                    },
+                    "title": "TV Shows"
+                }
+            ],
+            "id": 6
+        }
+    ],
+    "created_at": "2021-12-31T01:29:55.091Z",
+    "id": 9,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 16,
+        "metaDescription": "Our digital marketing includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel",
+        "metaTitle": "Social media marketing",
+        "shareImage": {
+            "alternativeText": "logo",
+            "caption": null,
+            "created_at": "2021-06-12T19:49:28.994Z",
+            "ext": ".png",
+            "formats": {
+                "thumbnail": {
+                    "ext": ".png",
+                    "hash": "thumbnail_logo_821cbc43e6",
+                    "height": 156,
+                    "mime": "image/png",
+                    "name": "thumbnail_logo.png",
+                    "path": null,
+                    "size": 30.08,
+                    "url": "/uploads/thumbnail_logo_821cbc43e6.png",
+                    "width": 173
+                }
+            },
+            "hash": "logo_821cbc43e6",
+            "height": 250,
+            "id": 3,
+            "mime": "image/png",
+            "name": "logo.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 32.67,
+            "updated_at": "2021-06-12T19:49:33.377Z",
+            "url": "/uploads/logo_821cbc43e6.png",
+            "width": 278
+        },
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Digital Marketing",
+    "slug": "digital-marketing",
+    "status": "published",
+    "updated_at": "2022-01-23T22:51:44.871Z"
+}

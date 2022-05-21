@@ -1,0 +1,237 @@
+{
+    "contentSections": [
+        {
+            "__component": "sections.hero",
+            "buttons": [
+                {
+                    "id": 33,
+                    "newTab": true,
+                    "text": "Read more",
+                    "type": "primary",
+                    "url": "https://www.ib2bl.com/article/simple-blockchain-primer-beginners"
+                }
+            ],
+            "description": "A space to learn some fundamental knowledge about NFTs, DAOs, Web 3, and Metaverse.",
+            "id": 7,
+            "label": "To learn, explore, and practise",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-02T22:30:35.256Z",
+                "ext": ".jpg",
+                "formats": {
+                    "large": {
+                        "ext": ".jpg",
+                        "hash": "large_Blockchain_In_Business_f0589cbffd",
+                        "height": 532,
+                        "mime": "image/jpeg",
+                        "name": "large_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 46.05,
+                        "url": "/uploads/large_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 1000
+                    },
+                    "medium": {
+                        "ext": ".jpg",
+                        "hash": "medium_Blockchain_In_Business_f0589cbffd",
+                        "height": 399,
+                        "mime": "image/jpeg",
+                        "name": "medium_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 31.61,
+                        "url": "/uploads/medium_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 750
+                    },
+                    "small": {
+                        "ext": ".jpg",
+                        "hash": "small_Blockchain_In_Business_f0589cbffd",
+                        "height": 266,
+                        "mime": "image/jpeg",
+                        "name": "small_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 18.57,
+                        "url": "/uploads/small_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 500
+                    },
+                    "thumbnail": {
+                        "ext": ".jpg",
+                        "hash": "thumbnail_Blockchain_In_Business_f0589cbffd",
+                        "height": 130,
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_Blockchain In Business.jpg",
+                        "path": null,
+                        "size": 7.17,
+                        "url": "/uploads/thumbnail_Blockchain_In_Business_f0589cbffd.jpg",
+                        "width": 245
+                    }
+                },
+                "hash": "Blockchain_In_Business_f0589cbffd",
+                "height": 910,
+                "id": 60,
+                "mime": "image/jpeg",
+                "name": "Blockchain In Business.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 86.53,
+                "updated_at": "2022-01-02T22:30:35.278Z",
+                "url": "/uploads/Blockchain_In_Business_f0589cbffd.jpg",
+                "width": 1711
+            },
+            "smallTextWithLink": "Welcome blockchain enthusiast far and wide! We\u2019re an online and in-person tech-enthusiast group hosting live speaking events on a range of NFTs, Cryptos, Web3.0, DAO and Metaverse topics. We are hosting regular events to learn from each other, to share your stories and experience, to explore something new, and to practice with some NFTs or DAOs. \n",
+            "title": "Blockchain in Business Club"
+        },
+        {
+            "__component": "sections.hero",
+            "buttons": [],
+            "description": "Find a best fit solution to your business",
+            "id": 8,
+            "label": "To consult",
+            "picture": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2022-01-16T03:52:29.375Z",
+                "ext": ".jpg",
+                "formats": {
+                    "large": {
+                        "ext": ".jpg",
+                        "hash": "large_blockchain_1_111cf7669f",
+                        "height": 563,
+                        "mime": "image/jpeg",
+                        "name": "large_blockchain-1.jpg",
+                        "path": null,
+                        "size": 39.14,
+                        "url": "/uploads/large_blockchain_1_111cf7669f.jpg",
+                        "width": 1000
+                    },
+                    "medium": {
+                        "ext": ".jpg",
+                        "hash": "medium_blockchain_1_111cf7669f",
+                        "height": 422,
+                        "mime": "image/jpeg",
+                        "name": "medium_blockchain-1.jpg",
+                        "path": null,
+                        "size": 26.94,
+                        "url": "/uploads/medium_blockchain_1_111cf7669f.jpg",
+                        "width": 750
+                    },
+                    "small": {
+                        "ext": ".jpg",
+                        "hash": "small_blockchain_1_111cf7669f",
+                        "height": 281,
+                        "mime": "image/jpeg",
+                        "name": "small_blockchain-1.jpg",
+                        "path": null,
+                        "size": 16.22,
+                        "url": "/uploads/small_blockchain_1_111cf7669f.jpg",
+                        "width": 500
+                    },
+                    "thumbnail": {
+                        "ext": ".jpg",
+                        "hash": "thumbnail_blockchain_1_111cf7669f",
+                        "height": 138,
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_blockchain-1.jpg",
+                        "path": null,
+                        "size": 6.5,
+                        "url": "/uploads/thumbnail_blockchain_1_111cf7669f.jpg",
+                        "width": 245
+                    }
+                },
+                "hash": "blockchain_1_111cf7669f",
+                "height": 1086,
+                "id": 112,
+                "mime": "image/jpeg",
+                "name": "blockchain-1.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 90.7,
+                "updated_at": "2022-01-16T03:52:29.409Z",
+                "url": "/uploads/blockchain_1_111cf7669f.jpg",
+                "width": 1930
+            },
+            "smallTextWithLink": "- DAO/DAC training, operating and marketing \n- NFTs creation and promotion\n- Metaverse creation and promotion\n- Blockchain project launching strategizing (coin listing, white paper and airdrop events)\n\n",
+            "title": "Blockchain Solutions"
+        }
+    ],
+    "created_at": "2022-01-02T01:45:00.608Z",
+    "id": 11,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 18,
+        "metaDescription": "Blockchain in business",
+        "metaTitle": "Blockchain in Business",
+        "shareImage": {
+            "alternativeText": "",
+            "caption": "",
+            "created_at": "2022-01-02T22:30:35.256Z",
+            "ext": ".jpg",
+            "formats": {
+                "large": {
+                    "ext": ".jpg",
+                    "hash": "large_Blockchain_In_Business_f0589cbffd",
+                    "height": 532,
+                    "mime": "image/jpeg",
+                    "name": "large_Blockchain In Business.jpg",
+                    "path": null,
+                    "size": 46.05,
+                    "url": "/uploads/large_Blockchain_In_Business_f0589cbffd.jpg",
+                    "width": 1000
+                },
+                "medium": {
+                    "ext": ".jpg",
+                    "hash": "medium_Blockchain_In_Business_f0589cbffd",
+                    "height": 399,
+                    "mime": "image/jpeg",
+                    "name": "medium_Blockchain In Business.jpg",
+                    "path": null,
+                    "size": 31.61,
+                    "url": "/uploads/medium_Blockchain_In_Business_f0589cbffd.jpg",
+                    "width": 750
+                },
+                "small": {
+                    "ext": ".jpg",
+                    "hash": "small_Blockchain_In_Business_f0589cbffd",
+                    "height": 266,
+                    "mime": "image/jpeg",
+                    "name": "small_Blockchain In Business.jpg",
+                    "path": null,
+                    "size": 18.57,
+                    "url": "/uploads/small_Blockchain_In_Business_f0589cbffd.jpg",
+                    "width": 500
+                },
+                "thumbnail": {
+                    "ext": ".jpg",
+                    "hash": "thumbnail_Blockchain_In_Business_f0589cbffd",
+                    "height": 130,
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_Blockchain In Business.jpg",
+                    "path": null,
+                    "size": 7.17,
+                    "url": "/uploads/thumbnail_Blockchain_In_Business_f0589cbffd.jpg",
+                    "width": 245
+                }
+            },
+            "hash": "Blockchain_In_Business_f0589cbffd",
+            "height": 910,
+            "id": 60,
+            "mime": "image/jpeg",
+            "name": "Blockchain In Business.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "size": 86.53,
+            "updated_at": "2022-01-02T22:30:35.278Z",
+            "url": "/uploads/Blockchain_In_Business_f0589cbffd.jpg",
+            "width": 1711
+        },
+        "twitterCardType": "summary",
+        "twitterUsername": "@something"
+    },
+    "shortName": "Web 3.0 Enabling",
+    "slug": "blockchain",
+    "status": "published",
+    "updated_at": "2022-01-23T23:12:02.606Z"
+}
