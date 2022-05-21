@@ -7,7 +7,8 @@
     "metaDescription": "Canada's Leading Digital Marketing Specialist",
     "twitterCardType": "summary",
     "twitterUsername": null,
-    "shareImage": "/uploads/covers_1_aeb34895cb.png"
+    "shareImage": "/uploads/covers_1_aeb34895cb.png",
+    "shareImage:": "/uploads/thumbnail_covers_1_aeb34895cb.png"
   },
   "contentSections": [
     {
@@ -103,14 +104,14 @@
     },
     {
       "contentSectionType": "wideVideo",
-      "__component": "sections.wide-video",
-      "title": null,
-      "label": null,
-      "description": null,
-      "youtubeEmbedUrl": "https://youtu.be/PyziCu-4jyE",
-      "videoUrl": null,
       "richText": null,
-      "video": null
+      "videoUrl": null,
+      "label": null,
+      "title": null,
+      "youtubeEmbedUrl": "https://youtu.be/PyziCu-4jyE",
+      "video": null,
+      "description": null,
+      "__component": "sections.wide-video"
     },
     {
       "contentSectionType": "richText",
