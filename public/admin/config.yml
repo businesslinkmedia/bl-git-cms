@@ -1,13 +1,10 @@
 
 
-
-blog_layout: &blog_layout {required: false, label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-blog_title: &blog_title {required: false, label: "Title", name: "title", widget: "string"}
-blog_date: &blog_date {required: false, label: "Publish Date", name: "date", widget: "datetime"}
-blog_thumbnail: &blog_thumbnail {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
-blog_rating: &blog_rating {required: false, label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-blog_body: &blog_body {required: false, label: "Body", name: "body", widget: "markdown"}
-
+# Define Fields
+url_field: &url_field                  
+    - {required: false, label: "url", name: "url", widget: "string"}
+    - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+    - {required: false, label: "text", name: "text", widget: "string"}
 
 backend:
   name: git-gateway
@@ -58,11 +55,7 @@ collections:
                   - label: "target link"
                     name: "link"
                     widget: "object"
-                    fields:
-                      - {required: false, label: "url", name: "url", widget: "string"}
-                      - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
-                      - {required: false, label: "text", name: "text", widget: "string"}
-                  - {required: false, label: "image", name: "image", widget: "image"}
+                    fields: *url_field
           # Image Gallery Content Section
           - label: "Image Gallery"
             name: "imageGallery"
@@ -137,38 +130,3 @@ collections:
 
 
       - {required: false, label: "Status", name: "status", widget: "hidden", default: "published"}
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "_posts/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - *blog_layout
-      - *blog_title 
-      - *blog_date
-      - *blog_thumbnail
-      - *blog_rating
-      - *blog_body
-  - name: "article" # Used in routes, e.g., /admin/collections/blog
-    label: "Articles" # Used in the UI
-    label_singular: "Article"
-    folder: "_posts/article" # The path to the folder where the documents are stored
-    format: 'json'
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "article"}
-      - {required: false, label: "Title", name: "title", widget: "string"}
-      - {required: false, label: "Publish Date", name: "date", widget: "datetime"}
-      - {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {required: false, label: "Excerpt", name: "excerpt", widget: "markdown"}
-      - {required: false, label: "Body", name: "body", widget: "markdown"}
-  - name: "anchor-blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Anchor Blog" # Used in the UI
-    folder: "_posts/anchor-blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - *blog_title 
-      - *blog_date
-      - *blog_body
