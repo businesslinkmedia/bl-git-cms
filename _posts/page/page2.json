@@ -7,6 +7,19 @@
   "status": "published",
   "contentSections": [
     {
+      "contentSectionType": "wideVideo",
+      "__component": "sections.wide-video",
+      "title": "Wide Video 1",
+      "description": "some desc for wide video1",
+      "label": "label1",
+      "youtubeEmbedUrl": "somethin",
+      "richText": "some rich text"
+    },
+    {
+      "contentSectionType": "wideHero",
+      "__component": "sections.wide-hero"
+    },
+    {
       "contentSectionType": "featuredRow",
       "__component": "sections.feature-rows-group",
       "features": [
@@ -26,10 +39,6 @@
           "label": "label2"
         }
       ]
-    },
-    {
-      "contentSectionType": "wideHero",
-      "__component": "sections.wide-hero"
     }
   ],
   "slug": "page2",
