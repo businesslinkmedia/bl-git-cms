@@ -1,10 +1,29 @@
 
 
-# Define Fields
-url_field: &url_field                  
-    - {required: false, label: "url", name: "url", widget: "string"}
-    - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
-    - {required: false, label: "text", name: "text", widget: "string"}
+###
+### Reusable Fields and Components
+###
+################ Link
+link_component: &link_component                
+  - {required: false, label: "url", name: "url", widget: "string"}
+  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+  - {required: false, label: "text", name: "text", widget: "string"}
+################ Meta
+meta_component: &meta_component
+  - {label: "Meta Title", name: "metaTitle", widget: "string"}
+  - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
+  - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
+  - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
+  - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
+################ Description
+desc_field: &desc_field {required: false, label: "label", name: "label", widget: "string"}
+################ Label
+label_field: &label_field {required: false, label: "description", name: "description", widget: "text"}
+################ Title
+title_field: &title_field {required: false, label: "title", name: "title", widget: "string"}
+###
+### Define Fields ***END***
+###
 
 backend:
   name: git-gateway
@@ -25,12 +44,7 @@ collections:
         name: "metadata"
         widget: "object"
         required: false
-        fields:
-            - {label: "Meta Title", name: "metaTitle", widget: "string"}
-            - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
-            - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
-            - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
-            - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
+        fields: *meta_component
       - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
@@ -50,12 +64,12 @@ collections:
                 widget: "list" 
                 default: []
                 fields:
-                  - {required: false, label: "title", name: "title", widget: "string"}
-                  - {required: false, label: "description", name: "description", widget: "text"}
+                  - *title_field
+                  - *desc_field
                   - label: "target link"
                     name: "link"
                     widget: "object"
-                    fields: *url_field
+                    fields: *link_component
           # Image Gallery Content Section
           - label: "Image Gallery"
             name: "imageGallery"
@@ -72,10 +86,7 @@ collections:
                   - label: "targetLink"
                     name: "targetLink"
                     widget: "object"
-                    fields:
-                      - {required: false, label: "url", name: "url", widget: "string"}
-                      - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
-                      - {required: false, label: "text", name: "text", widget: "string"}
+                    fields: *link_component
           # Rich Text Content Section
           - label: "Rich Text"
             name: "richText"
@@ -89,23 +100,20 @@ collections:
             widget: "object"
             fields:
               - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.video-landing-page"}
-              - {required: false, label: "title", name: "title", widget: "string"}
-              - {required: false, label: "label", name: "label", widget: "string"}
-              - {required: false, label: "description", name: "description", widget: "text"}
+              - *title_field
+              - *label_field
+              - *desc_field
               - {required: false, label: "smallTextWithLink", name: "smallTextWithLink", widget: "text"}
               - label: "videoURLs"
                 name: "videoURLs"
                 widget: "list"
-                fields:
-                  - {required: false, label: "url", name: "url", widget: "string"}
-                  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
-                  - {required: false, label: "text", name: "text", widget: "string"}
+                fields: *link_component
               - label: "InlineFeatures"
                 name: "InlineFeatures"
                 widget: "list"
                 fields:
-                  - {required: false, label: "title", name: "title", widget: "string"}
-                  - {required: false, label: "description", name: "description", widget: "text"}
+                  - *title_field
+                  - *desc_field
                   - {required: false, label: "Target url", name: "url", widget: "string"}
                   - {required: false, label: "image", name: "image", widget: "image"}
           # Wide Hero Content Section
@@ -120,13 +128,11 @@ collections:
             widget: "object"
             fields:
               - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
-              - {required: false, label: "title", name: "title", widget: "string"}
-              - {required: false, label: "label", name: "label", widget: "string"}
-              - {required: false, label: "description", name: "description", widget: "text"}
+              - *title_field
+              - *label_field
+              - *desc_field
               - {required: false, label: "youtubeEmbedUrl", name: "youtubeEmbedUrl", widget: "string"}
               - {required: false, label: "videoUrl", name: "videoUrl", widget: "string"}
               - {required: false, label: "richText", name: "richText", widget: "text"}
               - {required: false, label: "video", name: "video", widget: "hidden", default:""}
-
-
       - {required: false, label: "Status", name: "status", widget: "hidden", default: "published"}
