@@ -1,0 +1,249 @@
+{
+    "contentSections": [
+        {
+            "InlineFeatures": [
+                {
+                    "description": "info@businesslinkmedia.com",
+                    "id": 10,
+                    "image": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-06T02:47:26.803Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "email_svgrepo_com_e1fd874d71",
+                        "height": 495,
+                        "id": 89,
+                        "mime": "image/svg+xml",
+                        "name": "email-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 1.39,
+                        "updated_at": "2022-01-06T02:47:26.826Z",
+                        "url": "/uploads/email_svgrepo_com_e1fd874d71.svg",
+                        "width": 495
+                    },
+                    "imageUrl": null,
+                    "title": "Email",
+                    "url": "mailto:info@businesslinkmedia.com"
+                },
+                {
+                    "description": "+1-905-646-9366",
+                    "id": 11,
+                    "image": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-06T02:49:26.681Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "phone_svgrepo_com_2b9e550ae2",
+                        "height": 60,
+                        "id": 90,
+                        "mime": "image/svg+xml",
+                        "name": "phone-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 4.49,
+                        "updated_at": "2022-01-06T02:49:26.701Z",
+                        "url": "/uploads/phone_svgrepo_com_2b9e550ae2.svg",
+                        "width": 60
+                    },
+                    "imageUrl": null,
+                    "title": "Phone",
+                    "url": "tel:+1-905-646-9366"
+                },
+                {
+                    "description": "Business Link Media Group\n\n4056 Dorchester Rd, Suite 203\n\nNiagara Falls ON L2E 6M9\n\n",
+                    "id": 9,
+                    "image": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-06T02:51:25.941Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "google_maps_old_svgrepo_com_6743814d03",
+                        "height": 512,
+                        "id": 91,
+                        "mime": "image/svg+xml",
+                        "name": "google-maps-old-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 0.71,
+                        "updated_at": "2022-01-06T02:51:25.961Z",
+                        "url": "/uploads/google_maps_old_svgrepo_com_6743814d03.svg",
+                        "width": 512
+                    },
+                    "imageUrl": null,
+                    "title": "Address",
+                    "url": "https://www.google.com/maps/dir/43.126242,-79.0983953/business+link+media/@43.120164,-79.1141383,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89d345d859e52947:0x97ca41d8413220a!2m2!1d-79.1113444!2d43.1140244"
+                }
+            ],
+            "__component": "sections.video-landing-page",
+            "description": "",
+            "id": 1,
+            "label": null,
+            "smallTextWithLink": "",
+            "title": "Contact Us",
+            "video": {
+                "alternativeText": "",
+                "caption": "",
+                "created_at": "2021-06-17T13:18:51.503Z",
+                "ext": ".mp4",
+                "formats": null,
+                "hash": "Video_0001_5ecaf15a64",
+                "height": null,
+                "id": 35,
+                "mime": "video/mp4",
+                "name": "Video-0001.mp4",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "size": 2174.27,
+                "updated_at": "2021-06-17T13:19:10.919Z",
+                "url": "/uploads/Video_0001_5ecaf15a64.mp4",
+                "width": null
+            },
+            "videoURLs": [
+                {
+                    "id": 51,
+                    "newTab": false,
+                    "text": "aa0",
+                    "url": "https://user-images.githubusercontent.com/50277101/126424217-2bcd6373-3d6b-46e4-a6ea-29d0bcfde57f.mp4"
+                },
+                {
+                    "id": 55,
+                    "newTab": false,
+                    "text": "aaa",
+                    "url": "https://user-images.githubusercontent.com/50277101/126424278-8c21e241-ef86-40f7-af3f-21f5a3d514c9.mp4"
+                },
+                {
+                    "id": 56,
+                    "newTab": false,
+                    "text": "aab",
+                    "url": "https://user-images.githubusercontent.com/50277101/126424305-82ae7502-c62e-40cc-8f55-a8717d8543e7.mp4"
+                },
+                {
+                    "id": 52,
+                    "newTab": false,
+                    "text": "aad",
+                    "url": "https://user-images.githubusercontent.com/50277101/126424379-c341228d-068b-456f-968c-2b5c663efef5.mp4"
+                },
+                {
+                    "id": 57,
+                    "newTab": false,
+                    "text": "380955d9a747",
+                    "url": "https://user-images.githubusercontent.com/50277101/129459111-2049e0c3-377a-4d8a-935d-380955d9a747.mp4"
+                },
+                {
+                    "id": 58,
+                    "newTab": false,
+                    "text": "f6a20e658025",
+                    "url": "https://user-images.githubusercontent.com/50277101/129459247-c3a35f75-9f4a-4742-b14f-f6a20e658025.mp4"
+                }
+            ]
+        },
+        {
+            "__component": "sections.feature-columns-group",
+            "features": [
+                {
+                    "description": "Business Link Media Group\n \n4056 Dorchester Rd, Suite 203\n \nNiagara Falls ON L2E 6M9\n",
+                    "icon": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-15T20:59:29.279Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "post_address_svgrepo_com_9309d16970",
+                        "height": 242,
+                        "id": 110,
+                        "mime": "image/svg+xml",
+                        "name": "post-address-svgrepo-com.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 2.93,
+                        "updated_at": "2022-01-15T20:59:29.301Z",
+                        "url": "/uploads/post_address_svgrepo_com_9309d16970.svg",
+                        "width": 242
+                    },
+                    "id": 16,
+                    "title": "Address"
+                },
+                {
+                    "description": "+1-905-646-9366",
+                    "icon": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-15T20:59:29.195Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "phone_mono_f9fb1cee06",
+                        "height": 60,
+                        "id": 109,
+                        "mime": "image/svg+xml",
+                        "name": "phone-mono.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 3.18,
+                        "updated_at": "2022-01-15T20:59:29.231Z",
+                        "url": "/uploads/phone_mono_f9fb1cee06.svg",
+                        "width": 60
+                    },
+                    "id": 17,
+                    "title": "Phone"
+                },
+                {
+                    "description": "info@businesslinkmedia.com",
+                    "icon": {
+                        "alternativeText": "",
+                        "caption": "",
+                        "created_at": "2022-01-15T20:59:29.093Z",
+                        "ext": ".svg",
+                        "formats": null,
+                        "hash": "email_mono_8c2d7680fa",
+                        "height": 493,
+                        "id": 108,
+                        "mime": "image/svg+xml",
+                        "name": "email-mono.svg",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "size": 1.87,
+                        "updated_at": "2022-01-15T20:59:29.124Z",
+                        "url": "/uploads/email_mono_8c2d7680fa.svg",
+                        "width": 493
+                    },
+                    "id": 18,
+                    "title": "Email"
+                }
+            ],
+            "id": 6
+        },
+        {
+            "__component": "sections.bottom-actions",
+            "buttons": [],
+            "id": 6,
+            "title": null
+        }
+    ],
+    "created_at": "2021-06-12T19:49:27.606Z",
+    "id": 4,
+    "locale": "en",
+    "localizations": [],
+    "metadata": {
+        "id": 6,
+        "metaDescription": "Get in touch with our team",
+        "metaTitle": "Contact",
+        "shareImage": null,
+        "twitterCardType": "summary",
+        "twitterUsername": null
+    },
+    "shortName": "Contact",
+    "slug": "contact",
+    "status": "published",
+    "updated_at": "2022-03-16T13:18:24.771Z"
+}
