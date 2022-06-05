@@ -82,6 +82,7 @@
                 }
             ],
             "__component": "sections.video-landing-page",
+            "contentSectionType": "videoLandingPage",
             "description": "",
             "id": 1,
             "label": null,
