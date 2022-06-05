@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "twitterCardType:": "summary",
+    "metaTitle": "meta1"
+  },
+  "layout": "page",
+  "status": "published",
+  "title": "url field test",
+  "slug": "url-field-test",
+  "contentSections": [
+    {
+      "contentSectionType": "featuredRow",
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://unsplash.com/photos/yJcHF_XJfbk",
+            "text": "some text here"
+          }
+        }
+      ]
+    }
+  ]
+}
