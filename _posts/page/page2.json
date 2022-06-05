@@ -1,6 +1,7 @@
 {
   "metadata": {
-    "twitterCardType:": "summary"
+    "twitterCardType:": "summary",
+    "metaTitle": "12"
   },
   "layout": "page",
   "status": "published",
@@ -14,8 +15,21 @@
             "newTab": false,
             "url": "/test"
           }
+        },
+        {
+          "link": {
+            "newTab": true,
+            "url": "/test2",
+            "text": "some text for test2"
+          },
+          "title": "feature 2",
+          "label": "label2"
         }
       ]
+    },
+    {
+      "contentSectionType": "wideHero",
+      "__component": "sections.wide-hero"
     }
   ],
   "slug": "page2",
