@@ -163,4 +163,12 @@ collections:
       - {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
       - {required: false, label: "Excerpt", name: "excerpt", widget: "markdown"}
       - {required: false, label: "Body", name: "body", widget: "markdown"}
-
+  - name: "anchor-blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Anchor Blog" # Used in the UI
+    folder: "_posts/anchor-blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - *blog_title 
+      - *blog_date
+      - *blog_body
