@@ -41,92 +41,92 @@ title_field: &title_field {required: false, label: "title", name: "title", widge
 ###
 #__________________________ Featured Row Content Section
 feature_rows: &feature_rows  
-  - label: "Feature Rows"
-    name: "featuredRows"
-    widget: "object"
-    fields:
-      - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
-      - label: "Features"
-        name: "features"
-        widget: "list" 
-        default: []
-        fields:
-          - *title_field
-          - *desc_field
-          - label: "target link"
-            name: "link"
-            widget: "object"
-            fields: *link_component
+  label: "Feature Rows"
+  name: "featuredRows"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
+    - label: "Features"
+      name: "features"
+      widget: "list" 
+      default: []
+      fields:
+        - *title_field
+        - *desc_field
+        - label: "target link"
+          name: "link"
+          widget: "object"
+          fields: *link_component
 #____________________________Image Gallery Content Section
 image_gallery: &image_gallery
-  - label: "Image Gallery"
-    name: "imageGallery"
-    widget: "object"
-    fields:
-      - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.image-gallery"}
-      - {required: false, label: "Title", name: "Title", widget: "string"}
-      - {required: false, label: "ImagesPerLine", name: "ImagesPerLine", widget: "number"}
-      - label: "imageWithLink"
-        name: "imageWithLink"
-        widget: "list"
-        fields:
-          - {required: false, label: "imageUrl", name: "imageUrl", widget: "image"}
-          - label: "targetLink"
-            name: "targetLink"
-            widget: "object"
-            fields: *link_component
+  label: "Image Gallery"
+  name: "imageGallery"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.image-gallery"}
+    - {required: false, label: "Title", name: "Title", widget: "string"}
+    - {required: false, label: "ImagesPerLine", name: "ImagesPerLine", widget: "number"}
+    - label: "imageWithLink"
+      name: "imageWithLink"
+      widget: "list"
+      fields:
+        - {required: false, label: "imageUrl", name: "imageUrl", widget: "image"}
+        - label: "targetLink"
+          name: "targetLink"
+          widget: "object"
+          fields: *link_component
 #_____________________ Rich Text Content Section
 rich_text: &rich_text
-  - label: "Rich Text"
-    name: "richText"
-    widget: "object"
-    fields:
-      - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.rich-text"}
-      - {required: false, label: "Content", name: "content", widget: "text"}
+  label: "Rich Text"
+  name: "richText"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.rich-text"}
+    - {required: false, label: "Content", name: "content", widget: "text"}
 #______________________________ Video Landing Page Content Section
 video_landing_page: &video_landing_page
-  - label: "Video Landing Page"
-    name: "videoLandingPage"
-    widget: "object"
-    fields:
-      - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.video-landing-page"}
-      - *title_field
-      - *label_field
-      - *desc_field
-      - {required: false, label: "smallTextWithLink", name: "smallTextWithLink", widget: "text"}
-      - label: "videoURLs"
-        name: "videoURLs"
-        widget: "list"
-        fields: *link_component
-      - label: "InlineFeatures"
-        name: "InlineFeatures"
-        widget: "list"
-        fields:
-          - *title_field
-          - *desc_field
-          - {required: false, label: "Target url", name: "url", widget: "string"}
-          - {required: false, label: "image", name: "image", widget: "image"}
+  label: "Video Landing Page"
+  name: "videoLandingPage"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.video-landing-page"}
+    - *title_field
+    - *label_field
+    - *desc_field
+    - {required: false, label: "smallTextWithLink", name: "smallTextWithLink", widget: "text"}
+    - label: "videoURLs"
+      name: "videoURLs"
+      widget: "list"
+      fields: *link_component
+    - label: "InlineFeatures"
+      name: "InlineFeatures"
+      widget: "list"
+      fields:
+        - *title_field
+        - *desc_field
+        - {required: false, label: "Target url", name: "url", widget: "string"}
+        - {required: false, label: "image", name: "image", widget: "image"}
 #____________________ Wide Hero Content Section
 wide_hero: &wide_hero
-  - label: "Wide Hero"
-    name: "wideHero"
-    widget: "object"
-    fields:
-      - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
+  label: "Wide Hero"
+  name: "wideHero"
+  widget: "object"
+  fields:
+    - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
 #______________________ Wide Video Content Section
 wide_video: &wide_video
-  - label: "Wide Video"
-    name: "wideVideo"
-    widget: "object"
-    fields:
-      - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
-      - *title_field
-      - *label_field
-      - *desc_field
-      - {required: false, label: "youtubeEmbedUrl", name: "youtubeEmbedUrl", widget: "string"}
-      - {required: false, label: "videoUrl", name: "videoUrl", widget: "string"}
-      - {required: false, label: "richText", name: "richText", widget: "text"}
-      - {required: false, label: "video", name: "video", widget: "hidden", default:""}
+  label: "Wide Video"
+  name: "wideVideo"
+  widget: "object"
+  fields:
+    - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
+    - *title_field
+    - *label_field
+    - *desc_field
+    - {required: false, label: "youtubeEmbedUrl", name: "youtubeEmbedUrl", widget: "string"}
+    - {required: false, label: "videoUrl", name: "videoUrl", widget: "string"}
+    - {required: false, label: "richText", name: "richText", widget: "text"}
+    - {required: false, label: "video", name: "video", widget: "hidden", default:""}
 ##/////////////////////////////////////////////////////////////////////////////////////////////////##
 
 backend:
