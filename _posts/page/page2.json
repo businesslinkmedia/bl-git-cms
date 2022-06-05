@@ -20,7 +20,7 @@
       "__component": "sections.wide-hero"
     },
     {
-      "contentSectionType": "featuredRow",
+      "contentSectionType": "featureRows",
       "__component": "sections.feature-rows-group",
       "features": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "contentSectionType": "featuredRows",
+      "contentSectionType": "featureRows",
       "__component": "sections.feature-rows-group",
       "features": [
         {

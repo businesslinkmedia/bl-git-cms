@@ -42,7 +42,7 @@ title_field: &title_field {required: false, label: "title", name: "title", widge
 #__________________________ Featured Row Content Section
 feature_rows: &feature_rows  
   label: "Feature Rows"
-  name: "featuredRows"
+  name: "featureRows"
   widget: "object"
   fields:
     - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}

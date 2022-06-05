@@ -72,7 +72,7 @@
       ]
     },
     {
-      "contentSectionType": "featuredRow",
+      "contentSectionType": "featureRows",
       "__component": "sections.feature-rows-group",
       "features": [
         {
