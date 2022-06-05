@@ -1,3 +1,14 @@
+
+
+
+blog_layout: &blog_layout {required: false, label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+blog_title: &blog_title {required: false, label: "Title", name: "title", widget: "string"}
+blog_date: &blog_date {required: false, label: "Publish Date", name: "date", widget: "datetime"}
+blog_thumbnail: &blog_thumbnail {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
+blog_rating: &blog_rating {required: false, label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+blog_body: &blog_body {required: false, label: "Body", name: "body", widget: "markdown"}
+
+
 backend:
   name: git-gateway
   branch: main # Branch to update
@@ -132,12 +143,12 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {required: false, label: "Title", name: "title", widget: "string"}
-      - {required: false, label: "Publish Date", name: "date", widget: "datetime"}
-      - {required: false, label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {required: false, label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      - {required: false, label: "Body", name: "body", widget: "markdown"}
+      - *blog_layout
+      - *blog_title 
+      - *blog_date
+      - *blog_thumbnail
+      - *blog_rating
+      - *blog_body
   - name: "article" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
     label_singular: "Article"
@@ -153,6 +164,3 @@ collections:
       - {required: false, label: "Excerpt", name: "excerpt", widget: "markdown"}
       - {required: false, label: "Body", name: "body", widget: "markdown"}
 
-## comment the following line before prod
-local_backend: true
-##
