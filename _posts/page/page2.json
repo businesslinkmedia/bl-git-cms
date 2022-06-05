@@ -39,6 +39,30 @@
           "label": "label2"
         }
       ]
+    },
+    {
+      "contentSectionType": "featuredRows",
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "link": {
+            "newTab": false,
+            "url": "/feature1",
+            "text": "feature 1"
+          },
+          "title": "row1",
+          "label": "labe1"
+        },
+        {
+          "link": {
+            "newTab": false,
+            "url": "/feature2",
+            "text": "feature 2"
+          },
+          "title": "row2",
+          "label": "feature2"
+        }
+      ]
     }
   ],
   "slug": "page2",
