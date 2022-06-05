@@ -24,11 +24,11 @@ meta_component: &meta_component
   - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
 ################ Metadata Section
 metadata_section: &metadata_section
-  - label: "Metadata"
-    name: "metadata"
-    widget: "object"
-    required: false
-    fields: *meta_component
+  label: "Metadata"
+  name: "metadata"
+  widget: "object"
+  required: false
+  fields: *meta_component
 ################ Description
 desc_field: &desc_field {required: false, label: "label", name: "label", widget: "string"}
 ################ Label
