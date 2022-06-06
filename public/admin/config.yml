@@ -11,9 +11,17 @@ buttonLink_component: &buttonLink_component
   - {required: false, label: "type", name: "type", widget: "select", options: ["primary", "secondary"]}
 
 #______________________ Description
-desc_field: &desc_field {required: false, label: "label", name: "label", widget: "string"}
+desc_field: &desc_field {required: false, label: "description", name: "description", widget: "text"}
+#_________________________ Title
+title_field: &title_field {required: false, label: "title", name: "title", widget: "string"}
 #________________________ Label
-label_field: &label_field {required: false, label: "description", name: "description", widget: "text"}
+label_field: &label_field {required: false, label: "label", name: "label", widget: "string"}
+#________________________ Feature Column
+feature_column: &feature_column
+  - *title_field
+  - *desc_field
+  - {label: "icon", name: "icon", widget: "image"}
+
 #________________________________Link
 link_component: &link_component                
   - {required: false, label: "url", name: "url", widget: "string"}
@@ -49,8 +57,6 @@ plan_component: &plan_component
     - {label: "Is recommended?", name: "isRecommended", widget: "boolean", default: false }
     - {label: "Price", name: "price", widget: "number", value_type: "int" }
     - {label: "Price Period", name: "pricePeriod", widget: "string"}
-#_________________________ Title
-title_field: &title_field {required: false, label: "title", name: "title", widget: "string"}
 ##//////////////////////////////////////////////////////////////////////////////////////////////#
 ###
 ### Content Sections
@@ -68,24 +74,44 @@ bottom_actions: &bottom_actions
       widget: "list"
       default: []
       fields: *buttonLink_component
+#__________________________ Featured Column Content Section
+feature_columns: &feature_columns  
+  label: "Feature Columns"
+  name: "featureColumns"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
 #__________________________ Featured Row Content Section
 feature_rows: &feature_rows  
   label: "Feature Rows"
   name: "featureRows"
   widget: "object"
   fields:
-    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-columns-group"}
     - label: "Features"
       name: "features"
       widget: "list" 
       default: []
+      fields: *feature_column
+#____________________ Hero Content Section
+hero: &hero
+  label: "Hero"
+  name: "hero"
+  widget: "object"
+  fields:
+    - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.hero"}
+    - *title_field
+    - *label_field
+    - *desc_field
+    - {label: "Picture", name: "picture", widget: "image"}
+    - {label: "Small Text With Link", name: "smallTextWithLink", widget: "text"}
+    - label: "Buttons"
+      name: "buttons"
+      widget: "list"
       fields:
-        - *title_field
-        - *desc_field
-        - label: "target link"
-          name: "link"
-          widget: "object"
-          fields: *link_component
+        - *buttonLink_component
+
+
 #____________________________Image Gallery Content Section
 image_gallery: &image_gallery
   label: "Image Gallery"
@@ -206,7 +232,9 @@ collections:
           - *wide_hero
           - *wide_video
           - *feature_rows
+          - *hero
           - *rich_text
+          - *feature_columns
           - *bottom_actions
           - *image_gallery
           - *on_page_anchor
