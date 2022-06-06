@@ -80,7 +80,12 @@ feature_columns: &feature_columns
   name: "featureColumns"
   widget: "object"
   fields:
-    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-columns-group"}
+    - label: "Features"
+      name: "features"
+      widget: "list" 
+      default: []
+      fields: *feature_column
 #__________________________ Featured Row Content Section
 feature_rows: &feature_rows  
   label: "Feature Rows"
@@ -92,7 +97,13 @@ feature_rows: &feature_rows
       name: "features"
       widget: "list" 
       default: []
-      fields: *feature_column
+      fields:
+        - *title_field
+        - *desc_field
+        - label: "target link"
+          name: "link"
+          widget: "object"
+          fields: *link_component
 #____________________ Hero Content Section
 hero: &hero
   label: "Hero"
