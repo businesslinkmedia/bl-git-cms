@@ -108,8 +108,7 @@ hero: &hero
     - label: "Buttons"
       name: "buttons"
       widget: "list"
-      fields:
-        - *buttonLink_component
+      fields: *buttonLink_component
 
 
 #____________________________Image Gallery Content Section
