@@ -3,42 +3,69 @@
 ###
 ### Reusable Fields and Components
 ###
-################ Button Link
+#_________________________________________ Button Link
 buttonLink_component: &buttonLink_component                
   - {required: false, label: "url", name: "url", widget: "string"}
   - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
   - {required: false, label: "text", name: "text", widget: "string"}
   - {required: false, label: "type", name: "type", widget: "select", options: ["primary", "secondary"]}
 
-################ Link
+#______________________ Description
+desc_field: &desc_field {required: false, label: "label", name: "label", widget: "string"}
+#________________________ Label
+label_field: &label_field {required: false, label: "description", name: "description", widget: "text"}
+#________________________________Link
 link_component: &link_component                
   - {required: false, label: "url", name: "url", widget: "string"}
   - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
   - {required: false, label: "text", name: "text", widget: "string"}
-################ Meta
+#________________________________Meta
 meta_component: &meta_component
   - {label: "Meta Title", name: "metaTitle", widget: "string"}
   - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
   - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
   - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
   - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
-################ Metadata Section
+#___________________________________ Metadata Section
 metadata_section: &metadata_section
   label: "Metadata"
   name: "metadata"
   widget: "object"
   required: false
   fields: *meta_component
-################ Description
-desc_field: &desc_field {required: false, label: "label", name: "label", widget: "string"}
-################ Label
-label_field: &label_field {required: false, label: "description", name: "description", widget: "text"}
-################ Title
+#_________________________ Plan Component
+plan_component: &plan_component
+  label: "plan"
+  name: "plan"
+  widget: "object"
+  fields:
+    - *desc_field
+    - label: "features"
+      widget: "list"
+      default: []
+      fields:
+        - {label: "name", name: "name", widget: "string"}
+    - {label: "Is recommended?", name: "isRecommended", widget: "boolean", default: false }
+    - {label: "Price", name: "price", widget: "number", value_type: "int" }
+    - {label: "Price Period", name: "pricePeriod", widget: "string"}
+#_________________________ Title
 title_field: &title_field {required: false, label: "title", name: "title", widget: "string"}
 ##//////////////////////////////////////////////////////////////////////////////////////////////#
 ###
 ### Content Sections
 ###
+#__________________________ Bottom Actions Content Section
+bottom_actions: &bottom_actions
+  label: "Bottom Actions"
+  name: "bottomActions"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.bottom-actions"}
+    - *title_field
+    - label: "buttons"
+      widget: "list"
+      default: []
+      fields: *buttonLink_component
 #__________________________ Featured Row Content Section
 feature_rows: &feature_rows  
   label: "Feature Rows"
@@ -75,6 +102,26 @@ image_gallery: &image_gallery
           name: "targetLink"
           widget: "object"
           fields: *link_component
+#_____________________ On Page Anchor Content Section
+on_page_anchor: &on_page_anchor
+  label: "Anchor"
+  name: "anchor"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.on-page-anchor"}
+    - {label: "Anchor ID", name: "anchorID", widget: "string"}
+#_____________________ Pricing Content Section
+pricing: &pricing
+  label: "Rich Text"
+  name: "richText"
+  widget: "object"
+  fields:
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.pricing"}
+    - *title_field
+    - label: "Plans"
+      name: "plans"
+      widget: "list"
+      fields: *plan_component
 #_____________________ Rich Text Content Section
 rich_text: &rich_text
   label: "Rich Text"
@@ -153,11 +200,13 @@ collections:
         widget: "list"
         typeKey: "contentSectionType"
         types:
-          - *feature_rows
-          - *image_gallery
-          - *rich_text
-          - *video_landing_page
           - *wide_hero
           - *wide_video
-
+          - *feature_rows
+          - *rich_text
+          - *bottom_actions
+          - *image_gallery
+          - *on_page_anchor
+          - *pricing
+          - *video_landing_page
       - {required: false, label: "Status", name: "status", widget: "hidden", default: "published"}
