@@ -1,0 +1,67 @@
+{
+  "layout": "page",
+  "metadata": {
+    "twitterCardType:": "summary",
+    "metaTitle": "Contact Us"
+  },
+  "status": "published",
+  "title": "contact",
+  "slug": "contact",
+  "contentSections": [
+    {
+      "contentSectionType": "videoLandingPage",
+      "__component": "sections.video-landing-page",
+      "videoURLs": [
+        {
+          "newTab": false,
+          "url": "https://user-images.githubusercontent.com/50277101/126424217-2bcd6373-3d6b-46e4-a6ea-29d0bcfde57f.mp4"
+        },
+        {
+          "newTab": false,
+          "url": "https://user-images.githubusercontent.com/50277101/126424278-8c21e241-ef86-40f7-af3f-21f5a3d514c9.mp4"
+        }
+      ],
+      "InlineFeatures": [
+        {
+          "description": "info@businesslinkmedia.com\n",
+          "image": "/uploads/email_svgrepo_com_e1fd874d71.svg",
+          "title": "email",
+          "url": "mailto:info@businesslinkmedia.com"
+        },
+        {
+          "title": "phone",
+          "description": "+1-905-646-9366",
+          "url": "tel:+1-905-646-9366",
+          "image": "/uploads/phone_svgrepo_com_2b9e550ae2.svg"
+        },
+        {
+          "title": "address",
+          "description": "Business Link Media Group\n4056 Dorchester Rd, Suite 203\nNiagara Falls ON L2E 6M9",
+          "url": "https://www.google.com/maps/dir/43.126242,-79.0983953/business+link+media/@43.120164,-79.1141383,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89d345d859e52947:0x97ca41d8413220a!2m2!1d-79.1113444!2d43.1140244",
+          "image": "/uploads/google_maps_old_svgrepo_com_6743814d03.svg"
+        }
+      ]
+    },
+    {
+      "contentSectionType": "featureColumns",
+      "__component": "sections.feature-columns-group",
+      "features": [
+        {
+          "description": "Business Link Media Group\n4056 Dorchester Rd, Suite 203\nNiagara Falls ON L2E 6M9\n",
+          "title": "Address",
+          "icon": "/uploads/post_address_svgrepo_com_9309d16970.svg"
+        },
+        {
+          "title": "Phone",
+          "description": "+1-905-646-9366",
+          "icon": "/uploads/phone_mono_f9fb1cee06.svg"
+        },
+        {
+          "title": "Email",
+          "description": "info@businesslinkmedia.com",
+          "icon": "/uploads/email_mono_8c2d7680fa.svg"
+        }
+      ]
+    }
+  ]
+}
