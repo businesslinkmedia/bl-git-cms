@@ -225,7 +225,7 @@ public_folder: "/uploads" # The src attribute for uploaded media
 collections:
   - name: "page" 
     create: true
-    folder: "_posts/page"
+    folder: "_pages"
     format: 'json'
     label: "Page"
     slug: "{{fields.slug}}"
