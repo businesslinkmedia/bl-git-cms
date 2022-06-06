@@ -114,8 +114,8 @@ on_page_anchor: &on_page_anchor
     - {label: "Anchor ID", name: "anchorID", widget: "string"}
 #_____________________ Pricing Content Section
 pricing: &pricing
-  label: "Rich Text"
-  name: "richText"
+  label: "Pricing"
+  name: "pricing"
   widget: "object"
   fields:
     - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.pricing"}
