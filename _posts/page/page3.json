@@ -1,0 +1,74 @@
+{
+  "layout": "page",
+  "metadata": {
+    "twitterCardType:": "summary",
+    "metaTitle": "plan3"
+  },
+  "status": "published",
+  "contentSections": [
+    {
+      "contentSectionType": "wideHero",
+      "__component": "sections.wide-hero"
+    },
+    {
+      "contentSectionType": "wideVideo",
+      "__component": "sections.wide-video"
+    },
+    {
+      "contentSectionType": "featureRows",
+      "__component": "sections.feature-rows-group",
+      "features": []
+    },
+    {
+      "contentSectionType": "richText",
+      "__component": "sections.rich-text"
+    },
+    {
+      "contentSectionType": "imageGallery",
+      "__component": "sections.image-gallery",
+      "imageWithLink": [
+        {
+          "targetLink": {
+            "newTab": false
+          }
+        }
+      ]
+    },
+    {
+      "contentSectionType": "pricing",
+      "__component": "sections.pricing",
+      "plans": [
+        {
+          "plan": {
+            "features": [
+              {
+                "name": "featue1"
+              },
+              {
+                "name": "feature2"
+              }
+            ],
+            "isRecommended": false,
+            "price": 1213,
+            "pricePeriod": "forever"
+          }
+        },
+        {
+          "plan": {
+            "features": [
+              {
+                "name": "plan2 feature1"
+              }
+            ],
+            "isRecommended": true,
+            "label": "plan2",
+            "price": 121,
+            "pricePeriod": " per year"
+          }
+        }
+      ]
+    }
+  ],
+  "title": "page3",
+  "slug": "page3"
+}
