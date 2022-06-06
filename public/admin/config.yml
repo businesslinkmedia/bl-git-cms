@@ -63,6 +63,7 @@ bottom_actions: &bottom_actions
     - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.bottom-actions"}
     - *title_field
     - label: "buttons"
+      name: "buttons"
       widget: "list"
       default: []
       fields: *buttonLink_component
@@ -121,7 +122,8 @@ pricing: &pricing
     - label: "Plans"
       name: "plans"
       widget: "list"
-      fields: *plan_component
+      fields: 
+        - *plan_component
 #_____________________ Rich Text Content Section
 rich_text: &rich_text
   label: "Rich Text"
