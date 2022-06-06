@@ -41,6 +41,7 @@ plan_component: &plan_component
   fields:
     - *desc_field
     - label: "features"
+      name: "features"
       widget: "list"
       default: []
       fields:
