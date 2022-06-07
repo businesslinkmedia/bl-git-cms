@@ -9,12 +9,12 @@ buttonLink_component: &buttonLink_component
   - {required: false, label: "type", name: "type", widget: "select", options: ["primary", "secondary"]}
 #_________________________________________ Notification Banner
 notificationBanner: &notificationBanner
-  - label: "Notification Banner"
-    name: "notificationBanner"
-    widget: "object"             
-    fields:
-    - {label: "Text", name: "text", widget: "text", required: false}
-    - {label: "Type", name: "type", widget: "select", options: ["alter", "info", "warning"], required: false}
+  label: "Notification Banner"
+  name: "notificationBanner"
+  widget: "object"             
+  fields:
+  - {label: "Text", name: "text", widget: "text", required: false}
+  - {label: "Type", name: "type", widget: "select", options: ["alter", "info", "warning"], required: false}
 #______________________ Description
 desc_field: &desc_field {required: false, label: "description", name: "description", widget: "text"}
 #_________________________ Title
@@ -63,19 +63,19 @@ footer: &footer
 
 #_________________________ Navbar Component
 navbar: &navbar
-  - label: "Navigation Bar"
-    name: "Navbar"
-    widget: "object"
-    fields:
-      - label: "Links"
-        name: "links"
-        widget: "list"
-        fields: *link_component
-      - label: "Button"
-        name: "button"
-        widget: "object"
-        fields: *buttonLink_component
-      - {label: "Logo", name: "logo", widget: "image", required: false}
+  label: "Navigation Bar"
+  name: "Navbar"
+  widget: "object"
+  fields:
+    - label: "Links"
+      name: "links"
+      widget: "list"
+      fields: *link_component
+    - label: "Button"
+      name: "button"
+      widget: "object"
+      fields: *buttonLink_component
+    - {label: "Logo", name: "logo", widget: "image", required: false}
 
 backend:
   name: git-gateway
