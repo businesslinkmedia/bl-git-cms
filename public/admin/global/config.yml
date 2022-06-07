@@ -85,17 +85,18 @@ logo_url: 'https://www.aviertechnologies.com/assets/avier-logo.png'
 media_folder: "public/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "/uploads" # The src attribute for uploaded media
 collections:
-  - name: "global" 
-    create: true
-    folder: "_global"
-    format: 'json'
-    label: "global"
-    slug: "global"
-    fields:
-      - *metadata_section
-      - {label: "Site Title Suffix", name: "metaTitleSuffix", widget: "string"}
-      - {label: "Favicon", name: "favicon", widget: "image", required: false}
-      - *notificationBanner
-      - *navbar
-      - *footer
+  - label: "Global"
+    name: "global" 
+    files:
+      - label: "global"
+        name: "global"
+        file: "_global/global.json"
+        format: 'json'
+        fields:
+          - *metadata_section
+          - {label: "Site Title Suffix", name: "metaTitleSuffix", widget: "string"}
+          - {label: "Favicon", name: "favicon", widget: "image", required: false}
+          - *notificationBanner
+          - *navbar
+          - *footer
 
