@@ -1,0 +1,101 @@
+###
+### Reusable Components
+###
+#_________________________________________ Button Link
+buttonLink_component: &buttonLink_component                
+  - {required: false, label: "url", name: "url", widget: "string"}
+  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+  - {required: false, label: "text", name: "text", widget: "string"}
+  - {required: false, label: "type", name: "type", widget: "select", options: ["primary", "secondary"]}
+#_________________________________________ Notification Banner
+notificationBanner: &notificationBanner
+  - label: "Notification Banner"
+    name: "notificationBanner"
+    widget: "object"             
+    fields:
+    - {label: "Text", name: "text", widget: "text", required: false}
+    - {label: "Type", name: "type", widget: "select", options: ["alter", "info", "warning"], required: false}
+#______________________ Description
+desc_field: &desc_field {required: false, label: "description", name: "description", widget: "text"}
+#_________________________ Title
+title_field: &title_field {required: false, label: "title", name: "title", widget: "string"}
+#________________________ Label
+label_field: &label_field {required: false, label: "label", name: "label", widget: "string"}
+#________________________________Link
+link_component: &link_component                
+  - {required: false, label: "url", name: "url", widget: "string"}
+  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+  - {required: false, label: "text", name: "text", widget: "string"}
+#________________________________ Footer Section
+footer_section: &footer_section                
+  - *title_field
+  - label: "Links"
+    name: "links"
+    widget: "list"
+    fileds: *link_component
+#________________________________Meta
+meta_component: &meta_component
+  - {label: "Meta Title", name: "metaTitle", widget: "string"}
+  - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
+  - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
+  - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
+  - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
+#___________________________________ Metadata Section
+metadata_section: &metadata_section
+  label: "Metadata"
+  name: "metadata"
+  widget: "object"
+  required: false
+  fields: *meta_component
+#_________________________ Footer Component
+footer: &footer
+  label: "Footer"
+  name: "footer"
+  widget: "object"
+  fileds:
+    - {label: "Logo", name: "logo", widget: "image", required: false}
+    - label: "Columns"
+      name: "columns"
+      widget: "list"
+      fields: *footer_section
+    - {label: "Small Text", name: "smallText", widget: "string"}
+
+
+#_________________________ Navbar Component
+navbar: &nabvar
+  - label: "Navigation Bar"
+    name: "Navbar"
+    widget: "object"
+    fields:
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        fields: *link_component
+      - label: "Button"
+        name: "button"
+        widget: "object"
+        fields: *buttonLink_component
+      - {label: "Logo", name: "logo", widget: "image", required: false}
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update
+
+logo_url: 'https://www.aviertechnologies.com/assets/avier-logo.png'
+media_folder: "public/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media
+collections:
+  - name: "global" 
+    create: true
+    folder: "_global"
+    format: 'json'
+    label: "global"
+    slug: "global"
+    fields:
+      - *metadata_section
+      - {label: "Site Title Suffix", name: "metaTitleSuffix", widget: "string"}
+      - {label: "Favicon", name: "favicon", widget: "image", required: false}
+      - *notificationBanner
+      - *navbar
+      - *footer
+
