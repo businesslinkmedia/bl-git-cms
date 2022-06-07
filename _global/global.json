@@ -2,5 +2,34 @@
   "metadata": {
     "metaTitle": "this site"
   },
-  "metaTitleSuffix": "something here"
+  "metaTitleSuffix": "something here",
+  "Navbar": {
+    "links": [
+      {
+        "newTab": true,
+        "url": "http://somehere",
+        "text": "/go-somewhere"
+      }
+    ]
+  },
+  "notificationBanner": {
+    "text": "This is notification banner",
+    "type": "info"
+  },
+  "favicon": "/uploads/favicon_481d6a9ec1.png",
+  "footer": {
+    "columns": [
+      {
+        "title": "column1",
+        "links": [
+          {
+            "newTab": true,
+            "url": "https://link1",
+            "text": "link1 for footer column1"
+          }
+        ]
+      }
+    ],
+    "smallText": "copyright somewhere"
+  }
 }
