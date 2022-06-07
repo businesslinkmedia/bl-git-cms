@@ -52,7 +52,7 @@ footer: &footer
   label: "Footer"
   name: "footer"
   widget: "object"
-  fileds:
+  fields:
     - {label: "Logo", name: "logo", widget: "image", required: false}
     - label: "Columns"
       name: "columns"
