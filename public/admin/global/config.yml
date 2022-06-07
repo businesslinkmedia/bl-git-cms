@@ -32,7 +32,7 @@ footer_section: &footer_section
   - label: "Links"
     name: "links"
     widget: "list"
-    fileds: *link_component
+    fields: *link_component
 #________________________________Meta
 meta_component: &meta_component
   - {label: "Meta Title", name: "metaTitle", widget: "string"}
