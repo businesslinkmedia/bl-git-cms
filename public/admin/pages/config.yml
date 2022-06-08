@@ -261,4 +261,6 @@ collections:
           - *on_page_anchor
           - *pricing
           - *video_landing_page
+        required: true
+        default: []
       - {required: false, label: "Status", name: "status", widget: "hidden", default: "published"}
