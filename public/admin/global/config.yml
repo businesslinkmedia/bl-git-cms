@@ -36,9 +36,9 @@ footer_section: &footer_section
 #________________________________Meta
 meta_component: &meta_component
   - {label: "Meta Title", name: "metaTitle", widget: "string"}
-  - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
-  - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
-  - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
+  - {required: false, label: "metaDescription", name: "metaDescription", widget: "text"}
+  - {required: false, label: "twitterCardType", name: "twitterCardType", widget: "string", default: "summary"}
+  - {required: false, label: "twitterUsername", name: "twitterUsername", widget: "string"}
   - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
 #___________________________________ Metadata Section
 metadata_section: &metadata_section
