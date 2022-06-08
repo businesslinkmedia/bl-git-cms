@@ -1,36 +1,100 @@
 {
   "metadata": {
-    "metaTitle": "this site"
+    "metaTitle": "Business Link Media Group",
+    "metaDescription:": "Business Link Media Group",
+    "shareImage": "/uploads/thumbnail_covers_1_aeb34895cb.png",
+    "twitterCardType:": "summary",
+    "twitterUsername:": "TheBusinessLink"
   },
-  "metaTitleSuffix": "something here",
+  "metaTitleSuffix": "Business Link Media Group",
   "navbar": {
     "links": [
       {
         "newTab": true,
-        "url": "http://somehere",
-        "text": "/go-somewhere"
+        "url": "/",
+        "text": "Home"
+      },
+      {
+        "newTab": false,
+        "text": "Blockchain Business Solutions",
+        "url": "/blockchain"
+      },
+      {
+        "newTab": false,
+        "url": "/digital-marketing",
+        "text": "Digital Marketing"
+      },
+      {
+        "newTab": false,
+        "text": "Events",
+        "url": "/events-all"
+      },
+      {
+        "newTab": false,
+        "text": "Contact",
+        "url": "/contact"
       }
     ],
     "logo": "/uploads/logo_821cbc43e6.png"
   },
   "notificationBanner": {
-    "text": "This is notification banner",
+    "text": "This site uses cookies to provide you with a great user experience.",
     "type": "info"
   },
   "favicon": "/uploads/favicon_481d6a9ec1.png",
   "footer": {
     "columns": [
       {
-        "title": "column1",
+        "title": "Services",
         "links": [
           {
             "newTab": true,
-            "url": "https://link1",
-            "text": "link1 for footer column1"
+            "url": "/blockchain",
+            "text": "Blockchain Business Solutions"
+          },
+          {
+            "newTab": false,
+            "text": "Digital Marketing",
+            "url": "/digital-marketing"
+          },
+          {
+            "newTab": false,
+            "text": "Events",
+            "url": "/events-all"
+          }
+        ]
+      },
+      {
+        "title": "Social",
+        "links": [
+          {
+            "newTab": true,
+            "text": "Facebook",
+            "url": "https://www.facebook.com/BusinessLinkMedia/"
+          },
+          {
+            "newTab": true,
+            "text": "Instagram",
+            "url": "https://www.instagram.com/businesslinkmedia/"
+          },
+          {
+            "newTab": true,
+            "text": "LinkedIn",
+            "url": "https://www.linkedin.com/company/the-business-link-newspaper/"
+          },
+          {
+            "newTab": true,
+            "text": "Twitter",
+            "url": "https://twitter.com/thebusinesslink"
+          },
+          {
+            "newTab": true,
+            "text": "YouTube",
+            "url": "https://www.youtube.com/channel/UCGqijciraZrrCrmK0QvlWog"
           }
         ]
       }
     ],
-    "smallText": "copyright somewhere"
+    "smallText": "\\u00a9 Copyright Business Link Media Group"
   }
 }
