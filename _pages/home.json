@@ -8,5 +8,44 @@
   },
   "status": "published",
   "title": "Home",
-  "slug": ""
+  "slug": " ",
+  "contentSections": [
+    {
+      "contentSectionType": "videoLandingPage",
+      "__component": "sections.video-landing-page",
+      "title": "Business Link Media Group",
+      "label": "Your Link to Success",
+      "videoURLs": [
+        {
+          "newTab": false,
+          "text": "NF rainbow video",
+          "url": "https://user-images.githubusercontent.com/50277101/126419782-7c68f424-a7b2-49ef-ba31-610941d24ceb.mp4"
+        },
+        {
+          "newTab": false,
+          "url": "https://user-images.githubusercontent.com/96355795/150161264-b218468b-2fae-4a77-ad62-b7a8e30b0668.mp4",
+          "text": "VR Opening Remark"
+        }
+      ],
+      "InlineFeatures": [
+        {
+          "description": "Blockchain technology and its applications in business world: DAOs, NFTs, Smart Contracts, Tokenomics and much more...\n",
+          "title": "Blockchain Business Solutions",
+          "url": "/blockchain"
+        },
+        {
+          "title": "Digital Marketing",
+          "description": "Creative content",
+          "url": "/digital-marketing",
+          "image": "/uploads/viral_marketing_svgrepo_com_14ddd340f1.svg"
+        },
+        {
+          "image": "/uploads/schedule_events_svgrepo_com_ee6283dd13.svg",
+          "url": "/events-all",
+          "title": "Events",
+          "description": "Prestigious 40 Under Forty Business Achievement Awards\n"
+        }
+      ]
+    }
+  ]
 }
