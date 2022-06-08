@@ -199,6 +199,16 @@ wide_hero: &wide_hero
   widget: "object"
   fields:
     - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
+    - *title_field
+    - *label_field
+    - *desc_field
+    - {required: false, label: "Picture", name: "picture", widget: "image"}
+    - {required: false, label: "Text", name: "richText", widget: "text"}
+    - label: "Links"
+      name: "links"
+      widget: "list"
+      fields: *link_component
+      default: []
 #______________________ Wide Video Content Section
 wide_video: &wide_video
   label: "Wide Video"
