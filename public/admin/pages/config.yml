@@ -230,8 +230,8 @@ collections:
     label: "Page"
     slug: "{{fields.slug}}"
     fields:
-      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Locale", name: "locale", widget: "hidden", default: "en"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page", required: false}
+      - {label: "Locale", name: "locale", widget: "hidden", default: "en", required: false}
       - *title_field
       - {label: "Slug", name: "slug", widget: "string"}
       - *metadata_section
