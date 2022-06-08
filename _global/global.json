@@ -10,7 +10,8 @@
         "url": "http://somehere",
         "text": "/go-somewhere"
       }
-    ]
+    ],
+    "logo": "/uploads/logo_821cbc43e6.png"
   },
   "notificationBanner": {
     "text": "This is notification banner",
