@@ -30,9 +30,9 @@ link_component: &link_component
 #________________________________Meta
 meta_component: &meta_component
   - {label: "Meta Title", name: "metaTitle", widget: "string"}
-  - {required: false, label: "metaDescription:", name: "metaDescription:", widget: "text"}
-  - {required: false, label: "twitterCardType:", name: "twitterCardType:", widget: "string", default: "summary"}
-  - {required: false, label: "twitterUsername:", name: "twitterUsername:", widget: "string"}
+  - {required: false, label: "metaDescription", name: "metaDescription", widget: "text"}
+  - {required: false, label: "twitterCardType", name: "twitterCardType", widget: "string", default: "summary"}
+  - {required: false, label: "twitterUsername", name: "twitterUsername", widget: "string"}
   - {required: false, label: "shareImage", name: "shareImage", widget: "image"}
 #___________________________________ Metadata Section
 metadata_section: &metadata_section
@@ -110,7 +110,7 @@ hero: &hero
   name: "hero"
   widget: "object"
   fields:
-    - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.hero"}
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.hero"}
     - *title_field
     - *label_field
     - *desc_field
@@ -198,7 +198,7 @@ wide_hero: &wide_hero
   name: "wideHero"
   widget: "object"
   fields:
-    - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.wide-hero"}
     - *title_field
     - *label_field
     - *desc_field
@@ -215,14 +215,14 @@ wide_video: &wide_video
   name: "wideVideo"
   widget: "object"
   fields:
-    - {required: false, label:"Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.wide-video"}
     - *title_field
     - *label_field
     - *desc_field
     - {required: false, label: "youtubeEmbedUrl", name: "youtubeEmbedUrl", widget: "string"}
     - {required: false, label: "videoUrl", name: "videoUrl", widget: "string"}
     - {required: false, label: "richText", name: "richText", widget: "text"}
-    - {required: false, label: "video", name: "video", widget: "hidden", default:""}
+    - {required: false, label: "video", name: "video", widget: "hidden", default: ""}
 ##/////////////////////////////////////////////////////////////////////////////////////////////////##
 
 backend:
