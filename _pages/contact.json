@@ -1,0 +1,48 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaDescription": "Get in touch with our team",
+    "metaTitle": "Contact"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "videoLandingPage",
+      "__component": "sections.video-landing-page",
+      "InlineFeatures": [
+        {
+          "description": "info@businesslinkmedia.com",
+          "url": "mailto:info@businesslinkmedia.com",
+          "image": "/uploads/email_svgrepo_com_e1fd874d71.svg",
+          "title": "Email"
+        },
+        {
+          "title": "Phone",
+          "description": "+1-905-646-9366",
+          "image": "/uploads/phone_svgrepo_com_2b9e550ae2.svg",
+          "url": "tel:+1-905-646-9366"
+        },
+        {
+          "title": "Address",
+          "description": "Business Link Media Group\n4056 Dorchester Rd, Suite 203\nNiagara Falls ON L2E 6M9",
+          "url": "https://www.google.com/maps/dir/43.126242,-79.0983953/business+link+media/@43.120164,-79.1141383,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89d345d859e52947:0x97ca41d8413220a!2m2!1d-79.1113444!2d43.1140244",
+          "image": "/uploads/google_maps_old_svgrepo_com_6743814d03.svg"
+        }
+      ],
+      "videoURLs": [
+        {
+          "newTab": false,
+          "url": "               https://user-images.githubusercontent.com/50277101/129459247-c3a35f75-9f4a-4742-b14f-f6a20e658025.mp4"
+        },
+        {
+          "newTab": false,
+          "url": "https://user-images.githubusercontent.com/50277101/126424278-8c21e241-ef86-40f7-af3f-21f5a3d514c9.mp4"
+        }
+      ]
+    }
+  ],
+  "status": "published",
+  "title": "Contact Us",
+  "slug": "contact"
+}
