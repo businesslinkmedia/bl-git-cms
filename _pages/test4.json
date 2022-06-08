@@ -6,5 +6,6 @@
   },
   "status": "published",
   "title": "test4",
-  "slug": "test4"
+  "slug": "test4",
+  "locale": "en"
 }

@@ -9,6 +9,7 @@
   "status": "published",
   "title": "Home",
   "slug": "",
+  "locale": "en",
   "contentSections": [
     {
       "contentSectionType": "videoLandingPage",
