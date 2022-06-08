@@ -64,7 +64,7 @@ footer: &footer
 #_________________________ Navbar Component
 navbar: &navbar
   label: "Navigation Bar"
-  name: "Navbar"
+  name: "navbar"
   widget: "object"
   fields:
     - label: "Links"

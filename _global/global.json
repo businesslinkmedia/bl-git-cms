@@ -3,7 +3,7 @@
     "metaTitle": "this site"
   },
   "metaTitleSuffix": "something here",
-  "Navbar": {
+  "navbar": {
     "links": [
       {
         "newTab": true,
