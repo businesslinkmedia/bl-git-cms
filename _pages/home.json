@@ -8,7 +8,7 @@
   },
   "status": "published",
   "title": "Home",
-  "slug": " ",
+  "slug": "  ",
   "locale": "en",
   "contentSections": [
     {
@@ -56,9 +56,31 @@
         {
           "link": {
             "newTab": false,
-            "text": "Mission Statement"
+            "text": ""
           },
-          "description": "We create lasting connections between organizations and their stakeholders, and help them create a unique digital identity through traditional and modern marketing strategies.\n"
+          "description": "We create lasting connections between organizations and their stakeholders, and help them create a unique digital identity through traditional and modern marketing strategies.\n",
+          "title": "Mission Statement",
+          "image": "/uploads/why_not_today_small_size_a27bfc044a.jpg"
+        },
+        {
+          "link": {
+            "newTab": false,
+            "url": "/publications/BusinessLink/2022/6",
+            "text": "Read our digital publication online"
+          },
+          "title": "About Us",
+          "description": "Founded in 2003, Business Link Media Group has been an industry leader in the publishing of B2B direct mail newspapers, magazines, specialty publications, and event programs, as well as marketing through social media and online platforms.\n\nIn 2020 Business Link added digital multi-media marketing services including Blockchain solutions, NFTs, Cryptos, Web3.0, DAOs (Decentralized Autonomous Organization), and Metaverse.\n\nOur traditional and modern media platforms are designed to educate, inform, and connect your organization with the stakeholders that matter to you. Our multitude of resources and networks give your business the opportunity to promote locally achieve global exposure.\n",
+          "image": "/uploads/May_Cover_8ed72374fb.png"
+        },
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://www.youtube.com/channel/UCGqijciraZrrCrmK0QvlWog",
+            "text": "Click Here to watch our story on YouTube"
+          },
+          "title": "Why Business Link",
+          "image": "/uploads/Screen_Shot_2022_01_08_at_9_23_05_PM_e744db156e.png",
+          "description": "With 19 years media and marketing experience, we have a professional marketing and management team with MBAs and entrepreneurs, and tracking record in building success for many businesses. Our core competitiveness:\n\n1. In-depth market research\n\n2. Deep connection to the local and international markets\n\n3. Date-tracking and optimization\n\n4. Creative and relatable content.\n"
         }
       ]
     }
