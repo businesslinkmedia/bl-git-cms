@@ -27,7 +27,7 @@
       {
         "newTab": false,
         "text": "Events",
-        "url": "/events-all"
+        "url": "/events"
       },
       {
         "newTab": false,
@@ -60,7 +60,7 @@
           {
             "newTab": false,
             "text": "Events",
-            "url": "/events-all"
+            "url": "/events"
           }
         ]
       },
@@ -95,6 +95,6 @@
         ]
       }
     ],
-    "smallText": "\\u00a9 Copyright Business Link Media Group"
+    "smallText": "Copyright,  Business Link Media Group"
   }
 }
