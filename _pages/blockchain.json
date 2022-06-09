@@ -1,0 +1,30 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "blockchain",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaTitle": "Blockchain in Business",
+    "metaDescription": "Blockchain in Business",
+    "shareImage": "/uploads/small_Blockchain_In_Business_f0589cbffd.jpg"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "wideHero",
+      "__component": "sections.wide-hero",
+      "links": [
+        {
+          "newTab": true,
+          "text": "Read more",
+          "url": "https://www.ib2bl.com/article/simple-blockchain-primer-beginners"
+        }
+      ],
+      "description": "A space to learn some fundamental knowledge about NFTs, DAOs, Web 3, and Metaverse.",
+      "label": "To learn, explore, and practise",
+      "title": "Blockchain in Business Club",
+      "richText": "Welcome blockchain enthusiast far and wide! We're an online and in-person tech-enthusiast group hosting live speaking events on a range of NFTs, Cryptos, Web3.0, DAO and Metaverse topics. We are hosting regular events to learn from each other, to share your stories and experience, to explore something new, and to practice with some NFTs or DAOs.\n"
+    }
+  ],
+  "status": "published",
+  "title": "Blockchain"
+}
