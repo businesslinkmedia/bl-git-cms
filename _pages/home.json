@@ -51,7 +51,7 @@
     },
     {
       "contentSectionType": "featureRows",
-      "__component": "sections.feature-columns-group",
+      "__component": "sections.feature-rows-group",
       "features": [
         {
           "link": {
