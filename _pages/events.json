@@ -1,0 +1,46 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "events",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaTitle": "Events",
+    "metaDescription": "Events",
+    "shareImage": "/uploads/small_40u40_graphic_ddf08892f9.jpg"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [
+        {
+          "newTab": true,
+          "url": "https://businesslinkniagara.com/40-under-forty/",
+          "type": "primary",
+          "text": "Click here to nominate candidates in Niagara"
+        }
+      ],
+      "label": "19th Annual in 2022",
+      "picture": "/uploads/40_Nia_cd46b9b176.png",
+      "smallTextWithLink": "Business Link Media Group first established its 40 Under Forty Business Achievement Awards back in 2003. One of Niagara's most prestigious awards, this annual program recognizes 40 business people under the age of 40 who have demonstrated an extraordinary level of success in the private, public and non-profit sectors.\n\nBusiness Link has hosted 18 years of Annual 40 Under Forty Business Achievement Awards. The primary purpose of our annual awards banquet is to give back to the Niagara region while identifying individuals and businesses that greatly contribute to the growth and development of our community. To date we have recognized the successes of 720 business leaders across the Niagara region.\n\nTurning challenges into opportunities, BLMG has overcome the restrictions imposed by the COVID-19 pandemic by holding the award ceremony as an online event. By doing so,not only we have not allowed the situation to hinder the celebration of our Niagara business talents, but we have also expanded the reach and availability of the awards ceremony to a potential audience of thousands more with a virtually ever-lasting time frame.\n",
+      "title": "40 Under Forty Niagara"
+    },
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [
+        {
+          "newTab": true,
+          "text": "Click here to nominate candidates in Hamilton",
+          "type": "secondary"
+        }
+      ],
+      "label": "9th Annual in 2022",
+      "title": "40 Under Forty Hamilton",
+      "picture": "/uploads/40_6_8b3bdb7316.png",
+      "smallTextWithLink": "Business Link Media Group first established its 40 Under Forty Business Achievement Awards back in 2014, one of Hamilton\\u2019s most prestigious awards.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the community at large.\n\nEach year, nominated individuals are given close consideration by a distinguished panel of local business leaders and past award recipients. This panel takes several criteria into account to determine the final 40 award recipients. These criteria include:\n\n~ An uncommon level of accomplishment in their field or industry.\n\n~ A demonstration of leadership and innovation with their business or workplace.\n\n~ An ability to overcome obstacles and achieve results.\n\n~ An active involvement in their industry and/or community.\n\n~ A commitment to constant improvement.\\n\\n\\n\",\n"
+    }
+  ],
+  "status": "published",
+  "title": "Events"
+}
