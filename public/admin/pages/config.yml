@@ -100,7 +100,7 @@ feature_rows: &feature_rows
   name: "featureRows"
   widget: "object"
   fields:
-    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-columns-group"}
+    - {required: false, label: "Component", name: "__component", widget: "hidden", default: "sections.feature-rows-group"}
     - label: "Features"
       name: "features"
       widget: "list" 
