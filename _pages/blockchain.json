@@ -18,6 +18,16 @@
       "picture": "/uploads/Blockchain_In_Business_f0589cbffd.jpg",
       "smallTextWithLink": "Welcome blockchain enthusiast far and wide! We're an online and in-person tech-enthusiast group hosting live speaking events on a range of NFTs, Cryptos, Web3.0, DAO and Metaverse topics. We are hosting regular events to learn from each other, to share your stories and experience, to explore something new, and to practice with some NFTs or DAOs.\n",
       "buttons": []
+    },
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [],
+      "description": "Find a best fit solution to your business",
+      "label": "To consult",
+      "picture": "/uploads/blockchain_1_111cf7669f.jpg",
+      "title": "Blockchain Solutions",
+      "smallTextWithLink": "- DAO/DAC training, operating and marketing\n\n- NFTs creation and promotion\\n- Metaverse creation and promotion\n\n- Blockchain project launching strategizing (coin listing, white paper and airdrop events)\n\n"
     }
   ],
   "status": "published",
