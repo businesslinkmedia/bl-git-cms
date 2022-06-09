@@ -1,0 +1,23 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "academy",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaTitle": "Business Link Academy",
+    "metaDescription": "Learn all about Blockchain"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "description": "To learn some fundamental knowledge about NFTs, DAOs, Web 3, and Metaverse\n",
+      "label": "All About Blockchain",
+      "title": "Blockchain",
+      "picture": "/uploads/Blockchain_In_Business_f0589cbffd.jpg",
+      "smallTextWithLink": "Read more"
+    }
+  ],
+  "status": "published",
+  "title": "BL Academy"
+}
