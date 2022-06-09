@@ -8,7 +8,7 @@
   },
   "status": "published",
   "title": "Home",
-  "slug": "",
+  "slug": " ",
   "locale": "en",
   "contentSections": [
     {
@@ -83,6 +83,72 @@
           "description": "With 19 years media and marketing experience, we have a professional marketing and management team with MBAs and entrepreneurs, and tracking record in building success for many businesses. Our core competitiveness:\n\n1. In-depth market research\n\n2. Deep connection to the local and international markets\n\n3. Date-tracking and optimization\n\n4. Creative and relatable content.\n"
         }
       ]
+    },
+    {
+      "contentSectionType": "richText",
+      "__component": "sections.rich-text",
+      "content": "### 40 Under Forty Highlights in 2021"
+    },
+    {
+      "contentSectionType": "wideVideo",
+      "__component": "sections.wide-video",
+      "video": "",
+      "youtubeEmbedUrl": "https://youtu.be/sS0qqXvyOmU"
+    },
+    {
+      "contentSectionType": "richText",
+      "__component": "sections.rich-text",
+      "content": "### Highlights of our previous publications:"
+    },
+    {
+      "contentSectionType": "imageGallery",
+      "__component": "sections.image-gallery",
+      "imageWithLink": [
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL April 22",
+            "url": "/publications/BusinessLink/2022/4"
+          },
+          "imageUrl": "/uploads/BL_Apr_2022_0405_final_Page_01_b4e5fd7c0c.jpg"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "url": "/publications/BusinessLink/2022/3",
+            "text": "BL March 2022"
+          },
+          "imageUrl": "/uploads/BL_Mar_2022_Page_01_f7b0f7ffb0.jpg"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "url": "/publications/BusinessLink/2022/2",
+            "text": "BL February 2022"
+          },
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_09_42_AM_bc3be931e6.png"
+        }
+      ],
+      "ImagesPerLine": 6
+    },
+    {
+      "contentSectionType": "bottomActions",
+      "__component": "sections.bottom-actions",
+      "buttons": [
+        {
+          "newTab": false,
+          "url": "/pricing",
+          "type": "primary",
+          "text": "Pricing"
+        },
+        {
+          "newTab": false,
+          "url": "/contact",
+          "type": "secondary",
+          "text": "Contact us"
+        }
+      ],
+      "title": "Contact Us Today"
     }
   ]
 }
