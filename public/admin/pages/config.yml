@@ -21,6 +21,15 @@ feature_column: &feature_column
   - *title_field
   - *desc_field
   - {label: "icon", name: "icon", widget: "image"}
+#________________________ Feature Row
+feature_row: &feature_row
+  - *title_field
+  - *desc_field
+  - {label: "Image", name: "image", widget: "image"}
+  - label: "Target Link"
+    name: "link"
+    widget: "object"
+    fields: *link_component
 
 #________________________________Link
 link_component: &link_component                
@@ -97,13 +106,8 @@ feature_rows: &feature_rows
       name: "features"
       widget: "list" 
       default: []
-      fields:
-        - *title_field
-        - *desc_field
-        - label: "target link"
-          name: "link"
-          widget: "object"
-          fields: *link_component
+      fields: *feature_row
+
 #____________________ Hero Content Section
 hero: &hero
   label: "Hero"
