@@ -15,7 +15,8 @@
       "label": "All About Blockchain",
       "title": "Blockchain",
       "picture": "/uploads/Blockchain_In_Business_f0589cbffd.jpg",
-      "smallTextWithLink": "Read more"
+      "smallTextWithLink": "Read more",
+      "buttons": []
     }
   ],
   "status": "published",
