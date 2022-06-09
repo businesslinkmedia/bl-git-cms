@@ -246,7 +246,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page", required: false}
       - {label: "Locale", name: "locale", widget: "hidden", default: "en", required: false}
       - *title_field
-      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string", required: true, default: ""}
       - *metadata_section
       - label: "Content Sections"
         name: "contentSections"
