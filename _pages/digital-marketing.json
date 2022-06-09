@@ -1,0 +1,51 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "digital-marketing",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaDescription": "Our digital marketing includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel\n",
+    "metaTitle": "Social Media Marketing",
+    "shareImage": "/uploads/logo_821cbc43e6.png"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "featureRows",
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "link": {
+            "newTab": false,
+            "text": "Learn more about our publications",
+            "url": "/digital-publications"
+          },
+          "description": "Founded in 2003, our publications are designed to educate, inform and connect the business communities of Niagara, Hamilton and beyond. \\nOur multitude of platforms give your business a prime opportunity to promote locally while achieving global exposure. BL digital publication distributed to businesses in Canada and beyond\n",
+          "title": "Digital Magazines",
+          "image": "/uploads/r_14_46a1daff09.png"
+        },
+        {
+          "link": {
+            "newTab": true,
+            "text": "Watch our recent online awards ceremony",
+            "url": "https://www.youtube.com/channel/UCGqijciraZrrCrmK0QvlWog"
+          },
+          "description": "Our team creates content, produces and promotes videos, including online event broadcast productions, corporate promotional videos, social media short videos, educational animations, and AR/VR effect videos.\n",
+          "title": "Creative Video Production",
+          "image": "/uploads/video_bad9938f55.png"
+        },
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://www.youtube.com/watch?v=MWqTA-kvqEw",
+            "text": "Watch Atrium online"
+          },
+          "description": "Business Link TV Show has produced The Atrium, a community leadership interview broadcast program that has been broadcast in Canada and Hong Kong.\\nA few more programs come soon in 2022.\n",
+          "image": "/uploads/atrium_2dd6e168a0.png",
+          "title": "TV Shows"
+        }
+      ]
+    }
+  ],
+  "status": "published",
+  "title": "Digital Marketing"
+}
