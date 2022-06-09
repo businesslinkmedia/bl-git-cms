@@ -38,7 +38,39 @@
       "label": "9th Annual in 2022",
       "title": "40 Under Forty Hamilton",
       "picture": "/uploads/40_6_8b3bdb7316.png",
-      "smallTextWithLink": "Business Link Media Group first established its 40 Under Forty Business Achievement Awards back in 2014, one of Hamilton\\u2019s most prestigious awards.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the community at large.\n\nEach year, nominated individuals are given close consideration by a distinguished panel of local business leaders and past award recipients. This panel takes several criteria into account to determine the final 40 award recipients. These criteria include:\n\n~ An uncommon level of accomplishment in their field or industry.\n\n~ A demonstration of leadership and innovation with their business or workplace.\n\n~ An ability to overcome obstacles and achieve results.\n\n~ An active involvement in their industry and/or community.\n\n~ A commitment to constant improvement.\\n\\n\\n\",\n"
+      "smallTextWithLink": "Business Link Media Group first established its 40 Under Forty Business Achievement Awards back in 2014, one of Hamilton\\u2019s most prestigious awards.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the community at large.\n\nEach year, nominated individuals are given close consideration by a distinguished panel of local business leaders and past award recipients. This panel takes several criteria into account to determine the final 40 award recipients. These criteria include:\n\n~ An uncommon level of accomplishment in their field or industry.\n\n~ A demonstration of leadership and innovation with their business or workplace.\n\n~ An ability to overcome obstacles and achieve results.\n\n~ An active involvement in their industry and/or community.\n\n~ A commitment to constant improvement.\n"
+    },
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [
+        {
+          "newTab": true,
+          "type": "primary",
+          "text": "Click here to nominate candidates in Vancouver",
+          "url": "https://businesslinkniagara.com/40-under-forty-vancouver/"
+        }
+      ],
+      "label": "First Year outside Ontario",
+      "picture": "/uploads/40_Vancouver_1_d1552b22ef.png",
+      "title": "40 Under Forty Vancouver",
+      "smallTextWithLink": "Business Link Media Group first expands its 40 Under Forty Business Achievement Awards to Vancouver in 2022.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the Italian community at large.\n"
+    },
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [
+        {
+          "newTab": true,
+          "type": "secondary",
+          "url": "https://businesslinkniagara.com/40-under-forty-italy/",
+          "text": "Click here to nominate candidates in Italy"
+        }
+      ],
+      "label": "First Year in Italy",
+      "picture": "/uploads/Top_40_nailthumb_da536c4333.jpg",
+      "smallTextWithLink": "Business Link Media Group first expands its 40 Under Forty Business Achievement Awards to Italy in 2022.\n\nWith its 40 Under Forty Business Achievement Awards program, Business Link Media Group takes great pride in promoting award-winners as role models to their fellow business professionals and to the Italian community at large.\n",
+      "title": "40 Under Forty Italy"
     }
   ],
   "status": "published",
