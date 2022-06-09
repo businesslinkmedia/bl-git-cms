@@ -8,7 +8,7 @@
   },
   "status": "published",
   "title": "Home",
-  "slug": "",
+  "slug": " ",
   "locale": "en",
   "contentSections": [
     {
@@ -46,6 +46,19 @@
           "url": "/events-all",
           "title": "Events",
           "description": "Prestigious 40 Under Forty Business Achievement Awards\n"
+        }
+      ]
+    },
+    {
+      "contentSectionType": "featureRows",
+      "__component": "sections.feature-columns-group",
+      "features": [
+        {
+          "link": {
+            "newTab": false,
+            "text": "Mission Statement"
+          },
+          "description": "We create lasting connections between organizations and their stakeholders, and help them create a unique digital identity through traditional and modern marketing strategies.\n"
         }
       ]
     }
