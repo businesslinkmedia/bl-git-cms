@@ -21,6 +21,11 @@ feature_column: &feature_column
   - *title_field
   - *desc_field
   - {label: "icon", name: "icon", widget: "image"}
+#________________________________Link
+link_component: &link_component                
+  - {required: false, label: "url", name: "url", widget: "string"}
+  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
+  - {required: false, label: "text", name: "text", widget: "string"}
 #________________________ Feature Row
 feature_row: &feature_row
   - *title_field
@@ -30,12 +35,6 @@ feature_row: &feature_row
     name: "link"
     widget: "object"
     fields: *link_component
-
-#________________________________Link
-link_component: &link_component                
-  - {required: false, label: "url", name: "url", widget: "string"}
-  - {required: false, label: "newTab", name: "newTab", widget: "boolean", default: false}
-  - {required: false, label: "text", name: "text", widget: "string"}
 #________________________________Meta
 meta_component: &meta_component
   - {label: "Meta Title", name: "metaTitle", widget: "string"}
