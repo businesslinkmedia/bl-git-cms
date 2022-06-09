@@ -41,6 +41,27 @@
         }
       ],
       "title": "Contact Us"
+    },
+    {
+      "contentSectionType": "featureColumns",
+      "__component": "sections.feature-columns-group",
+      "features": [
+        {
+          "description": "Business Link Media Group\n4056 Dorchester Rd, Suite 203\nNiagara Falls ON L2E 6M9\n",
+          "icon": "/uploads/post_address_svgrepo_com_9309d16970.svg",
+          "title": "Address"
+        },
+        {
+          "description": "+1-905-646-9366",
+          "icon": "/uploads/phone_mono_f9fb1cee06.svg",
+          "title": "Phone"
+        },
+        {
+          "description": "info@businesslinkmedia.com",
+          "icon": "/uploads/email_mono_8c2d7680fa.svg",
+          "title": "Email"
+        }
+      ]
     }
   ],
   "status": "published",
