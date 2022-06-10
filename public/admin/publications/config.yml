@@ -50,6 +50,8 @@ collections:
     format: 'json'
     label: "Publication"
     slug: "{{fields.type}}-{{fields.year}}-{{fields.month}}-{{fields.day}}"
+    sortable_fields: ['type', 'year', 'month']
+    summary: "{{fields.type}}: {{fields.year}}-{{fields.month}}"
     fields:
       - *title_field
       - *metadata_section
