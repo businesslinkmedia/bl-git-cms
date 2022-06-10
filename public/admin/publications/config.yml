@@ -1,0 +1,63 @@
+
+
+###
+### Reusable Fields and Components
+###
+#_________________________ Title
+title_field: &title_field {required: false, label: "title", name: "title", widget: "string"}
+#________________________ Label
+label_field: &label_field {required: false, label: "label", name: "label", widget: "string"}
+#________________________ Publication Type
+publication_type: &publication_type 
+  label: "Type"
+  name: "type"
+  widget: "select"
+  options:
+    - { label: "Business Link", value: "BusinessLink" }
+    - { label: "HWS", value: "HWS" }
+    - { label: "Made In Niagara", value: "MadeInNiagara" }
+    - { label: "40 Under Forty", value: "fortyu40" }
+  default: "BusinessLink"
+#________________________________Meta
+meta_component: &meta_component
+  - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+  - {label: "metaDescription", name: "metaDescription", widget: "text", required: false}
+  - {label: "twitterCardType", name: "twitterCardType", widget: "string", default: "summary", required: false}
+  - {label: "twitterUsername", name: "twitterUsername", widget: "string", required: false}
+  - {label: "shareImage", name: "shareImage", widget: "image", required: false}
+#___________________________________ Metadata Section
+metadata_section: &metadata_section
+  label: "Metadata"
+  name: "metadata"
+  widget: "object"
+  fields: *meta_component
+
+##//////////////////////////////////////////////////////////////////////////////////////////////#
+##//////////////////////////////////////////////////////////////////////////////////////////////#
+##//////////////////////////////////////////////////////////////////////////////////////////////#
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update
+
+logo_url: 'https://www.aviertechnologies.com/assets/avier-logo.png'
+media_folder: "public/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media
+collections:
+  - name: "publication" 
+    create: true
+    folder: "_publications"
+    format: 'json'
+    label: "Publication"
+    slug: "{{fields.type}}-{{fields.year}}-{{fields.month}}-{{fields.day}}"
+    fields:
+      - *title_field
+      - *metadata_section
+      - *publication_type
+      - {label: "Year", name: "year", widget: "number", value_type: "int", min: 2000, max: 2099, default: 2022}
+      - {label: "Month", name: "month", widget: "number", value_type: "int", min: 1, max: 12, default: 1}
+      - {label: "Day", name: "day", widget: "number", value_type: "int", min: 1, max: 31, default: null, required: false}
+      - {label: "url", name: "url", widget: "string"}
+      - {required: false, label: "Status", name: "status", widget: "hidden", default: "published"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "publication", required: false}
+      - {label: "Locale", name: "locale", widget: "hidden", default: "en", required: false}
