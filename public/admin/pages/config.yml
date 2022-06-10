@@ -140,7 +140,7 @@ image_gallery: &image_gallery
       name: "imageWithLink"
       widget: "list"
       fields:
-        - {required: false, label: "imageUrl", name: "imageUrl", widget: "image"}
+        - {required: false, label: "Image", name: "imageUrl", widget: "image"}
         - label: "targetLink"
           name: "targetLink"
           widget: "object"
