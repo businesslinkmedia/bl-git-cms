@@ -1,0 +1,23 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "a-day-of-life",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaTitle": "100 stories",
+    "metaDescription": "100 stories"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [],
+      "description": "100 people from different industries in Hamilton bring their typical days in front of everyone\n",
+      "label": "100 Hamiltoners' true stories",
+      "picture": "/uploads/Infographic_Sample_A_Day_in_the_Life_of_d4a8e4f5d2.jpg",
+      "smallTextWithLink": "Read more"
+    }
+  ],
+  "status": "published",
+  "title": "A Day of Life"
+}
