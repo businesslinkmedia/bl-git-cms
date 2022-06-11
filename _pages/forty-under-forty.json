@@ -1,0 +1,45 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "forty-under-forty",
+  "metadata": {
+    "twitterCardType": "summary",
+    "shareImage": "/uploads/evangeline_shaw_x_Rl_I_L_kvrw_unsplash_7289802d5b.jpg",
+    "metaDescription": "Prestigious 40 Under Forty events held in various geographies",
+    "metaTitle": "40 Under Forty"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "videoLandingPage",
+      "__component": "sections.video-landing-page",
+      "InlineFeatures": [
+        {
+          "description": "/uploads/waterfall_14_svgrepo_com_4977edeb2d.svg",
+          "image": "/uploads/waterfall_14_svgrepo_com_4977edeb2d.svg",
+          "url": "https://businesslinkniagara.com/40-under-forty/",
+          "title": "Niagara Falls"
+        },
+        {
+          "image": "/uploads/vancouver_svgrepo_com_f997a1cb46.svg",
+          "url": "https://businesslinkniagara.com/40-under-forty-vancouver/",
+          "title": "Vancouver"
+        },
+        {
+          "title": "Italy",
+          "image": "/uploads/italy_map_country_land_svgrepo_com_3b6117b4d3.svg",
+          "url": "https://businesslinkniagara.com/40-under-forty-italy/"
+        }
+      ],
+      "videoURLs": [
+        {
+          "newTab": false,
+          "url": "https://user-images.githubusercontent.com/96355795/151877914-5d59134b-9e2a-4d52-97e7-d56c47cd5071.mp4"
+        }
+      ],
+      "title": "40 under Forty",
+      "label": "Nominate your candidate for this prestigious award from around the world"
+    }
+  ],
+  "status": "published",
+  "title": "40 Under Forty"
+}
