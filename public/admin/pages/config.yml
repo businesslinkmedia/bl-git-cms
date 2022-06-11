@@ -51,20 +51,17 @@ metadata_section: &metadata_section
   fields: *meta_component
 #_________________________ Plan Component
 plan_component: &plan_component
-  label: "plan"
-  name: "plan"
-  widget: "object"
-  fields:
-    - *desc_field
-    - label: "features"
-      name: "features"
-      widget: "list"
-      default: []
-      fields:
-        - {label: "name", name: "name", widget: "string"}
-    - {label: "Is recommended?", name: "isRecommended", widget: "boolean", default: false }
-    - {label: "Price", name: "price", widget: "number", value_type: "int" }
-    - {label: "Price Period", name: "pricePeriod", widget: "string"}
+  - {label: "name", name: "name", widget: "string"}
+  - *desc_field
+  - {label: "Price", name: "price", widget: "number", value_type: "int" }
+  - {label: "Price Period", name: "pricePeriod", widget: "string"}
+  - {label: "Is recommended?", name: "isRecommended", widget: "boolean", default: false }
+  - label: "features"
+    name: "features"
+    widget: "list"
+    default: []
+    fields:
+      - {label: "name", name: "name", widget: "string"}
 ##//////////////////////////////////////////////////////////////////////////////////////////////#
 ###
 ### Content Sections
@@ -164,8 +161,7 @@ pricing: &pricing
     - label: "Plans"
       name: "plans"
       widget: "list"
-      fields: 
-        - *plan_component
+      fields: *plan_component
 #_____________________ Rich Text Content Section
 rich_text: &rich_text
   label: "Rich Text"

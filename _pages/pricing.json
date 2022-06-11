@@ -14,23 +14,22 @@
       "title": "Business Link Digital Magazine Promotion Packages",
       "plans": [
         {
-          "plan": {
-            "features": [
-              {
-                "name": "Full page ad with 3 images of choice and logo"
-              },
-              {
-                "name": "Social media advertising and cross promotion"
-              },
-              {
-                "name": "Email marketing"
-              }
-            ],
-            "isRecommended": false,
-            "description": "One month advertising",
-            "price": 500,
-            "pricePeriod": "per month"
-          }
+          "features": [
+            {
+              "name": "Full page ad with 3 images of choice and logo"
+            },
+            {
+              "name": "Social media advertising and cross promotion"
+            },
+            {
+              "name": "Email marketing"
+            }
+          ],
+          "isRecommended": false,
+          "description": "One month advertising",
+          "price": 500,
+          "pricePeriod": "per month",
+          "name": "Guest Member"
         }
       ]
     }
