@@ -1,0 +1,61 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "digital-publications",
+  "metadata": {
+    "twitterCardType": "summary",
+    "shareImage": "/uploads/Screen_Shot_2022_01_08_at_3_34_47_PM_2c0f6a7fc0.png",
+    "metaTitle": "Publications",
+    "metaDescription": "Business Link Media Group offers a variety of publications"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "featureRows",
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://issuu.com/businesslinkmediagroup/docs/bl_nov_2021",
+            "text": "Read more..."
+          },
+          "description": "In this issue, you will read many stories from Niagara community and beyond.\n\n40 Under Forty Hamilton Broadcast Event on November 4th 2021\n\nRelax and Unwind with Neon-soaked Gentle Puzzler from Phantom Compass\n\nThe World Is Yours, Reach Out and Take It\n\nAbstract Bodo and Post Modern NFT Art\n\nProud Achievements Shared in 40 Under Forty Community\n",
+          "image": "/uploads/cover_bodo_03f8325d39.png",
+          "title": "Business Link Publications"
+        },
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://issuu.com/businesslinkmediagroup/docs/hws-01-2020-issuu",
+            "text": "Read more..."
+          },
+          "title": "Health, Wellness, and Safety",
+          "image": "/uploads/Screen_Shot_2022_01_08_at_3_38_06_PM_d5bdc20242.png",
+          "description": "Providing today's health-conscious individuals and professionals with an entertaining\n\nand informative guide to many of today's health and lifestyle issues\n"
+        },
+        {
+          "link": {
+            "newTab": false,
+            "text": "Coming soon...",
+            "url": "#"
+          },
+          "description": "We are typical people living in a typical world and doing typical things.\n\nLet's read about a typical day in the life of 100 people from Hamilton who are from different sectors. \n",
+          "image": "/uploads/Poster_A_Day_in_the_Life_of_604f30a00b.jpg",
+          "title": "A Day of Life (Special Publication)"
+        },
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://issuu.com/businesslinkmediagroup/docs/made_in_niagara_digital_eng-ch-issuu",
+            "text": "Read more..."
+          },
+          "description": "Made In Niagara was promoted in the international arena for businesses in Niagara",
+          "image": "/uploads/Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b.png",
+          "title": "Made In Niagara (Special Publication)"
+        }
+      ]
+    }
+  ],
+  "status": "published",
+  "title": "Digital Publications"
+}
