@@ -17,36 +17,36 @@
       "title": "Business Link Media Group",
       "label": "Your Link to Success",
       "videoURLs": [
-                {
-                    "newTab": false,
-                    "text": "NF rainbow video",
-                    "url": "https://user-images.githubusercontent.com/50277101/126419782-7c68f424-a7b2-49ef-ba31-610941d24ceb.mp4"
-                },
-                {
-                    "newTab": false,
-                    "text": "40u40-16th-cocktail session",
-                    "url": "https://user-images.githubusercontent.com/96355795/149680008-56db04a7-5bb6-455e-b2b0-e454d359eef0.mp4"
-                },
-                {
-                    "newTab": false,
-                    "text": "Award ceremony",
-                    "url": "https://user-images.githubusercontent.com/96355795/149679229-8cedb5e3-7528-46f9-884e-03bc85773b4c.mp4"
-                },
-                {
-                    "newTab": false,
-                    "text": "Hamilton Virtual Event 2021",
-                    "url": "https://user-images.githubusercontent.com/96355795/149674925-7d068ec3-e9ed-4581-b8b0-93493c901525.mp4"
-                },
-                {
-                    "newTab": false,
-                    "text": "VR Opening Remark",
-                    "url": "https://user-images.githubusercontent.com/96355795/149680265-a89d21c6-022c-4327-b1f6-e3801dc02bbe.mp4"
-                },
-                {
-                    "newTab": false,
-                    "text": "NFT-Neptune",
-                    "url": "https://user-images.githubusercontent.com/96355795/150161264-b218468b-2fae-4a77-ad62-b7a8e30b0668.mp4"
-                }
+        {
+          "newTab": false,
+          "text": "NF rainbow video",
+          "url": "https://user-images.githubusercontent.com/50277101/126419782-7c68f424-a7b2-49ef-ba31-610941d24ceb.mp4"
+        },
+        {
+          "newTab": false,
+          "text": "40u40-16th-cocktail session",
+          "url": "https://user-images.githubusercontent.com/96355795/149680008-56db04a7-5bb6-455e-b2b0-e454d359eef0.mp4"
+        },
+        {
+          "newTab": false,
+          "text": "Award ceremony",
+          "url": "https://user-images.githubusercontent.com/96355795/149679229-8cedb5e3-7528-46f9-884e-03bc85773b4c.mp4"
+        },
+        {
+          "newTab": false,
+          "text": "Hamilton Virtual Event 2021",
+          "url": "https://user-images.githubusercontent.com/96355795/149674925-7d068ec3-e9ed-4581-b8b0-93493c901525.mp4"
+        },
+        {
+          "newTab": false,
+          "text": "VR Opening Remark",
+          "url": "https://user-images.githubusercontent.com/96355795/149680265-a89d21c6-022c-4327-b1f6-e3801dc02bbe.mp4"
+        },
+        {
+          "newTab": false,
+          "text": "NFT-Neptune",
+          "url": "https://user-images.githubusercontent.com/96355795/150161264-b218468b-2fae-4a77-ad62-b7a8e30b0668.mp4"
+        }
       ],
       "InlineFeatures": [
         {
@@ -63,7 +63,7 @@
         },
         {
           "image": "/uploads/schedule_events_svgrepo_com_ee6283dd13.svg",
-          "url": "/events-all",
+          "url": "/events",
           "title": "Events",
           "description": "Prestigious 40 Under Forty Business Achievement Awards\n"
         }
@@ -124,118 +124,118 @@
       "contentSectionType": "imageGallery",
       "__component": "sections.image-gallery",
       "imageWithLink": [
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": ".",
-              "url": "/publications/BusinessLink/2022/5"
-            },
-            "imageUrl": "/uploads/May_Cover_8ed72374fb.png"
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": ".",
+            "url": "/publications/BusinessLink/2022/5"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL April 22",
-              "url": "/publications/BusinessLink/2022/4"
-            },
-            "imageUrl": "/uploads/BL_Apr_2022_0405_final_Page_01_b4e5fd7c0c.jpg"
+          "imageUrl": "/uploads/May_Cover_8ed72374fb.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL April 22",
+            "url": "/publications/BusinessLink/2022/4"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL March 2022",
-              "url": "/publications/BusinessLink/2022/3"
-            },
-            "imageUrl": "/uploads/BL_Mar_2022_Page_01_f7b0f7ffb0.jpg"
+          "imageUrl": "/uploads/BL_Apr_2022_0405_final_Page_01_b4e5fd7c0c.jpg"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL March 2022",
+            "url": "/publications/BusinessLink/2022/3"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL February 2022",
-              "url": "/publication/business-link/bl-2022-02"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_09_42_AM_bc3be931e6.png"
+          "imageUrl": "/uploads/BL_Mar_2022_Page_01_f7b0f7ffb0.jpg"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL February 2022",
+            "url": "/publication/business-link/bl-2022-02"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL Feb 2022",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/bl_dec_2021"
-            },
-            "imageUrl": "/uploads/Rockway_a7ccf971ad.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_09_42_AM_bc3be931e6.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL Feb 2022",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/bl_dec_2021"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL November 2021",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/bl_nov_2021"
-            },
-            "imageUrl": "/uploads/cover_bodo_03f8325d39.png"
+          "imageUrl": "/uploads/Rockway_a7ccf971ad.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL November 2021",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/bl_nov_2021"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL December 2019",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/bl_nov_2021"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_14_00_AM_031293a01f.png"
+          "imageUrl": "/uploads/cover_bodo_03f8325d39.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL December 2019",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/bl_nov_2021"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL March 2021",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/bl_mar_2021"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_02_28_AM_2ff17caef8.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_14_00_AM_031293a01f.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL March 2021",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/bl_mar_2021"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "BL July 2021",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/bl_july_2021"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_25_45_AM_17a94ea0eb.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_02_28_AM_2ff17caef8.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "BL July 2021",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/bl_july_2021"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "HWS",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/hws-04-_layout-backup"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_31_55_AM_0ab72a7eda.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_25_45_AM_17a94ea0eb.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "HWS",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/hws-04-_layout-backup"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "Vintage-Wedding",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/vm2016_28digital_29"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_01_08_at_3_44_05_PM_f154fe90fa.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_31_55_AM_0ab72a7eda.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "Vintage-Wedding",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/vm2016_28digital_29"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "Heart of Niagara",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/hon-2017"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_20_13_AM_3cebc043be.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_01_08_at_3_44_05_PM_f154fe90fa.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "Heart of Niagara",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/hon-2017"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "Made in Niagara-2019",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/made_in_niagara_digital_eng-ch-issuu"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b.png"
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_20_13_AM_3cebc043be.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "Made in Niagara-2019",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/made_in_niagara_digital_eng-ch-issuu"
           },
-          {
-            "targetLink": {
-              "newTab": false,
-              "text": "40U40 Event Program 2021",
-              "url": "https://issuu.com/businesslinkmediagroup/docs/the_18th_niagara_40_under_forty_business_achieveme"
-            },
-            "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_28_56_AM_3d567fa59e.png"
-          }
+          "imageUrl": "/uploads/Screen_Shot_2022_01_08_at_3_41_31_PM_6822f6701b.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "text": "40U40 Event Program 2021",
+            "url": "https://issuu.com/businesslinkmediagroup/docs/the_18th_niagara_40_under_forty_business_achieveme"
+          },
+          "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_28_56_AM_3d567fa59e.png"
+        }
       ],
       "ImagesPerLine": 6
     },
