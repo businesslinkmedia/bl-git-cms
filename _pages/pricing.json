@@ -1,0 +1,40 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "pricing",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaTitle": "Pricing",
+    "metaDescription": "Different Pricing Plans"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "pricing",
+      "__component": "sections.pricing",
+      "title": "Business Link Digital Magazine Promotion Packages",
+      "plans": [
+        {
+          "plan": {
+            "features": [
+              {
+                "name": "Full page ad with 3 images of choice and logo"
+              },
+              {
+                "name": "Social media advertising and cross promotion"
+              },
+              {
+                "name": "Email marketing"
+              }
+            ],
+            "isRecommended": false,
+            "description": "One month advertising",
+            "price": 500,
+            "pricePeriod": "per month"
+          }
+        }
+      ]
+    }
+  ],
+  "status": "published",
+  "title": "Pricing"
+}
