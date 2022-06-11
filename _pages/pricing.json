@@ -30,6 +30,66 @@
           "price": 500,
           "pricePeriod": "per month",
           "name": "Guest Member"
+        },
+        {
+          "isRecommended": false,
+          "features": [
+            {
+              "name": "Full page ad with 3 images of choice and logo"
+            },
+            {
+              "name": "Social media marketing"
+            },
+            {
+              "name": "Email marketing"
+            }
+          ],
+          "description": "3 months advertising",
+          "pricePeriod": "3-month",
+          "price": 1351,
+          "name": "Silver Member"
+        },
+        {
+          "isRecommended": false,
+          "features": [
+            {
+              "name": "Full page ad with 3 images of choice and logo"
+            },
+            {
+              "name": "Social media marketing"
+            },
+            {
+              "name": "Email marketing"
+            },
+            {
+              "name": "One 10-second commercial video promotion"
+            }
+          ],
+          "name": "Gold Member",
+          "pricePeriod": "6-month",
+          "price": 2500,
+          "description": "6 months advertising"
+        },
+        {
+          "isRecommended": true,
+          "features": [
+            {
+              "name": "Full page ad with 3 images of choice and logo"
+            },
+            {
+              "name": "Social media marketing"
+            },
+            {
+              "name": "Email marketing"
+            },
+            {
+              "name": "One 30-second free commercial video promotion"
+            }
+          ],
+          "name": "Platinum Member",
+          "description": "12 months advertising",
+          "price": 4500,
+          "pricePeriod": "One Year"
         }
       ]
     }
