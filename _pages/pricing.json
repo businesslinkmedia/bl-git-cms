@@ -92,6 +92,52 @@
           "pricePeriod": "One Year"
         }
       ]
+    },
+    {
+      "contentSectionType": "featureRows",
+      "__component": "sections.feature-rows-group",
+      "features": [
+        {
+          "link": {
+            "newTab": false,
+            "text": "See example",
+            "url": "/publications/BusinessLink/2022/5"
+          },
+          "title": "Cover Story",
+          "image": "/uploads/56_0caad7d641.png",
+          "description": "COVER: Premium Package\n\nCover Image and Story: Premium\n\nCover Image (Image Taken by Professional Photographer)\n\nProfessional Layout Design (with up to six images taken by photographer)\n\nPremium Space in Middle of Magazine\n\nStory (Max 1500 words. Client Interviewed and story professionally written)\n\nUp to five clickable links and one QR code (website and SM platforms)\n\n4 Highlighted Social Posts (Once a week on BLM Platform, 2 on Partner Platforms)\n\nFramed 11 x 17 Image of Cover\n\nCOST: $2,200.00 + HST\n"
+        },
+        {
+          "link": {
+            "newTab": false,
+            "text": "See Examples",
+            "url": "/"
+          },
+          "description": "Full Page + Advertorial\n\nFull page ad with 3 images of choice and logo\n\nProfessional Layout Design (with up to 4 images selected by Client)\n\nPremium Space: End of Magazine / Last Story\n\nAdvertorial written about your business or special event (up to 500 words)\n\n2 clickable link or QR code to website or social platform\n\n2 highlighted social posts on BLM social platform\n\nCOST: $850 + HST ($650 for Ad + $200 Story)\n",
+          "image": "/uploads/inside_cover_re_837f993dfc.png",
+          "title": "Front Inside / Back Inside"
+        },
+        {
+          "link": {
+            "newTab": true,
+            "url": "https://www.youtube.com/watch?v=HtWAU_Wc4fw",
+            "text": "See Business Promotional Video Sample"
+          },
+          "description": "1. Corporate Promotional Videos\n\n2. Social Media Videos\n\n3. Digital Events Productions\n\n4. Animation Video Productions\n\n5. AR/VR Video Productions\n\nContact us for more information on pricing\n",
+          "image": "/uploads/pexels_joseph_redfield_2883160_1_2ff0c50bf2.jpg",
+          "title": "Video Production"
+        },
+        {
+          "link": {
+            "newTab": false,
+            "text": "See details",
+            "url": "/specification"
+          },
+          "title": "Advertising Specification",
+          "image": "/uploads/Picture9_1bf6d4cb8e.png",
+          "description": "Specification for two publications"
+        }
+      ]
     }
   ],
   "status": "published",
