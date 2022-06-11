@@ -1,0 +1,24 @@
+{
+  "layout": "page",
+  "locale": "en",
+  "slug": "specification",
+  "metadata": {
+    "twitterCardType": "summary",
+    "metaTitle": "Specification",
+    "metaDescription": "Publication specification"
+  },
+  "contentSections": [
+    {
+      "contentSectionType": "hero",
+      "__component": "sections.hero",
+      "buttons": [],
+      "title": "Publication Specification",
+      "smallTextWithLink": "Contact us for more information",
+      "picture": "/uploads/Picture11_d19fc3c8a1.png",
+      "label": "For Your Information",
+      "description": "For Business (BL) and Health (HWS) Publications"
+    }
+  ],
+  "status": "published",
+  "title": "Specification"
+}
