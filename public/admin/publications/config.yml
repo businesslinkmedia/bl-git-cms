@@ -38,7 +38,7 @@ metadata_section: &metadata_section
 
 backend:
   name: git-gateway
-  branch: main # Branch to update
+  branch: cms # Branch to update
 
 logo_url: 'https://www.aviertechnologies.com/assets/avier-logo.png'
 media_folder: "public/uploads" # Media files will be stored in the repo under images/uploads
