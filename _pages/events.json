@@ -18,6 +18,12 @@
           "url": "https://businesslinkniagara.com/40-under-forty/",
           "type": "primary",
           "text": "Click here to nominate candidates in Niagara"
+        },
+        {
+          "newTab": false,
+          "url": "/gallery/nf-2022-40u40",
+          "text": "Photo Gallery",
+          "type": "secondary"
         }
       ],
       "label": "19th Annual in 2022",
