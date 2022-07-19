@@ -38,7 +38,8 @@
         {
           "newTab": true,
           "text": "Click here to nominate candidates in Hamilton",
-          "type": "secondary"
+          "type": "secondary",
+          "url": "https://businesslinkhamilton.com/40-under-forty/"
         }
       ],
       "label": "9th Annual in 2022",
