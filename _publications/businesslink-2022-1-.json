@@ -1,10 +1,11 @@
 {
   "month": 7,
   "layout": "publication",
-  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/0720BL_Jul_2022%20REDUCED.pdf",
+  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/0720BL_Jul_2022_REDUCED.pdf",
   "metadata": {
     "twitterCardType": "summary",
-    "shareImage": "/uploads/july-publication-2022.jpg"
+    "shareImage": "/uploads/july-publication-2022.jpg",
+    "metaTitle": "Business Link Magazine - July 2022 Edition"
   },
   "status": "published",
   "title": "Business Link Magazine - July 2022 Edition",
