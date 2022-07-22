@@ -127,6 +127,14 @@
         {
           "targetLink": {
             "newTab": false,
+            "url": "/BusinessLink/2022_N_40u40_event_program.pdf",
+            "text": "2022 Event Program"
+          },
+          "imageUrl": "/uploads/download.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
             "url": "/publications/BusinessLink/2022/6"
           },
           "imageUrl": "/uploads/june_78f91b4dca.png"
