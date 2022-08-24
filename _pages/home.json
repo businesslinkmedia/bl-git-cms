@@ -127,6 +127,22 @@
         {
           "targetLink": {
             "newTab": false,
+            "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/8",
+            "text": "BL August 2022"
+          },
+          "imageUrl": "/uploads/bl-2022-08_thumbnail.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/7",
+            "text": "BL July 2022"
+          },
+          "imageUrl": "/uploads/july-publication-2022.jpg"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
             "url": "/publications/fortyu40/2022/7",
             "text": "2022 Event Program"
           },
