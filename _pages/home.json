@@ -85,12 +85,12 @@
         {
           "link": {
             "newTab": false,
-            "url": "/publications/BusinessLink/2022/8",
-            "text": "Read our August issue online"
+            "url": "/publications/BusinessLink/2022/10",
+            "text": "Read our October issue online"
           },
           "title": "About Us",
           "description": "Founded in 2003, Business Link Media Group has been an industry leader in the publishing of B2B direct mail newspapers, magazines, specialty publications, and event programs, as well as marketing through social media and online platforms.\n\nIn 2020 Business Link added digital multi-media marketing services including Blockchain solutions, NFTs, Cryptos, Web3.0, DAOs (Decentralized Autonomous Organization), and Metaverse.\n\nOur traditional and modern media platforms are designed to educate, inform, and connect your organization with the stakeholders that matter to you. Our multitude of resources and networks give your business the opportunity to promote locally achieve global exposure.\n",
-          "image": "/uploads/aug.png"
+          "image": "/uploads/dan-moody_thumbnail.png"
         },
         {
           "link": {
@@ -266,6 +266,14 @@
             "url": "https://issuu.com/businesslinkmediagroup/docs/the_18th_niagara_40_under_forty_business_achieveme"
           },
           "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_28_56_AM_3d567fa59e.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
+            "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/10",
+            "text": "BL October 2022"
+          },
+          "imageUrl": "/uploads/dan-moody_thumbnail.png"
         }
       ],
       "ImagesPerLine": 6
