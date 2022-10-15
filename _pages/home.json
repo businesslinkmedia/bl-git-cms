@@ -127,6 +127,14 @@
         {
           "targetLink": {
             "newTab": false,
+            "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/10",
+            "text": "BL October 2022"
+          },
+          "imageUrl": "/uploads/dan-moody_thumbnail.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
             "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/8",
             "text": "BL August 2022"
           },
@@ -266,14 +274,6 @@
             "url": "https://issuu.com/businesslinkmediagroup/docs/the_18th_niagara_40_under_forty_business_achieveme"
           },
           "imageUrl": "/uploads/Screen_Shot_2022_04_04_at_6_28_56_AM_3d567fa59e.png"
-        },
-        {
-          "targetLink": {
-            "newTab": false,
-            "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/10",
-            "text": "BL October 2022"
-          },
-          "imageUrl": "/uploads/dan-moody_thumbnail.png"
         }
       ],
       "ImagesPerLine": 6
