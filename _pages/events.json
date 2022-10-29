@@ -38,8 +38,14 @@
         {
           "newTab": true,
           "text": "Click here to nominate candidates in Hamilton",
-          "type": "secondary",
+          "type": "primary",
           "url": "https://businesslinkhamilton.com/40-under-forty/"
+        },
+        {
+          "newTab": false,
+          "url": "/gallery/hamilton-2022-40u40",
+          "type": "secondary",
+          "text": "2022 Hamilton 40u40 Gala Photo Gallery"
         }
       ],
       "label": "9TH Annual in 2022",
