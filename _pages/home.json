@@ -127,6 +127,14 @@
         {
           "targetLink": {
             "newTab": false,
+            "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/11",
+            "text": "BL NOVEMBER 202222"
+          },
+          "imageUrl": "/uploads/bl_cover_november2022_thumbnail.png"
+        },
+        {
+          "targetLink": {
+            "newTab": false,
             "url": "https://www.businesslinkmedia.com/publications/BusinessLink/2022/10",
             "text": "BL October 2022"
           },
