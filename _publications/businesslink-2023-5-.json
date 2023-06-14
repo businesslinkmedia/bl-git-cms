@@ -1,14 +1,15 @@
 {
-  "month": 5,
+  "month": 6,
   "layout": "publication",
-  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2023/BL_APRIL_2023_V5.pdf",
+  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2023/BL-2023-06-June.pdf",
   "metadata": {
     "twitterCardType": "summary",
-    "shareImage": "/uploads/small_Screen_Shot_2022_01_08_at_3_34_47_PM_bdee7f7e34.png",
-    "metaTitle": "Business Link Magazine - May 2023 Edition"
+    "shareImage": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2023/BL-Cover-2023-06-June_thumbnail.png",
+    "metaTitle": "Business Link Magazine - June 2023 Edition",
+    "twitterUsername": ""
   },
   "status": "published",
-  "title": "Business Link Magazine - May 2023 Edition",
+  "title": "Business Link Magazine - June 2023 Edition",
   "locale": "en",
   "type": "BusinessLink",
   "day": "",
