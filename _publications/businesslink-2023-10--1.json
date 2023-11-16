@@ -1,15 +1,15 @@
 {
-  "month": 10,
+  "month": 11,
   "layout": "publication",
-  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2023/BL_Oct_2023.pdf",
+  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2023/BL_2023-11-November.pdf",
   "metadata": {
     "twitterCardType": "summary",
     "shareImage": "/uploads/oct-thumbnail.png",
-    "metaTitle": "Business Link Magazine - October 2023 Edition",
+    "metaTitle": "Business Link Magazine - November 2023 Edition",
     "twitterUsername": "thebusinesslink"
   },
   "status": "published",
-  "title": "Business Link Magazine - October 2023 Edition",
+  "title": "Business Link Magazine - November 2023 Edition",
   "locale": "en",
   "type": "BusinessLink",
   "day": "",
