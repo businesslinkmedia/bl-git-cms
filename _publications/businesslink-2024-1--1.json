@@ -1,11 +1,13 @@
 {
   "month": 1,
   "layout": "publication",
-  "url": "https://",
+  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2024/BL_2024-01-January.pdf",
   "metadata": {
     "twitterCardType": "summary",
     "metaTitle": "Business Link Magazine - January 2024 Edition",
-    "metaDescription": "Business Link Magazine - January 2024 Edition"
+    "metaDescription": "Business Link Magazine - January 2024 Edition",
+    "twitterUsername": "thebusinesslink",
+    "shareImage": "/uploads/covers_a07b7a2798.png"
   },
   "status": "published",
   "title": "Business Link Magazine - January 2024 Edition",
