@@ -1,18 +1,18 @@
 {
-  "title": "Business Link Magazine - November2017 Edition",
+  "month": 11,
+  "layout": "publication",
+  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/2023/AITF-2017.pdf",
   "metadata": {
-    "metaTitle": "Business Link Magazine - November2017 Edition",
+    "metaTitle": "All in the Family-2017",
     "metaDescription": ".",
     "twitterCardType": "summary",
     "twitterUsername": "",
-    "shareImage": null
+    "shareImage": "/uploads/aitf-2017-cover.png"
   },
-  "type": "BusinessLink",
-  "year": 2017,
-  "month": 11,
-  "day": null,
-  "url": "https://raw.githubusercontent.com/businesslinkmedia/publications/main/BusinessLink/BLN-NOVEMBER-digital.pdf",
   "status": "publised",
-  "layout": "publication",
-  "locale": "en"
+  "title": "All in the Family-2017",
+  "locale": "en",
+  "type": "BusinessLink",
+  "day": 1,
+  "year": 2017
 }
