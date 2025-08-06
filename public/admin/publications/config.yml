@@ -17,6 +17,9 @@ publication_type: &publication_type
     - { label: "HWS", value: "HWS" }
     - { label: "Made In Niagara", value: "MadeInNiagara" }
     - { label: "40 Under Forty", value: "fortyu40" }
+    - { label: "Heart of Niagara", value: "HeartOfNiagara" }
+    - { label: "Specialty Publications", value: "SpecialtyPublications" }
+    - { label: "Other", value: "Other" }
   default: "BusinessLink"
 #________________________________Meta
 meta_component: &meta_component
